@@ -1,0 +1,87 @@
+{
+  "activate": "Aktywuj",
+  "activated": "Motyw Atom Material Icons jest aktywny.",
+  "arrowThemes": {
+    "arrow": "Ikony strzałek",
+    "material": "Ikony Material",
+    "none": "Bez ikon",
+    "pickTheme": "Wybierz styl strzałek",
+    "plusMinus": "Ikony Plus-Minus",
+    "triangle": "Ikony trójkątów"
+  },
+  "arrows": "Strzały",
+  "classic": "Klasyczne",
+  "confirmReload": "Musisz zrestartować VS Code, aby uaktywnić zmiany ikon.",
+  "custom": "Niestandardowy",
+  "customOpacity": "Wprowadź niestandardową wartość nieprzezroczystości",
+  "customSaturation": "Wprowadź niestandardową wartość nasycenia",
+  "desaturated": "Desaturacja",
+  "explorerArrows": {
+    "disable": "Schowaj strzałki przy folderach",
+    "enable": "Pokaż strzałki przy folderach",
+    "toggle": "Przełącz strzałki przy folderach"
+  },
+  "folderThemes": {
+    "classicFolders": "Wybierz klasyczne ikony folderów",
+    "noFolders": "Brak ikon folderów",
+    "specificFolders": "Wybierz ikony folderów"
+  },
+  "folders": {
+    "color": "Wybierz kolor folderów",
+    "disabled": "Brak ikon folderów",
+    "hexCode": "Podaj kolor w formacie HEX",
+    "theme": {
+      "description": "Wybierz motyw folderu '{{name}}' ({{color}})"
+    },
+    "toggleIcons": "Wybierz motyw folderów",
+    "wrongHexCode": "Nieprawidłowy kolor HEX!"
+  },
+  "grayscale": {
+    "disable": "Wyłącz czarno-białe ikony",
+    "enable": "Włącz czarno-białe ikony",
+    "toggle": "Przełącz czarno-białe ikony"
+  },
+  "grayscales": "Czarno-białe",
+  "howToActivate": "Jak aktywować ikony",
+  "iconPacks": {
+    "description": "Wybierz paczkę ikon '{{name}}'",
+    "disabled": "Wyłącz paczki ikon",
+    "selectPack": "Wybierz paczkę ikon"
+  },
+  "material": "Materiał",
+  "neverShowAgain": "Nigdy więcej nie pokazuj",
+  "none": "Bez",
+  "opacity": {
+    "inputPlaceholder": "Wartość przezroczystości (pomiędzy 0 a 1)",
+    "opaque": "Ustaw ikony jako nieprzezroczyste",
+    "semiTransparent": "Uczyń ikony półprzezroczystymi",
+    "transparent": "Uczyń ikony przezroczystymi",
+    "wrongValue": "Wartość musi być pomiędzy 0 i 1!"
+  },
+  "opaque": "Nieprzezroczysty",
+  "outdatedVersion": "Musisz zaktualizować VS Code, aby użyć tej komendy.",
+  "plusMinus": "Plus-Minus",
+  "readChangelog": "Przeczytaj listę zmian",
+  "reload": "Restartuj",
+  "saturation": {
+    "desaturated": "Uczyń ikony desaturacji (około 70% nasycenia)",
+    "grayscale": "Ustaw ikony w skali szarości (nasycenie 0%)",
+    "inputPlaceholder": "Wartość nasycenia (pomiędzy 0 a 1)",
+    "vivid": "Uczyń ikony żywymi (nasycenie 100%)",
+    "wrongValue": "Wartość musi być pomiędzy 0 i 1!"
+  },
+  "selectOpacity": "Wybierz wartość nieprzezroczystości",
+  "selectSaturation": "Wybierz opcję nasycenia",
+  "semiTransparent": "Półprzezroczysty",
+  "specific": "Określony",
+  "themeInstalled": "Motyw Atom Material Icons został zainstalowany.",
+  "themeUpdated": "Motyw Atom Material Icons został zaktualizowany.",
+  "toggleSwitch": {
+    "off": "WYŁĄCZONE",
+    "on": "WŁĄCZONE"
+  },
+  "transparent": "Przezroczysty",
+  "triangle": "Trójkąty",
+  "updateVSCode": "Zaktualizuj VS Code",
+  "vivid": "Żywe kolory"
+}

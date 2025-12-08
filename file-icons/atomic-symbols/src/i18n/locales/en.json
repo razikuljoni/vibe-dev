@@ -1,0 +1,87 @@
+{
+  "activate": "Activate",
+  "activated": "Atom Material Icons is active.",
+  "arrowThemes": {
+    "arrow": "Arrow Icons",
+    "material": "Material Icons",
+    "none": "No Arrows",
+    "pickTheme": "Select the style of arrows",
+    "plusMinus": "Plus-Minus Icons",
+    "triangle": "Triangle Icons"
+  },
+  "arrows": "Arrows",
+  "classic": "Classic",
+  "confirmReload": "You have to restart VS Code to activate the changes to the icons.",
+  "custom": "Custom",
+  "customOpacity": "Enter a custom opacity value",
+  "customSaturation": "Enter a custom saturation value",
+  "desaturated": "Desaturated",
+  "explorerArrows": {
+    "disable": "Hide folder arrows",
+    "enable": "Show folder arrows",
+    "toggle": "Toggle folder arrows"
+  },
+  "folderThemes": {
+    "classicFolders": "Select classic folders icons",
+    "noFolders": "No folder icons",
+    "specificFolders": "Select specific folder icons"
+  },
+  "folders": {
+    "color": "Choose a folder color",
+    "disabled": "No folder icons",
+    "hexCode": "Insert a HEX color code",
+    "theme": {
+      "description": "Select the '{{name}}' folder theme ({{color}})"
+    },
+    "toggleIcons": "Pick a folder theme",
+    "wrongHexCode": "Invalid HEX color code!"
+  },
+  "grayscale": {
+    "disable": "Disable monochromatic icons",
+    "enable": "Enable monochromatic icons",
+    "toggle": "Toggle monochromatic icons"
+  },
+  "grayscales": "Grayscale",
+  "howToActivate": "How to activate icons",
+  "iconPacks": {
+    "description": "Select the '{{name}}' icon pack",
+    "disabled": "Disable icon packs",
+    "selectPack": "Select an icon pack"
+  },
+  "material": "Material",
+  "neverShowAgain": "Never show again",
+  "none": "None",
+  "opacity": {
+    "inputPlaceholder": "Opacity value (between 0 and 1)",
+    "opaque": "Make icons opaque",
+    "semiTransparent": "Make icons semi-transparent",
+    "transparent": "Make icons transparent",
+    "wrongValue": "The value must be between 0 and 1!"
+  },
+  "opaque": "Opaque",
+  "outdatedVersion": "You have to update VS Code to use this command.",
+  "plusMinus": "Plus-Minus",
+  "readChangelog": "Read changelog",
+  "reload": "Restart",
+  "saturation": {
+    "desaturated": "Make icons desaturated (about 70% saturation)",
+    "grayscale": "Make icons grayscale (0% saturation)",
+    "inputPlaceholder": "Saturation value (between 0 and 1)",
+    "vivid": "Make icons vivid (100% saturation)",
+    "wrongValue": "The value must be between 0 and 1!"
+  },
+  "selectOpacity": "Select an opacity value",
+  "selectSaturation": "Select a saturation option",
+  "semiTransparent": "Semi-Transparent",
+  "specific": "Specific",
+  "themeInstalled": "Atom Material Icons has been installed.",
+  "themeUpdated": "Atom Material Icons has been updated.",
+  "toggleSwitch": {
+    "off": "OFF",
+    "on": "ON"
+  },
+  "transparent": "Transparent",
+  "triangle": "Triangles",
+  "updateVSCode": "Update VS Code",
+  "vivid": "Vivid Colors"
+}

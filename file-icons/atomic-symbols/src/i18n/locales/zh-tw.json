@@ -1,0 +1,87 @@
+{
+  "activate": "激活",
+  "activated": "Atom Material Icons 主題圖標已激活",
+  "arrowThemes": {
+    "arrow": "箭頭圖示",
+    "material": "材質圖示",
+    "none": "無圖示",
+    "pickTheme": "選擇箭頭的樣式",
+    "plusMinus": "加減號圖示",
+    "triangle": "三角形圖示"
+  },
+  "arrows": "箭頭",
+  "classic": "典文",
+  "confirmReload": "你必須重啟VS Code來應用對圖標的更改",
+  "custom": "自定義",
+  "customOpacity": "輸入自定義不透明度值",
+  "customSaturation": "輸入自定義飽和度值",
+  "desaturated": "不飽和",
+  "explorerArrows": {
+    "disable": "隱藏文件夾箭頭",
+    "enable": "顯示文件夾箭頭",
+    "toggle": "切換文件夾箭頭"
+  },
+  "folderThemes": {
+    "classicFolders": "選擇經典文件夾圖標",
+    "noFolders": "沒有文件夾圖標",
+    "specificFolders": "選擇特定文件夾圖標"
+  },
+  "folders": {
+    "color": "選擇一個文件夾顏色",
+    "disabled": "不顯示文件夾圖標",
+    "hexCode": "插入HEX顏色代碼",
+    "theme": {
+      "description": "選擇文件夾主題'{{name}}' ({{color}})"
+    },
+    "toggleIcons": "切換文件夾圖標的顯示",
+    "wrongHexCode": "無效的HEX顏色代碼！"
+  },
+  "grayscale": {
+    "disable": "禁用灰度圖標",
+    "enable": "啟用灰度圖標",
+    "toggle": "切換灰度圖標"
+  },
+  "grayscales": "灰度",
+  "howToActivate": "如何激活圖標",
+  "iconPacks": {
+    "description": "選擇％0符號",
+    "disabled": "禁用圖標包",
+    "selectPack": "選擇圖標包"
+  },
+  "material": "材料",
+  "neverShowAgain": "不再顯示",
+  "none": "沒有",
+  "opacity": {
+    "inputPlaceholder": "不透明度值（0和1之間）",
+    "opaque": "使圖示不透明",
+    "semiTransparent": "使圖示半透明",
+    "transparent": "使圖示透明",
+    "wrongValue": "該值必須介於0和1之間！"
+  },
+  "opaque": "不透明",
+  "outdatedVersion": "你必須更新VS Code才能使用該命令",
+  "plusMinus": "加減號",
+  "readChangelog": "閲讀更新日志",
+  "reload": "重啟",
+  "saturation": {
+    "desaturated": "使圖示不飽和（約70%飽和度）",
+    "grayscale": "使圖示灰度（0% 飽與度）",
+    "inputPlaceholder": "飽和度值（在0和1之間）。",
+    "vivid": "使圖示生動（100% 飽和度）",
+    "wrongValue": "該值必須在0和1之間!"
+  },
+  "selectOpacity": "選擇不透明度值",
+  "selectSaturation": "選擇飽和度選項",
+  "semiTransparent": "半透明",
+  "specific": "特定",
+  "themeInstalled": "Atom Material Icons 主題圖標已安裝",
+  "themeUpdated": "Atom Material Icons 主題圖標已更新",
+  "toggleSwitch": {
+    "off": "OFF",
+    "on": "ON"
+  },
+  "transparent": "透明",
+  "triangle": "三角形",
+  "updateVSCode": "更新VS Code",
+  "vivid": "鮮豔的色彩"
+}

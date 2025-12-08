@@ -1,0 +1,270 @@
+{
+    "Arrow Function": {
+        "prefix": "af",
+        "body": ["const ${1:functionName} = (${2:params}) => {", "  $0", "};"],
+        "description": "Create an arrow function"
+    },
+    "Arrow Function (one line)": {
+        "prefix": "afl",
+        "body": ["const ${1:functionName} = (${2:params}) => $0;"],
+        "description": "Create a one-line arrow function"
+    },
+    "Async Arrow Function": {
+        "prefix": "aaf",
+        "body": [
+            "const ${1:functionName} = async (${2:params}) => {",
+            "  $0",
+            "};"
+        ],
+        "description": "Create an async arrow function"
+    },
+    "Regular Function": {
+        "prefix": "fn",
+        "body": ["function ${1:functionName}(${2:params}) {", "  $0", "}"],
+        "description": "Create a regular function"
+    },
+    "Async Function": {
+        "prefix": "afn",
+        "body": [
+            "async function ${1:functionName}(${2:params}) {",
+            "  $0",
+            "}"
+        ],
+        "description": "Create an async function"
+    },
+    "Immediately Invoked Function Expression": {
+        "prefix": "iife",
+        "body": ["(function() {", "  $0", "})();"],
+        "description": "Create an IIFE"
+    },
+    "Try Catch Block": {
+        "prefix": "tryc",
+        "body": [
+            "try {",
+            "  $1",
+            "} catch (${2:error}) {",
+            "  console.error(${2:error});",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a try-catch block"
+    },
+    "Try Catch Finally": {
+        "prefix": "trycf",
+        "body": [
+            "try {",
+            "  $1",
+            "} catch (${2:error}) {",
+            "  console.error(${2:error});",
+            "  $3",
+            "} finally {",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a try-catch-finally block"
+    },
+    "Promise": {
+        "prefix": "prom",
+        "body": ["new Promise((resolve, reject) => {", "  $0", "});"],
+        "description": "Create a new Promise"
+    },
+    "Promise with then catch": {
+        "prefix": "promtc",
+        "body": [
+            "${1:promise}",
+            "  .then((${2:result}) => {",
+            "    $3",
+            "  })",
+            "  .catch((${4:error}) => {",
+            "    console.error(${4:error});",
+            "    $0",
+            "  });"
+        ],
+        "description": "Promise with then and catch"
+    },
+    "Async Await": {
+        "prefix": "awa",
+        "body": [
+            "try {",
+            "  const ${1:result} = await ${2:promise};",
+            "  $0",
+            "} catch (${3:error}) {",
+            "  console.error(${3:error});",
+            "}"
+        ],
+        "description": "Async await with try-catch"
+    },
+    "setTimeout": {
+        "prefix": "sto",
+        "body": ["setTimeout(() => {", "  $0", "}, ${1:1000});"],
+        "description": "Create setTimeout"
+    },
+    "setInterval": {
+        "prefix": "sin",
+        "body": [
+            "const ${1:intervalId} = setInterval(() => {",
+            "  $0",
+            "}, ${2:1000});"
+        ],
+        "description": "Create setInterval"
+    },
+    "Console Log": {
+        "prefix": "cl",
+        "body": ["console.log($0);"],
+        "description": "Console log"
+    },
+    "Console Error": {
+        "prefix": "ce",
+        "body": ["console.error($0);"],
+        "description": "Console error"
+    },
+    "Console Warn": {
+        "prefix": "cw",
+        "body": ["console.warn($0);"],
+        "description": "Console warn"
+    },
+    "Console Table": {
+        "prefix": "ct",
+        "body": ["console.table($0);"],
+        "description": "Console table"
+    },
+    "Destructuring Assignment (Array)": {
+        "prefix": "desa",
+        "body": ["const [${1:first}, ${2:second}] = ${0:array};"],
+        "description": "Array destructuring assignment"
+    },
+    "Destructuring Assignment (Object)": {
+        "prefix": "deso",
+        "body": ["const { ${1:property} } = ${0:object};"],
+        "description": "Object destructuring assignment"
+    },
+    "For Loop": {
+        "prefix": "flo",
+        "body": [
+            "for (let ${1:i} = 0; ${1:i} < ${2:array}.length; ${1:i}++) {",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a for loop"
+    },
+    "For...of Loop": {
+        "prefix": "fof",
+        "body": ["for (const ${1:item} of ${2:array}) {", "  $0", "}"],
+        "description": "Create a for...of loop"
+    },
+    "For...in Loop": {
+        "prefix": "fin",
+        "body": ["for (const ${1:key} in ${2:object}) {", "  $0", "}"],
+        "description": "Create a for...in loop"
+    },
+    "Array forEach": {
+        "prefix": "fe",
+        "body": ["${1:array}.forEach((${2:item}) => {", "  $0", "});"],
+        "description": "Array forEach method"
+    },
+    "Array map": {
+        "prefix": "map",
+        "body": ["${1:array}.map((${2:item}) => {", "  return $0;", "});"],
+        "description": "Array map method"
+    },
+    "Array filter": {
+        "prefix": "filter",
+        "body": ["${1:array}.filter((${2:item}) => {", "  return $0;", "});"],
+        "description": "Array filter method"
+    },
+    "Array reduce": {
+        "prefix": "reduce",
+        "body": [
+            "${1:array}.reduce((${2:acc}, ${3:item}) => {",
+            "  return $0;",
+            "}, ${4:initialValue});"
+        ],
+        "description": "Array reduce method"
+    },
+    "Array find": {
+        "prefix": "find",
+        "body": ["${1:array}.find((${2:item}) => {", "  return $0;", "});"],
+        "description": "Array find method"
+    },
+    "Object.keys": {
+        "prefix": "okeys",
+        "body": ["Object.keys(${1:object})"],
+        "description": "Object.keys method"
+    },
+    "Object.values": {
+        "prefix": "ovalues",
+        "body": ["Object.values(${1:object})"],
+        "description": "Object.values method"
+    },
+    "Object.entries": {
+        "prefix": "oentries",
+        "body": ["Object.entries(${1:object})"],
+        "description": "Object.entries method"
+    },
+    "JSON.stringify": {
+        "prefix": "jstr",
+        "body": ["JSON.stringify(${1:object})"],
+        "description": "JSON.stringify"
+    },
+    "JSON.parse": {
+        "prefix": "jpar",
+        "body": ["JSON.parse(${1:string})"],
+        "description": "JSON.parse"
+    },
+    "Class": {
+        "prefix": "cls",
+        "body": [
+            "class ${1:ClassName} {",
+            "  constructor(${2:params}) {",
+            "    $3",
+            "  }",
+            "",
+            "  ${4:methodName}() {",
+            "    $0",
+            "  }",
+            "}"
+        ],
+        "description": "Create a class"
+    },
+    "Class with extends": {
+        "prefix": "clsx",
+        "body": [
+            "class ${1:ClassName} extends ${2:ParentClass} {",
+            "  constructor(${3:params}) {",
+            "    super(${4:superParams});",
+            "    $5",
+            "  }",
+            "",
+            "  ${6:methodName}() {",
+            "    $0",
+            "  }",
+            "}"
+        ],
+        "description": "Create a class with inheritance"
+    },
+    "Export Default": {
+        "prefix": "exd",
+        "body": ["export default ${0:name};"],
+        "description": "Export default"
+    },
+    "Export Named": {
+        "prefix": "exn",
+        "body": ["export { ${0:name} };"],
+        "description": "Export named"
+    },
+    "Import Default": {
+        "prefix": "imd",
+        "body": ["import ${1:name} from '${0:module}';"],
+        "description": "Import default"
+    },
+    "Import Named": {
+        "prefix": "imn",
+        "body": ["import { ${1:name} } from '${0:module}';"],
+        "description": "Import named"
+    },
+    "Import All": {
+        "prefix": "ima",
+        "body": ["import * as ${1:name} from '${0:module}';"],
+        "description": "Import all as namespace"
+    }
+}

@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Build outputs
+*.vsix
+dist/
+out/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Extension development
+vibe-dev-tools-*.vsix

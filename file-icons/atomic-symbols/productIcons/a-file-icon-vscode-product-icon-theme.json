@@ -1,0 +1,8732 @@
+{
+  "fonts": [
+    {
+      "id": "a-file-icon-vscode",
+      "src": [
+        {
+          "format": "woff",
+          "path": "./a-file-icon-vscode.woff"
+        }
+      ],
+      "style": "normal",
+      "weight": "normal"
+    }
+  ],
+  "iconDefinitions": {
+    "file_11ty": {
+      "fontCharacter": "\\ea00"
+    },
+    "file_11ty_dark": {
+      "fontCharacter": "\\ea01"
+    },
+    "file_1c": {
+      "fontCharacter": "\\ea02"
+    },
+    "file_3d": {
+      "fontCharacter": "\\ea03"
+    },
+    "file_3dmodel": {
+      "fontCharacter": "\\ea04"
+    },
+    "file_3dsmax": {
+      "fontCharacter": "\\ea05"
+    },
+    "file_4d": {
+      "fontCharacter": "\\ea06"
+    },
+    "file_abap": {
+      "fontCharacter": "\\ea07"
+    },
+    "file_abc": {
+      "fontCharacter": "\\ea08"
+    },
+    "file_abell": {
+      "fontCharacter": "\\ea09"
+    },
+    "file_abif": {
+      "fontCharacter": "\\ea0a"
+    },
+    "file_access": {
+      "fontCharacter": "\\ea0b"
+    },
+    "file_acre": {
+      "fontCharacter": "\\ea0c"
+    },
+    "file_act": {
+      "fontCharacter": "\\ea0d"
+    },
+    "file_actionscript": {
+      "fontCharacter": "\\ea0e"
+    },
+    "file_ada": {
+      "fontCharacter": "\\ea0f"
+    },
+    "file_adonis": {
+      "fontCharacter": "\\ea10"
+    },
+    "file_advpl": {
+      "fontCharacter": "\\ea11"
+    },
+    "file_ae": {
+      "fontCharacter": "\\ea12"
+    },
+    "file_affectscript": {
+      "fontCharacter": "\\ea13"
+    },
+    "file_affinity": {
+      "fontCharacter": "\\ea14"
+    },
+    "file_agda": {
+      "fontCharacter": "\\ea15"
+    },
+    "file_ahk": {
+      "fontCharacter": "\\ea16"
+    },
+    "file_ai": {
+      "fontCharacter": "\\ea17"
+    },
+    "file_akka": {
+      "fontCharacter": "\\ea18"
+    },
+    "file_al": {
+      "fontCharacter": "\\ea19"
+    },
+    "file_alacritty": {
+      "fontCharacter": "\\ea1a"
+    },
+    "file_alex": {
+      "fontCharacter": "\\ea1b"
+    },
+    "file_alexignore": {
+      "fontCharacter": "\\ea1c"
+    },
+    "file_alfred": {
+      "fontCharacter": "\\ea1d"
+    },
+    "file_allcontributors": {
+      "fontCharacter": "\\ea1e"
+    },
+    "file_alloy": {
+      "fontCharacter": "\\ea1f"
+    },
+    "file_alpine": {
+      "fontCharacter": "\\ea20"
+    },
+    "file_amigaos": {
+      "fontCharacter": "\\ea21"
+    },
+    "file_ampl": {
+      "fontCharacter": "\\ea22"
+    },
+    "file_amplication": {
+      "fontCharacter": "\\ea23"
+    },
+    "file_amplify": {
+      "fontCharacter": "\\ea24"
+    },
+    "file_amusewiki": {
+      "fontCharacter": "\\ea25"
+    },
+    "file_analytica": {
+      "fontCharacter": "\\ea26"
+    },
+    "file_android": {
+      "fontCharacter": "\\ea27"
+    },
+    "file_androidManifest": {
+      "fontCharacter": "\\ea28"
+    },
+    "file_androidSmali": {
+      "fontCharacter": "\\ea29"
+    },
+    "file_angelscript": {
+      "fontCharacter": "\\ea2a"
+    },
+    "file_angular": {
+      "fontCharacter": "\\ea2b"
+    },
+    "file_angular2": {
+      "fontCharacter": "\\ea2c"
+    },
+    "file_angular2component": {
+      "fontCharacter": "\\ea2d"
+    },
+    "file_angular2controller": {
+      "fontCharacter": "\\ea2e"
+    },
+    "file_angular2directive": {
+      "fontCharacter": "\\ea2f"
+    },
+    "file_angular2guard": {
+      "fontCharacter": "\\ea30"
+    },
+    "file_angular2interceptor": {
+      "fontCharacter": "\\ea31"
+    },
+    "file_angular2module": {
+      "fontCharacter": "\\ea32"
+    },
+    "file_angular2pipe": {
+      "fontCharacter": "\\ea33"
+    },
+    "file_angular2resolver": {
+      "fontCharacter": "\\ea34"
+    },
+    "file_angular2service": {
+      "fontCharacter": "\\ea35"
+    },
+    "file_angularCli": {
+      "fontCharacter": "\\ea36"
+    },
+    "file_angularapprouting": {
+      "fontCharacter": "\\ea37"
+    },
+    "file_angularcomponent": {
+      "fontCharacter": "\\ea38"
+    },
+    "file_angularcontroller": {
+      "fontCharacter": "\\ea39"
+    },
+    "file_angulardirective": {
+      "fontCharacter": "\\ea3a"
+    },
+    "file_angularguard": {
+      "fontCharacter": "\\ea3b"
+    },
+    "file_angularinterceptor": {
+      "fontCharacter": "\\ea3c"
+    },
+    "file_angularjs": {
+      "fontCharacter": "\\ea3d"
+    },
+    "file_angularmodule": {
+      "fontCharacter": "\\ea3e"
+    },
+    "file_angularpipe": {
+      "fontCharacter": "\\ea3f"
+    },
+    "file_angularresolver": {
+      "fontCharacter": "\\ea40"
+    },
+    "file_angularrouting": {
+      "fontCharacter": "\\ea41"
+    },
+    "file_angularservice": {
+      "fontCharacter": "\\ea42"
+    },
+    "file_angulartailwind": {
+      "fontCharacter": "\\ea43"
+    },
+    "file_animate": {
+      "fontCharacter": "\\ea44"
+    },
+    "file_animestudio": {
+      "fontCharacter": "\\ea45"
+    },
+    "file_ansible": {
+      "fontCharacter": "\\ea46"
+    },
+    "file_ansiblefiles": {
+      "fontCharacter": "\\ea47"
+    },
+    "file_ant": {
+      "fontCharacter": "\\ea48"
+    },
+    "file_antlers": {
+      "fontCharacter": "\\ea49"
+    },
+    "file_antlr": {
+      "fontCharacter": "\\ea4a"
+    },
+    "file_antwar": {
+      "fontCharacter": "\\ea4b"
+    },
+    "file_any": {
+      "fontCharacter": "\\ea4c"
+    },
+    "file_apache": {
+      "fontCharacter": "\\ea4d"
+    },
+    "file_apacheconf": {
+      "fontCharacter": "\\ea4e"
+    },
+    "file_apacheconf2": {
+      "fontCharacter": "\\ea4f"
+    },
+    "file_apex": {
+      "fontCharacter": "\\ea50"
+    },
+    "file_apib": {
+      "fontCharacter": "\\ea51"
+    },
+    "file_apiextractor": {
+      "fontCharacter": "\\ea52"
+    },
+    "file_apk": {
+      "fontCharacter": "\\ea53"
+    },
+    "file_apl": {
+      "fontCharacter": "\\ea54"
+    },
+    "file_aplus": {
+      "fontCharacter": "\\ea55"
+    },
+    "file_apm": {
+      "fontCharacter": "\\ea56"
+    },
+    "file_apm_dark": {
+      "fontCharacter": "\\ea57"
+    },
+    "file_apollo": {
+      "fontCharacter": "\\ea58"
+    },
+    "file_appcelerator": {
+      "fontCharacter": "\\ea59"
+    },
+    "file_applescript": {
+      "fontCharacter": "\\ea5a"
+    },
+    "file_appsemble": {
+      "fontCharacter": "\\ea5b"
+    },
+    "file_appstore": {
+      "fontCharacter": "\\ea5c"
+    },
+    "file_appveyor": {
+      "fontCharacter": "\\ea5d"
+    },
+    "file_arangodb": {
+      "fontCharacter": "\\ea5e"
+    },
+    "file_arangodb_dark": {
+      "fontCharacter": "\\ea5f"
+    },
+    "file_arc": {
+      "fontCharacter": "\\ea60"
+    },
+    "file_architecture": {
+      "fontCharacter": "\\ea61"
+    },
+    "file_archive": {
+      "fontCharacter": "\\ea62"
+    },
+    "file_archive2": {
+      "fontCharacter": "\\ea63"
+    },
+    "file_archive3": {
+      "fontCharacter": "\\ea64"
+    },
+    "file_archlinux": {
+      "fontCharacter": "\\ea65"
+    },
+    "file_arduino": {
+      "fontCharacter": "\\ea66"
+    },
+    "file_arend": {
+      "fontCharacter": "\\ea67"
+    },
+    "file_arendconfig": {
+      "fontCharacter": "\\ea68"
+    },
+    "file_arm": {
+      "fontCharacter": "\\ea69"
+    },
+    "file_artisan": {
+      "fontCharacter": "\\ea6a"
+    },
+    "file_arttext": {
+      "fontCharacter": "\\ea6b"
+    },
+    "file_asciidoc": {
+      "fontCharacter": "\\ea6c"
+    },
+    "file_asm": {
+      "fontCharacter": "\\ea6d"
+    },
+    "file_asmpure": {
+      "fontCharacter": "\\ea6e"
+    },
+    "file_asp": {
+      "fontCharacter": "\\ea6f"
+    },
+    "file_aspectj": {
+      "fontCharacter": "\\ea70"
+    },
+    "file_astro": {
+      "fontCharacter": "\\ea71"
+    },
+    "file_astroconfig": {
+      "fontCharacter": "\\ea72"
+    },
+    "file_astyle": {
+      "fontCharacter": "\\ea73"
+    },
+    "file_asymptote": {
+      "fontCharacter": "\\ea74"
+    },
+    "file_atom": {
+      "fontCharacter": "\\ea75"
+    },
+    "file_atom_dark": {
+      "fontCharacter": "\\ea76"
+    },
+    "file_atoum": {
+      "fontCharacter": "\\ea77"
+    },
+    "file_ats": {
+      "fontCharacter": "\\ea78"
+    },
+    "file_audacity": {
+      "fontCharacter": "\\ea79"
+    },
+    "file_audio": {
+      "fontCharacter": "\\ea7a"
+    },
+    "file_audio2": {
+      "fontCharacter": "\\ea7b"
+    },
+    "file_audio3": {
+      "fontCharacter": "\\ea7c"
+    },
+    "file_augeas": {
+      "fontCharacter": "\\ea7d"
+    },
+    "file_aurelia": {
+      "fontCharacter": "\\ea7e"
+    },
+    "file_authors": {
+      "fontCharacter": "\\ea7f"
+    },
+    "file_auto": {
+      "fontCharacter": "\\ea80"
+    },
+    "file_autoit": {
+      "fontCharacter": "\\ea81"
+    },
+    "file_automator": {
+      "fontCharacter": "\\ea82"
+    },
+    "file_ava": {
+      "fontCharacter": "\\ea83"
+    },
+    "file_avif": {
+      "fontCharacter": "\\ea84"
+    },
+    "file_avr": {
+      "fontCharacter": "\\ea85"
+    },
+    "file_avro": {
+      "fontCharacter": "\\ea86"
+    },
+    "file_awk": {
+      "fontCharacter": "\\ea87"
+    },
+    "file_aws": {
+      "fontCharacter": "\\ea88"
+    },
+    "file_azure": {
+      "fontCharacter": "\\ea89"
+    },
+    "file_azurepipelines": {
+      "fontCharacter": "\\ea8a"
+    },
+    "file_babel": {
+      "fontCharacter": "\\ea8b"
+    },
+    "file_babelconfig": {
+      "fontCharacter": "\\ea8c"
+    },
+    "file_baboon": {
+      "fontCharacter": "\\ea8d"
+    },
+    "file_backbone": {
+      "fontCharacter": "\\ea8e"
+    },
+    "file_backup": {
+      "fontCharacter": "\\ea8f"
+    },
+    "file_ballerina": {
+      "fontCharacter": "\\ea90"
+    },
+    "file_bandit": {
+      "fontCharacter": "\\ea91"
+    },
+    "file_basic": {
+      "fontCharacter": "\\ea92"
+    },
+    "file_bats": {
+      "fontCharacter": "\\ea93"
+    },
+    "file_bats_dark": {
+      "fontCharacter": "\\ea94"
+    },
+    "file_bazaar": {
+      "fontCharacter": "\\ea95"
+    },
+    "file_bazel": {
+      "fontCharacter": "\\ea96"
+    },
+    "file_bazelconfig": {
+      "fontCharacter": "\\ea97"
+    },
+    "file_bazelignore": {
+      "fontCharacter": "\\ea98"
+    },
+    "file_bc": {
+      "fontCharacter": "\\ea99"
+    },
+    "file_bean": {
+      "fontCharacter": "\\ea9a"
+    },
+    "file_beanfiles": {
+      "fontCharacter": "\\ea9b"
+    },
+    "file_behat": {
+      "fontCharacter": "\\ea9c"
+    },
+    "file_behatconfig": {
+      "fontCharacter": "\\ea9d"
+    },
+    "file_bem": {
+      "fontCharacter": "\\ea9e"
+    },
+    "file_bench": {
+      "fontCharacter": "\\ea9f"
+    },
+    "file_berksfile": {
+      "fontCharacter": "\\eaa0"
+    },
+    "file_bfbf": {
+      "fontCharacter": "\\eaa1"
+    },
+    "file_bibtex": {
+      "fontCharacter": "\\eaa2"
+    },
+    "file_bicep": {
+      "fontCharacter": "\\eaa3"
+    },
+    "file_biml": {
+      "fontCharacter": "\\eaa4"
+    },
+    "file_binaries": {
+      "fontCharacter": "\\eaa5"
+    },
+    "file_binariesother": {
+      "fontCharacter": "\\eaa6"
+    },
+    "file_binary": {
+      "fontCharacter": "\\eaa7"
+    },
+    "file_binder": {
+      "fontCharacter": "\\eaa8"
+    },
+    "file_bintray": {
+      "fontCharacter": "\\eaa9"
+    },
+    "file_biome": {
+      "fontCharacter": "\\eaaa"
+    },
+    "file_bison": {
+      "fontCharacter": "\\eaab"
+    },
+    "file_bitbucket": {
+      "fontCharacter": "\\eaac"
+    },
+    "file_bitcoin": {
+      "fontCharacter": "\\eaad"
+    },
+    "file_bithound": {
+      "fontCharacter": "\\eaae"
+    },
+    "file_blade": {
+      "fontCharacter": "\\eaaf"
+    },
+    "file_blank": {
+      "fontCharacter": "\\eab0"
+    },
+    "file_blender": {
+      "fontCharacter": "\\eab1"
+    },
+    "file_blink": {
+      "fontCharacter": "\\eab2"
+    },
+    "file_blitz": {
+      "fontCharacter": "\\eab3"
+    },
+    "file_blitzbasic": {
+      "fontCharacter": "\\eab4"
+    },
+    "file_bloc": {
+      "fontCharacter": "\\eab5"
+    },
+    "file_blocfiles": {
+      "fontCharacter": "\\eab6"
+    },
+    "file_bluespec": {
+      "fontCharacter": "\\eab7"
+    },
+    "file_bmp": {
+      "fontCharacter": "\\eab8"
+    },
+    "file_bnf": {
+      "fontCharacter": "\\eab9"
+    },
+    "file_boo": {
+      "fontCharacter": "\\eaba"
+    },
+    "file_bookmark": {
+      "fontCharacter": "\\eabb"
+    },
+    "file_boot": {
+      "fontCharacter": "\\eabc"
+    },
+    "file_bootstrap": {
+      "fontCharacter": "\\eabd"
+    },
+    "file_bootstraprc": {
+      "fontCharacter": "\\eabe"
+    },
+    "file_boringignore": {
+      "fontCharacter": "\\eabf"
+    },
+    "file_bors": {
+      "fontCharacter": "\\eac0"
+    },
+    "file_bosque": {
+      "fontCharacter": "\\eac1"
+    },
+    "file_bower": {
+      "fontCharacter": "\\eac2"
+    },
+    "file_bowerfile": {
+      "fontCharacter": "\\eac3"
+    },
+    "file_brainfuck": {
+      "fontCharacter": "\\eac4"
+    },
+    "file_brakeman": {
+      "fontCharacter": "\\eac5"
+    },
+    "file_brew": {
+      "fontCharacter": "\\eac6"
+    },
+    "file_bro": {
+      "fontCharacter": "\\eac7"
+    },
+    "file_broccoli": {
+      "fontCharacter": "\\eac8"
+    },
+    "file_brotli": {
+      "fontCharacter": "\\eac9"
+    },
+    "file_browserslist": {
+      "fontCharacter": "\\eaca"
+    },
+    "file_browsersync": {
+      "fontCharacter": "\\eacb"
+    },
+    "file_brunch": {
+      "fontCharacter": "\\eacc"
+    },
+    "file_bruno": {
+      "fontCharacter": "\\eacd"
+    },
+    "file_buck": {
+      "fontCharacter": "\\eace"
+    },
+    "file_bucklescript": {
+      "fontCharacter": "\\eacf"
+    },
+    "file_buildkite": {
+      "fontCharacter": "\\ead0"
+    },
+    "file_bun": {
+      "fontCharacter": "\\ead1"
+    },
+    "file_bun_dark": {
+      "fontCharacter": "\\ead2"
+    },
+    "file_bundle": {
+      "fontCharacter": "\\ead3"
+    },
+    "file_bunlock": {
+      "fontCharacter": "\\ead4"
+    },
+    "file_byond": {
+      "fontCharacter": "\\ead5"
+    },
+    "file_c": {
+      "fontCharacter": "\\ead6"
+    },
+    "file_cabal": {
+      "fontCharacter": "\\ead7"
+    },
+    "file_cabalProject": {
+      "fontCharacter": "\\ead8"
+    },
+    "file_caddy": {
+      "fontCharacter": "\\ead9"
+    },
+    "file_cadence": {
+      "fontCharacter": "\\eada"
+    },
+    "file_caffe": {
+      "fontCharacter": "\\eadb"
+    },
+    "file_caffe2": {
+      "fontCharacter": "\\eadc"
+    },
+    "file_cairo": {
+      "fontCharacter": "\\eadd"
+    },
+    "file_cakefile": {
+      "fontCharacter": "\\eade"
+    },
+    "file_cakephp": {
+      "fontCharacter": "\\eadf"
+    },
+    "file_calva": {
+      "fontCharacter": "\\eae0"
+    },
+    "file_calyx": {
+      "fontCharacter": "\\eae1"
+    },
+    "file_candid": {
+      "fontCharacter": "\\eae2"
+    },
+    "file_cap": {
+      "fontCharacter": "\\eae3"
+    },
+    "file_capacitor": {
+      "fontCharacter": "\\eae4"
+    },
+    "file_carbon": {
+      "fontCharacter": "\\eae5"
+    },
+    "file_cargo": {
+      "fontCharacter": "\\eae6"
+    },
+    "file_carthage": {
+      "fontCharacter": "\\eae7"
+    },
+    "file_casc": {
+      "fontCharacter": "\\eae8"
+    },
+    "file_catala": {
+      "fontCharacter": "\\eae9"
+    },
+    "file_cddl": {
+      "fontCharacter": "\\eaea"
+    },
+    "file_cdf": {
+      "fontCharacter": "\\eaeb"
+    },
+    "file_certificate": {
+      "fontCharacter": "\\eaec"
+    },
+    "file_ceylon": {
+      "fontCharacter": "\\eaed"
+    },
+    "file_cf": {
+      "fontCharacter": "\\eaee"
+    },
+    "file_cfc": {
+      "fontCharacter": "\\eaef"
+    },
+    "file_chai": {
+      "fontCharacter": "\\eaf0"
+    },
+    "file_chameleon": {
+      "fontCharacter": "\\eaf1"
+    },
+    "file_changelog": {
+      "fontCharacter": "\\eaf2"
+    },
+    "file_chapel": {
+      "fontCharacter": "\\eaf3"
+    },
+    "file_chartjs": {
+      "fontCharacter": "\\eaf4"
+    },
+    "file_cheetah": {
+      "fontCharacter": "\\eaf5"
+    },
+    "file_chef": {
+      "fontCharacter": "\\eaf6"
+    },
+    "file_chiptune": {
+      "fontCharacter": "\\eaf7"
+    },
+    "file_chocolatey": {
+      "fontCharacter": "\\eaf8"
+    },
+    "file_chrome": {
+      "fontCharacter": "\\eaf9"
+    },
+    "file_chuck": {
+      "fontCharacter": "\\eafa"
+    },
+    "file_circleci": {
+      "fontCharacter": "\\eafb"
+    },
+    "file_circleciconf": {
+      "fontCharacter": "\\eafc"
+    },
+    "file_circuit": {
+      "fontCharacter": "\\eafd"
+    },
+    "file_circuit2": {
+      "fontCharacter": "\\eafe"
+    },
+    "file_cirru": {
+      "fontCharacter": "\\eaff"
+    },
+    "file_ckeditor": {
+      "fontCharacter": "\\eb00"
+    },
+    "file_clarion": {
+      "fontCharacter": "\\eb01"
+    },
+    "file_class": {
+      "fontCharacter": "\\eb02"
+    },
+    "file_clean": {
+      "fontCharacter": "\\eb03"
+    },
+    "file_click": {
+      "fontCharacter": "\\eb04"
+    },
+    "file_clio": {
+      "fontCharacter": "\\eb05"
+    },
+    "file_clips": {
+      "fontCharacter": "\\eb06"
+    },
+    "file_clipse": {
+      "fontCharacter": "\\eb07"
+    },
+    "file_clojure": {
+      "fontCharacter": "\\eb08"
+    },
+    "file_closuretpl": {
+      "fontCharacter": "\\eb09"
+    },
+    "file_cloudfoundry": {
+      "fontCharacter": "\\eb0a"
+    },
+    "file_cmake": {
+      "fontCharacter": "\\eb0b"
+    },
+    "file_cmakelists": {
+      "fontCharacter": "\\eb0c"
+    },
+    "file_cml": {
+      "fontCharacter": "\\eb0d"
+    },
+    "file_cnab": {
+      "fontCharacter": "\\eb0e"
+    },
+    "file_cname": {
+      "fontCharacter": "\\eb0f"
+    },
+    "file_coala": {
+      "fontCharacter": "\\eb10"
+    },
+    "file_cobol": {
+      "fontCharacter": "\\eb11"
+    },
+    "file_cocoapods": {
+      "fontCharacter": "\\eb12"
+    },
+    "file_coconut": {
+      "fontCharacter": "\\eb13"
+    },
+    "file_codacy": {
+      "fontCharacter": "\\eb14"
+    },
+    "file_codeclimate": {
+      "fontCharacter": "\\eb15"
+    },
+    "file_codecov": {
+      "fontCharacter": "\\eb16"
+    },
+    "file_codekit": {
+      "fontCharacter": "\\eb17"
+    },
+    "file_codemeta": {
+      "fontCharacter": "\\eb18"
+    },
+    "file_codemirror": {
+      "fontCharacter": "\\eb19"
+    },
+    "file_codeowners": {
+      "fontCharacter": "\\eb1a"
+    },
+    "file_codeql": {
+      "fontCharacter": "\\eb1b"
+    },
+    "file_coderabbit": {
+      "fontCharacter": "\\eb1c"
+    },
+    "file_codesandbox": {
+      "fontCharacter": "\\eb1d"
+    },
+    "file_codesandbox_dark": {
+      "fontCharacter": "\\eb1e"
+    },
+    "file_codeship": {
+      "fontCharacter": "\\eb1f"
+    },
+    "file_coffeelint": {
+      "fontCharacter": "\\eb20"
+    },
+    "file_coffeelintignore": {
+      "fontCharacter": "\\eb21"
+    },
+    "file_coffeescript": {
+      "fontCharacter": "\\eb22"
+    },
+    "file_commitizen": {
+      "fontCharacter": "\\eb23"
+    },
+    "file_commitlint": {
+      "fontCharacter": "\\eb24"
+    },
+    "file_commitlintConfig": {
+      "fontCharacter": "\\eb25"
+    },
+    "file_compass": {
+      "fontCharacter": "\\eb26"
+    },
+    "file_compassConfig": {
+      "fontCharacter": "\\eb27"
+    },
+    "file_composer": {
+      "fontCharacter": "\\eb28"
+    },
+    "file_composerlock": {
+      "fontCharacter": "\\eb29"
+    },
+    "file_composerphar": {
+      "fontCharacter": "\\eb2a"
+    },
+    "file_conan": {
+      "fontCharacter": "\\eb2b"
+    },
+    "file_concord": {
+      "fontCharacter": "\\eb2c"
+    },
+    "file_concourse": {
+      "fontCharacter": "\\eb2d"
+    },
+    "file_conda": {
+      "fontCharacter": "\\eb2e"
+    },
+    "file_configs": {
+      "fontCharacter": "\\eb2f"
+    },
+    "file_confluence": {
+      "fontCharacter": "\\eb30"
+    },
+    "file_conll": {
+      "fontCharacter": "\\eb31"
+    },
+    "file_containerfile": {
+      "fontCharacter": "\\eb32"
+    },
+    "file_containerignore": {
+      "fontCharacter": "\\eb33"
+    },
+    "file_contenthook": {
+      "fontCharacter": "\\eb34"
+    },
+    "file_contentlayer": {
+      "fontCharacter": "\\eb35"
+    },
+    "file_contributors": {
+      "fontCharacter": "\\eb36"
+    },
+    "file_coq": {
+      "fontCharacter": "\\eb37"
+    },
+    "file_cordova": {
+      "fontCharacter": "\\eb38"
+    },
+    "file_corel": {
+      "fontCharacter": "\\eb39"
+    },
+    "file_coveralls": {
+      "fontCharacter": "\\eb3a"
+    },
+    "file_cp": {
+      "fontCharacter": "\\eb3b"
+    },
+    "file_cpan": {
+      "fontCharacter": "\\eb3c"
+    },
+    "file_cpcdocs": {
+      "fontCharacter": "\\eb3d"
+    },
+    "file_cpp": {
+      "fontCharacter": "\\eb3e"
+    },
+    "file_craco": {
+      "fontCharacter": "\\eb3f"
+    },
+    "file_credits": {
+      "fontCharacter": "\\eb40"
+    },
+    "file_creole": {
+      "fontCharacter": "\\eb41"
+    },
+    "file_crowdin": {
+      "fontCharacter": "\\eb42"
+    },
+    "file_crystal": {
+      "fontCharacter": "\\eb43"
+    },
+    "file_csharp": {
+      "fontCharacter": "\\eb44"
+    },
+    "file_csharpier": {
+      "fontCharacter": "\\eb45"
+    },
+    "file_csharpier_dark": {
+      "fontCharacter": "\\eb46"
+    },
+    "file_csound": {
+      "fontCharacter": "\\eb47"
+    },
+    "file_csound_dark": {
+      "fontCharacter": "\\eb48"
+    },
+    "file_cspell": {
+      "fontCharacter": "\\eb49"
+    },
+    "file_csproj": {
+      "fontCharacter": "\\eb4a"
+    },
+    "file_css": {
+      "fontCharacter": "\\eb4b"
+    },
+    "file_css_dark": {
+      "fontCharacter": "\\eb4c"
+    },
+    "file_csscomb": {
+      "fontCharacter": "\\eb4d"
+    },
+    "file_csslint": {
+      "fontCharacter": "\\eb4e"
+    },
+    "file_cssmap": {
+      "fontCharacter": "\\eb4f"
+    },
+    "file_csv": {
+      "fontCharacter": "\\eb50"
+    },
+    "file_cucumber": {
+      "fontCharacter": "\\eb51"
+    },
+    "file_cucumberconfig": {
+      "fontCharacter": "\\eb52"
+    },
+    "file_cue": {
+      "fontCharacter": "\\eb53"
+    },
+    "file_cuh": {
+      "fontCharacter": "\\eb54"
+    },
+    "file_cuneiform": {
+      "fontCharacter": "\\eb55"
+    },
+    "file_curl": {
+      "fontCharacter": "\\eb56"
+    },
+    "file_curry": {
+      "fontCharacter": "\\eb57"
+    },
+    "file_cwl": {
+      "fontCharacter": "\\eb58"
+    },
+    "file_cypress": {
+      "fontCharacter": "\\eb59"
+    },
+    "file_cypressfiles": {
+      "fontCharacter": "\\eb5a"
+    },
+    "file_cython": {
+      "fontCharacter": "\\eb5b"
+    },
+    "file_d3": {
+      "fontCharacter": "\\eb5c"
+    },
+    "file_dafny": {
+      "fontCharacter": "\\eb5d"
+    },
+    "file_dal": {
+      "fontCharacter": "\\eb5e"
+    },
+    "file_danmakufu": {
+      "fontCharacter": "\\eb5f"
+    },
+    "file_darcs": {
+      "fontCharacter": "\\eb60"
+    },
+    "file_dart": {
+      "fontCharacter": "\\eb61"
+    },
+    "file_dartignore": {
+      "fontCharacter": "\\eb62"
+    },
+    "file_dashboard": {
+      "fontCharacter": "\\eb63"
+    },
+    "file_dataweave": {
+      "fontCharacter": "\\eb64"
+    },
+    "file_db": {
+      "fontCharacter": "\\eb65"
+    },
+    "file_db2": {
+      "fontCharacter": "\\eb66"
+    },
+    "file_db3": {
+      "fontCharacter": "\\eb67"
+    },
+    "file_dbase": {
+      "fontCharacter": "\\eb68"
+    },
+    "file_dbml": {
+      "fontCharacter": "\\eb69"
+    },
+    "file_dbproj": {
+      "fontCharacter": "\\eb6a"
+    },
+    "file_debian": {
+      "fontCharacter": "\\eb6b"
+    },
+    "file_deepsource": {
+      "fontCharacter": "\\eb6c"
+    },
+    "file_deepsource_dark": {
+      "fontCharacter": "\\eb6d"
+    },
+    "file_default": {
+      "fontCharacter": "\\eb6e"
+    },
+    "file_delphi": {
+      "fontCharacter": "\\eb6f"
+    },
+    "file_denizen": {
+      "fontCharacter": "\\eb70"
+    },
+    "file_deno": {
+      "fontCharacter": "\\eb71"
+    },
+    "file_deno_dark": {
+      "fontCharacter": "\\eb72"
+    },
+    "file_denoignore": {
+      "fontCharacter": "\\eb73"
+    },
+    "file_denolock": {
+      "fontCharacter": "\\eb74"
+    },
+    "file_denorc": {
+      "fontCharacter": "\\eb75"
+    },
+    "file_depcruiser": {
+      "fontCharacter": "\\eb76"
+    },
+    "file_dependabot": {
+      "fontCharacter": "\\eb77"
+    },
+    "file_deps": {
+      "fontCharacter": "\\eb78"
+    },
+    "file_detekt": {
+      "fontCharacter": "\\eb79"
+    },
+    "file_devcontainer": {
+      "fontCharacter": "\\eb7a"
+    },
+    "file_devicetree": {
+      "fontCharacter": "\\eb7b"
+    },
+    "file_dhall": {
+      "fontCharacter": "\\eb7c"
+    },
+    "file_dhall_dark": {
+      "fontCharacter": "\\eb7d"
+    },
+    "file_dia": {
+      "fontCharacter": "\\eb7e"
+    },
+    "file_diff": {
+      "fontCharacter": "\\eb7f"
+    },
+    "file_diff_dark": {
+      "fontCharacter": "\\eb80"
+    },
+    "file_digdag": {
+      "fontCharacter": "\\eb81"
+    },
+    "file_dinophp": {
+      "fontCharacter": "\\eb82"
+    },
+    "file_django": {
+      "fontCharacter": "\\eb83"
+    },
+    "file_djangoconfig": {
+      "fontCharacter": "\\eb84"
+    },
+    "file_dlang": {
+      "fontCharacter": "\\eb85"
+    },
+    "file_dll": {
+      "fontCharacter": "\\eb86"
+    },
+    "file_dns": {
+      "fontCharacter": "\\eb87"
+    },
+    "file_do": {
+      "fontCharacter": "\\eb88"
+    },
+    "file_docbook": {
+      "fontCharacter": "\\eb89"
+    },
+    "file_docker": {
+      "fontCharacter": "\\eb8a"
+    },
+    "file_dockerbake": {
+      "fontCharacter": "\\eb8b"
+    },
+    "file_dockercompose": {
+      "fontCharacter": "\\eb8c"
+    },
+    "file_dockercomposefiles": {
+      "fontCharacter": "\\eb8d"
+    },
+    "file_dockerfiles": {
+      "fontCharacter": "\\eb8e"
+    },
+    "file_dockerignore": {
+      "fontCharacter": "\\eb8f"
+    },
+    "file_doclets": {
+      "fontCharacter": "\\eb90"
+    },
+    "file_docpad": {
+      "fontCharacter": "\\eb91"
+    },
+    "file_docusaurus": {
+      "fontCharacter": "\\eb92"
+    },
+    "file_docz": {
+      "fontCharacter": "\\eb93"
+    },
+    "file_doczconfig": {
+      "fontCharacter": "\\eb94"
+    },
+    "file_dogescript": {
+      "fontCharacter": "\\eb95"
+    },
+    "file_dojo": {
+      "fontCharacter": "\\eb96"
+    },
+    "file_dojorc": {
+      "fontCharacter": "\\eb97"
+    },
+    "file_donejs": {
+      "fontCharacter": "\\eb98"
+    },
+    "file_dosbox": {
+      "fontCharacter": "\\eb99"
+    },
+    "file_dotjs": {
+      "fontCharacter": "\\eb9a"
+    },
+    "file_dotnet": {
+      "fontCharacter": "\\eb9b"
+    },
+    "file_doxyfile": {
+      "fontCharacter": "\\eb9c"
+    },
+    "file_doxygen": {
+      "fontCharacter": "\\eb9d"
+    },
+    "file_dragonflybsd": {
+      "fontCharacter": "\\eb9e"
+    },
+    "file_dragula": {
+      "fontCharacter": "\\eb9f"
+    },
+    "file_drawio": {
+      "fontCharacter": "\\eba0"
+    },
+    "file_drizzle": {
+      "fontCharacter": "\\eba1"
+    },
+    "file_drone": {
+      "fontCharacter": "\\eba2"
+    },
+    "file_drools": {
+      "fontCharacter": "\\eba3"
+    },
+    "file_drupal": {
+      "fontCharacter": "\\eba4"
+    },
+    "file_dts": {
+      "fontCharacter": "\\eba5"
+    },
+    "file_dub": {
+      "fontCharacter": "\\eba6"
+    },
+    "file_duc": {
+      "fontCharacter": "\\eba7"
+    },
+    "file_dune": {
+      "fontCharacter": "\\eba8"
+    },
+    "file_dustjs": {
+      "fontCharacter": "\\eba9"
+    },
+    "file_dvc": {
+      "fontCharacter": "\\ebaa"
+    },
+    "file_dyalog": {
+      "fontCharacter": "\\ebab"
+    },
+    "file_dylan": {
+      "fontCharacter": "\\ebac"
+    },
+    "file_dylib": {
+      "fontCharacter": "\\ebad"
+    },
+    "file_e": {
+      "fontCharacter": "\\ebae"
+    },
+    "file_eagle": {
+      "fontCharacter": "\\ebaf"
+    },
+    "file_earthly": {
+      "fontCharacter": "\\ebb0"
+    },
+    "file_earthlyignore": {
+      "fontCharacter": "\\ebb1"
+    },
+    "file_eas": {
+      "fontCharacter": "\\ebb2"
+    },
+    "file_easybuild": {
+      "fontCharacter": "\\ebb3"
+    },
+    "file_ec": {
+      "fontCharacter": "\\ebb4"
+    },
+    "file_ecere": {
+      "fontCharacter": "\\ebb5"
+    },
+    "file_eclipse": {
+      "fontCharacter": "\\ebb6"
+    },
+    "file_edge": {
+      "fontCharacter": "\\ebb7"
+    },
+    "file_editorconfig": {
+      "fontCharacter": "\\ebb8"
+    },
+    "file_egg": {
+      "fontCharacter": "\\ebb9"
+    },
+    "file_eiffel": {
+      "fontCharacter": "\\ebba"
+    },
+    "file_ejs": {
+      "fontCharacter": "\\ebbb"
+    },
+    "file_elastic": {
+      "fontCharacter": "\\ebbc"
+    },
+    "file_elasticconf": {
+      "fontCharacter": "\\ebbd"
+    },
+    "file_electron": {
+      "fontCharacter": "\\ebbe"
+    },
+    "file_electronasar": {
+      "fontCharacter": "\\ebbf"
+    },
+    "file_electronfiles": {
+      "fontCharacter": "\\ebc0"
+    },
+    "file_electronforge": {
+      "fontCharacter": "\\ebc1"
+    },
+    "file_elementaryos": {
+      "fontCharacter": "\\ebc2"
+    },
+    "file_elm": {
+      "fontCharacter": "\\ebc3"
+    },
+    "file_emacs": {
+      "fontCharacter": "\\ebc4"
+    },
+    "file_emacscask": {
+      "fontCharacter": "\\ebc5"
+    },
+    "file_emacslisp": {
+      "fontCharacter": "\\ebc6"
+    },
+    "file_email": {
+      "fontCharacter": "\\ebc7"
+    },
+    "file_emakefile": {
+      "fontCharacter": "\\ebc8"
+    },
+    "file_ember": {
+      "fontCharacter": "\\ebc9"
+    },
+    "file_embercli": {
+      "fontCharacter": "\\ebca"
+    },
+    "file_emberscript": {
+      "fontCharacter": "\\ebcb"
+    },
+    "file_ensime": {
+      "fontCharacter": "\\ebcc"
+    },
+    "file_envfiles": {
+      "fontCharacter": "\\ebcd"
+    },
+    "file_envs": {
+      "fontCharacter": "\\ebce"
+    },
+    "file_eq": {
+      "fontCharacter": "\\ebcf"
+    },
+    "file_erb": {
+      "fontCharacter": "\\ebd0"
+    },
+    "file_erlang": {
+      "fontCharacter": "\\ebd1"
+    },
+    "file_esdoc": {
+      "fontCharacter": "\\ebd2"
+    },
+    "file_eslint": {
+      "fontCharacter": "\\ebd3"
+    },
+    "file_eslintcache": {
+      "fontCharacter": "\\ebd4"
+    },
+    "file_eslintconfig": {
+      "fontCharacter": "\\ebd5"
+    },
+    "file_eslintignore": {
+      "fontCharacter": "\\ebd6"
+    },
+    "file_eslintrules": {
+      "fontCharacter": "\\ebd7"
+    },
+    "file_ex": {
+      "fontCharacter": "\\ebd8"
+    },
+    "file_excalidraw": {
+      "fontCharacter": "\\ebd9"
+    },
+    "file_excel": {
+      "fontCharacter": "\\ebda"
+    },
+    "file_expo": {
+      "fontCharacter": "\\ebdb"
+    },
+    "file_extjs": {
+      "fontCharacter": "\\ebdc"
+    },
+    "file_fabfile": {
+      "fontCharacter": "\\ebdd"
+    },
+    "file_fabric": {
+      "fontCharacter": "\\ebde"
+    },
+    "file_factor": {
+      "fontCharacter": "\\ebdf"
+    },
+    "file_fakefile": {
+      "fontCharacter": "\\ebe0"
+    },
+    "file_falcon": {
+      "fontCharacter": "\\ebe1"
+    },
+    "file_fancy": {
+      "fontCharacter": "\\ebe2"
+    },
+    "file_fantom": {
+      "fontCharacter": "\\ebe3"
+    },
+    "file_fasta": {
+      "fontCharacter": "\\ebe4"
+    },
+    "file_fastlane": {
+      "fontCharacter": "\\ebe5"
+    },
+    "file_fauna": {
+      "fontCharacter": "\\ebe6"
+    },
+    "file_faust": {
+      "fontCharacter": "\\ebe7"
+    },
+    "file_favicon": {
+      "fontCharacter": "\\ebe8"
+    },
+    "file_fbx": {
+      "fontCharacter": "\\ebe9"
+    },
+    "file_fexl": {
+      "fontCharacter": "\\ebea"
+    },
+    "file_fiddle": {
+      "fontCharacter": "\\ebeb"
+    },
+    "file_figma": {
+      "fontCharacter": "\\ebec"
+    },
+    "file_file": {
+      "fontCharacter": "\\ebed"
+    },
+    "file_finaldraft": {
+      "fontCharacter": "\\ebee"
+    },
+    "file_finder": {
+      "fontCharacter": "\\ebef"
+    },
+    "file_firebase": {
+      "fontCharacter": "\\ebf0"
+    },
+    "file_firebasebolt": {
+      "fontCharacter": "\\ebf1"
+    },
+    "file_firebaserc": {
+      "fontCharacter": "\\ebf2"
+    },
+    "file_firefox": {
+      "fontCharacter": "\\ebf3"
+    },
+    "file_firestore": {
+      "fontCharacter": "\\ebf4"
+    },
+    "file_fish": {
+      "fontCharacter": "\\ebf5"
+    },
+    "file_fitbit": {
+      "fontCharacter": "\\ebf6"
+    },
+    "file_flash": {
+      "fontCharacter": "\\ebf7"
+    },
+    "file_flask": {
+      "fontCharacter": "\\ebf8"
+    },
+    "file_floobits": {
+      "fontCharacter": "\\ebf9"
+    },
+    "file_flow": {
+      "fontCharacter": "\\ebfa"
+    },
+    "file_flow_dark": {
+      "fontCharacter": "\\ebfb"
+    },
+    "file_flutter": {
+      "fontCharacter": "\\ebfc"
+    },
+    "file_flutterlock": {
+      "fontCharacter": "\\ebfd"
+    },
+    "file_flux": {
+      "fontCharacter": "\\ebfe"
+    },
+    "file_font": {
+      "fontCharacter": "\\ebff"
+    },
+    "file_fontbitmap": {
+      "fontCharacter": "\\ec00"
+    },
+    "file_fontforge": {
+      "fontCharacter": "\\ec01"
+    },
+    "file_fork": {
+      "fontCharacter": "\\ec02"
+    },
+    "file_formkit": {
+      "fontCharacter": "\\ec03"
+    },
+    "file_forth": {
+      "fontCharacter": "\\ec04"
+    },
+    "file_fortran": {
+      "fontCharacter": "\\ec05"
+    },
+    "file_fossa": {
+      "fontCharacter": "\\ec06"
+    },
+    "file_fossaignore": {
+      "fontCharacter": "\\ec07"
+    },
+    "file_fossil": {
+      "fontCharacter": "\\ec08"
+    },
+    "file_fountain": {
+      "fontCharacter": "\\ec09"
+    },
+    "file_foxpro": {
+      "fontCharacter": "\\ec0a"
+    },
+    "file_franca": {
+      "fontCharacter": "\\ec0b"
+    },
+    "file_freedesktop": {
+      "fontCharacter": "\\ec0c"
+    },
+    "file_freedos": {
+      "fontCharacter": "\\ec0d"
+    },
+    "file_freemarker": {
+      "fontCharacter": "\\ec0e"
+    },
+    "file_freemat": {
+      "fontCharacter": "\\ec0f"
+    },
+    "file_frege": {
+      "fontCharacter": "\\ec10"
+    },
+    "file_fsharp": {
+      "fontCharacter": "\\ec11"
+    },
+    "file_fsproj": {
+      "fontCharacter": "\\ec12"
+    },
+    "file_fthtml": {
+      "fontCharacter": "\\ec13"
+    },
+    "file_ftr": {
+      "fontCharacter": "\\ec14"
+    },
+    "file_fuelux": {
+      "fontCharacter": "\\ec15"
+    },
+    "file_funding": {
+      "fontCharacter": "\\ec16"
+    },
+    "file_fusebox": {
+      "fontCharacter": "\\ec17"
+    },
+    "file_futhark": {
+      "fontCharacter": "\\ec18"
+    },
+    "file_galaxy": {
+      "fontCharacter": "\\ec19"
+    },
+    "file_galen": {
+      "fontCharacter": "\\ec1a"
+    },
+    "file_gamemaker": {
+      "fontCharacter": "\\ec1b"
+    },
+    "file_gams": {
+      "fontCharacter": "\\ec1c"
+    },
+    "file_gap": {
+      "fontCharacter": "\\ec1d"
+    },
+    "file_garden": {
+      "fontCharacter": "\\ec1e"
+    },
+    "file_gatsby": {
+      "fontCharacter": "\\ec1f"
+    },
+    "file_gauge": {
+      "fontCharacter": "\\ec20"
+    },
+    "file_gauge_dark": {
+      "fontCharacter": "\\ec21"
+    },
+    "file_gcode": {
+      "fontCharacter": "\\ec22"
+    },
+    "file_gcp": {
+      "fontCharacter": "\\ec23"
+    },
+    "file_gdb": {
+      "fontCharacter": "\\ec24"
+    },
+    "file_gemfile": {
+      "fontCharacter": "\\ec25"
+    },
+    "file_gemini": {
+      "fontCharacter": "\\ec26"
+    },
+    "file_geminiai": {
+      "fontCharacter": "\\ec27"
+    },
+    "file_gemset": {
+      "fontCharacter": "\\ec28"
+    },
+    "file_genshi": {
+      "fontCharacter": "\\ec29"
+    },
+    "file_genstat": {
+      "fontCharacter": "\\ec2a"
+    },
+    "file_gentoo": {
+      "fontCharacter": "\\ec2b"
+    },
+    "file_geojson": {
+      "fontCharacter": "\\ec2c"
+    },
+    "file_gf": {
+      "fontCharacter": "\\ec2d"
+    },
+    "file_ghostscript": {
+      "fontCharacter": "\\ec2e"
+    },
+    "file_gif": {
+      "fontCharacter": "\\ec2f"
+    },
+    "file_gimp": {
+      "fontCharacter": "\\ec30"
+    },
+    "file_git": {
+      "fontCharacter": "\\ec31"
+    },
+    "file_gitbook": {
+      "fontCharacter": "\\ec32"
+    },
+    "file_gitbook_dark": {
+      "fontCharacter": "\\ec33"
+    },
+    "file_gitcommit": {
+      "fontCharacter": "\\ec34"
+    },
+    "file_github": {
+      "fontCharacter": "\\ec35"
+    },
+    "file_githubActions": {
+      "fontCharacter": "\\ec36"
+    },
+    "file_githubCode": {
+      "fontCharacter": "\\ec37"
+    },
+    "file_githubCommit": {
+      "fontCharacter": "\\ec38"
+    },
+    "file_githubContributing": {
+      "fontCharacter": "\\ec39"
+    },
+    "file_githubTemplate": {
+      "fontCharacter": "\\ec3a"
+    },
+    "file_github_dark": {
+      "fontCharacter": "\\ec3b"
+    },
+    "file_gitignore": {
+      "fontCharacter": "\\ec3c"
+    },
+    "file_gitlab": {
+      "fontCharacter": "\\ec3d"
+    },
+    "file_gitmerge": {
+      "fontCharacter": "\\ec3e"
+    },
+    "file_gitpod": {
+      "fontCharacter": "\\ec3f"
+    },
+    "file_glade": {
+      "fontCharacter": "\\ec40"
+    },
+    "file_gleam": {
+      "fontCharacter": "\\ec41"
+    },
+    "file_glide": {
+      "fontCharacter": "\\ec42"
+    },
+    "file_glitter": {
+      "fontCharacter": "\\ec43"
+    },
+    "file_gltf": {
+      "fontCharacter": "\\ec44"
+    },
+    "file_glyphs": {
+      "fontCharacter": "\\ec45"
+    },
+    "file_gn": {
+      "fontCharacter": "\\ec46"
+    },
+    "file_gnome": {
+      "fontCharacter": "\\ec47"
+    },
+    "file_gnu": {
+      "fontCharacter": "\\ec48"
+    },
+    "file_gnuplot": {
+      "fontCharacter": "\\ec49"
+    },
+    "file_go": {
+      "fontCharacter": "\\ec4a"
+    },
+    "file_goTemplate": {
+      "fontCharacter": "\\ec4b"
+    },
+    "file_goconfig": {
+      "fontCharacter": "\\ec4c"
+    },
+    "file_goctl": {
+      "fontCharacter": "\\ec4d"
+    },
+    "file_godot": {
+      "fontCharacter": "\\ec4e"
+    },
+    "file_golo": {
+      "fontCharacter": "\\ec4f"
+    },
+    "file_goreleaser": {
+      "fontCharacter": "\\ec50"
+    },
+    "file_gosu": {
+      "fontCharacter": "\\ec51"
+    },
+    "file_gql-codegen": {
+      "fontCharacter": "\\ec52"
+    },
+    "file_gradle": {
+      "fontCharacter": "\\ec53"
+    },
+    "file_gradlekts": {
+      "fontCharacter": "\\ec54"
+    },
+    "file_gradlew": {
+      "fontCharacter": "\\ec55"
+    },
+    "file_grafana": {
+      "fontCharacter": "\\ec56"
+    },
+    "file_grain": {
+      "fontCharacter": "\\ec57"
+    },
+    "file_graphcool": {
+      "fontCharacter": "\\ec58"
+    },
+    "file_grapher": {
+      "fontCharacter": "\\ec59"
+    },
+    "file_graphql": {
+      "fontCharacter": "\\ec5a"
+    },
+    "file_graphqlconfig": {
+      "fontCharacter": "\\ec5b"
+    },
+    "file_graphviz": {
+      "fontCharacter": "\\ec5c"
+    },
+    "file_gravit": {
+      "fontCharacter": "\\ec5d"
+    },
+    "file_greenkeeper": {
+      "fontCharacter": "\\ec5e"
+    },
+    "file_gridsome": {
+      "fontCharacter": "\\ec5f"
+    },
+    "file_groovy": {
+      "fontCharacter": "\\ec60"
+    },
+    "file_groovyFile": {
+      "fontCharacter": "\\ec61"
+    },
+    "file_gruntfile": {
+      "fontCharacter": "\\ec62"
+    },
+    "file_gruntfiles": {
+      "fontCharacter": "\\ec63"
+    },
+    "file_gss": {
+      "fontCharacter": "\\ec64"
+    },
+    "file_gulpfile": {
+      "fontCharacter": "\\ec65"
+    },
+    "file_gulpfiles": {
+      "fontCharacter": "\\ec66"
+    },
+    "file_hack": {
+      "fontCharacter": "\\ec67"
+    },
+    "file_haml": {
+      "fontCharacter": "\\ec68"
+    },
+    "file_harbour": {
+      "fontCharacter": "\\ec69"
+    },
+    "file_hardhat": {
+      "fontCharacter": "\\ec6a"
+    },
+    "file_harmonix": {
+      "fontCharacter": "\\ec6b"
+    },
+    "file_haskell": {
+      "fontCharacter": "\\ec6c"
+    },
+    "file_haskellconfig": {
+      "fontCharacter": "\\ec6d"
+    },
+    "file_hasura": {
+      "fontCharacter": "\\ec6e"
+    },
+    "file_hasuraconfig": {
+      "fontCharacter": "\\ec6f"
+    },
+    "file_haxe": {
+      "fontCharacter": "\\ec70"
+    },
+    "file_haxedevelop": {
+      "fontCharacter": "\\ec71"
+    },
+    "file_haxelib": {
+      "fontCharacter": "\\ec72"
+    },
+    "file_hc": {
+      "fontCharacter": "\\ec73"
+    },
+    "file_hcl": {
+      "fontCharacter": "\\ec74"
+    },
+    "file_helix": {
+      "fontCharacter": "\\ec75"
+    },
+    "file_helixignore": {
+      "fontCharacter": "\\ec76"
+    },
+    "file_helm": {
+      "fontCharacter": "\\ec77"
+    },
+    "file_helmcharts": {
+      "fontCharacter": "\\ec78"
+    },
+    "file_helmignore": {
+      "fontCharacter": "\\ec79"
+    },
+    "file_heroku": {
+      "fontCharacter": "\\ec7a"
+    },
+    "file_herokuignore": {
+      "fontCharacter": "\\ec7b"
+    },
+    "file_hex": {
+      "fontCharacter": "\\ec7c"
+    },
+    "file_hh": {
+      "fontCharacter": "\\ec7d"
+    },
+    "file_hie": {
+      "fontCharacter": "\\ec7e"
+    },
+    "file_histoire": {
+      "fontCharacter": "\\ec7f"
+    },
+    "file_histoirestories": {
+      "fontCharacter": "\\ec80"
+    },
+    "file_history": {
+      "fontCharacter": "\\ec81"
+    },
+    "file_hitachi": {
+      "fontCharacter": "\\ec82"
+    },
+    "file_hjson": {
+      "fontCharacter": "\\ec83"
+    },
+    "file_hlsl": {
+      "fontCharacter": "\\ec84"
+    },
+    "file_homeassistant": {
+      "fontCharacter": "\\ec85"
+    },
+    "file_hoplon": {
+      "fontCharacter": "\\ec86"
+    },
+    "file_horusec": {
+      "fontCharacter": "\\ec87"
+    },
+    "file_hosts": {
+      "fontCharacter": "\\ec88"
+    },
+    "file_houdini": {
+      "fontCharacter": "\\ec89"
+    },
+    "file_houndci": {
+      "fontCharacter": "\\ec8a"
+    },
+    "file_hp": {
+      "fontCharacter": "\\ec8b"
+    },
+    "file_hpx": {
+      "fontCharacter": "\\ec8c"
+    },
+    "file_htaccess": {
+      "fontCharacter": "\\ec8d"
+    },
+    "file_html": {
+      "fontCharacter": "\\ec8e"
+    },
+    "file_htmlhint": {
+      "fontCharacter": "\\ec8f"
+    },
+    "file_http": {
+      "fontCharacter": "\\ec90"
+    },
+    "file_huff": {
+      "fontCharacter": "\\ec91"
+    },
+    "file_hugo": {
+      "fontCharacter": "\\ec92"
+    },
+    "file_hunspell": {
+      "fontCharacter": "\\ec93"
+    },
+    "file_hurl": {
+      "fontCharacter": "\\ec94"
+    },
+    "file_husky": {
+      "fontCharacter": "\\ec95"
+    },
+    "file_huskyfiles": {
+      "fontCharacter": "\\ec96"
+    },
+    "file_huskyhooks": {
+      "fontCharacter": "\\ec97"
+    },
+    "file_huskyhooksfiles": {
+      "fontCharacter": "\\ec98"
+    },
+    "file_hy": {
+      "fontCharacter": "\\ec99"
+    },
+    "file_hygen": {
+      "fontCharacter": "\\ec9a"
+    },
+    "file_hyper": {
+      "fontCharacter": "\\ec9b"
+    },
+    "file_hypestyle": {
+      "fontCharacter": "\\ec9c"
+    },
+    "file_hypr": {
+      "fontCharacter": "\\ec9d"
+    },
+    "file_i18n": {
+      "fontCharacter": "\\ec9e"
+    },
+    "file_i18nJava": {
+      "fontCharacter": "\\ec9f"
+    },
+    "file_i18nKotlin": {
+      "fontCharacter": "\\eca0"
+    },
+    "file_i18nProperties": {
+      "fontCharacter": "\\eca1"
+    },
+    "file_i18nlang": {
+      "fontCharacter": "\\eca2"
+    },
+    "file_i18nlangfiles": {
+      "fontCharacter": "\\eca3"
+    },
+    "file_icl": {
+      "fontCharacter": "\\eca4"
+    },
+    "file_icomoon": {
+      "fontCharacter": "\\eca5"
+    },
+    "file_icon": {
+      "fontCharacter": "\\eca6"
+    },
+    "file_icu": {
+      "fontCharacter": "\\eca7"
+    },
+    "file_idea": {
+      "fontCharacter": "\\eca8"
+    },
+    "file_ideacolors": {
+      "fontCharacter": "\\eca9"
+    },
+    "file_idl": {
+      "fontCharacter": "\\ecaa"
+    },
+    "file_idris": {
+      "fontCharacter": "\\ecab"
+    },
+    "file_igor": {
+      "fontCharacter": "\\ecac"
+    },
+    "file_illumos": {
+      "fontCharacter": "\\ecad"
+    },
+    "file_image": {
+      "fontCharacter": "\\ecae"
+    },
+    "file_image2": {
+      "fontCharacter": "\\ecaf"
+    },
+    "file_image3": {
+      "fontCharacter": "\\ecb0"
+    },
+    "file_imba": {
+      "fontCharacter": "\\ecb1"
+    },
+    "file_imgbot": {
+      "fontCharacter": "\\ecb2"
+    },
+    "file_indesign": {
+      "fontCharacter": "\\ecb3"
+    },
+    "file_index": {
+      "fontCharacter": "\\ecb4"
+    },
+    "file_indexhtml": {
+      "fontCharacter": "\\ecb5"
+    },
+    "file_indexpy": {
+      "fontCharacter": "\\ecb6"
+    },
+    "file_infopath": {
+      "fontCharacter": "\\ecb7"
+    },
+    "file_inform": {
+      "fontCharacter": "\\ecb8"
+    },
+    "file_informix": {
+      "fontCharacter": "\\ecb9"
+    },
+    "file_ink": {
+      "fontCharacter": "\\ecba"
+    },
+    "file_inkscape": {
+      "fontCharacter": "\\ecbb"
+    },
+    "file_inkscape_dark": {
+      "fontCharacter": "\\ecbc"
+    },
+    "file_inno": {
+      "fontCharacter": "\\ecbd"
+    },
+    "file_install": {
+      "fontCharacter": "\\ecbe"
+    },
+    "file_intel": {
+      "fontCharacter": "\\ecbf"
+    },
+    "file_io": {
+      "fontCharacter": "\\ecc0"
+    },
+    "file_iodine": {
+      "fontCharacter": "\\ecc1"
+    },
+    "file_ioke": {
+      "fontCharacter": "\\ecc2"
+    },
+    "file_ionic": {
+      "fontCharacter": "\\ecc3"
+    },
+    "file_isabelle": {
+      "fontCharacter": "\\ecc4"
+    },
+    "file_isabelle_dark": {
+      "fontCharacter": "\\ecc5"
+    },
+    "file_iso": {
+      "fontCharacter": "\\ecc6"
+    },
+    "file_istanbul": {
+      "fontCharacter": "\\ecc7"
+    },
+    "file_istanbulconf": {
+      "fontCharacter": "\\ecc8"
+    },
+    "file_j": {
+      "fontCharacter": "\\ecc9"
+    },
+    "file_jade": {
+      "fontCharacter": "\\ecca"
+    },
+    "file_jake": {
+      "fontCharacter": "\\eccb"
+    },
+    "file_jakefile": {
+      "fontCharacter": "\\eccc"
+    },
+    "file_jakt": {
+      "fontCharacter": "\\eccd"
+    },
+    "file_janet": {
+      "fontCharacter": "\\ecce"
+    },
+    "file_japa": {
+      "fontCharacter": "\\eccf"
+    },
+    "file_jasmine": {
+      "fontCharacter": "\\ecd0"
+    },
+    "file_java": {
+      "fontCharacter": "\\ecd1"
+    },
+    "file_jbuilder": {
+      "fontCharacter": "\\ecd2"
+    },
+    "file_jekyll": {
+      "fontCharacter": "\\ecd3"
+    },
+    "file_jekyllconfig": {
+      "fontCharacter": "\\ecd4"
+    },
+    "file_jellycut": {
+      "fontCharacter": "\\ecd5"
+    },
+    "file_jenkins": {
+      "fontCharacter": "\\ecd6"
+    },
+    "file_jest": {
+      "fontCharacter": "\\ecd7"
+    },
+    "file_jestfiles": {
+      "fontCharacter": "\\ecd8"
+    },
+    "file_jestrc": {
+      "fontCharacter": "\\ecd9"
+    },
+    "file_jfd": {
+      "fontCharacter": "\\ecda"
+    },
+    "file_jinja": {
+      "fontCharacter": "\\ecdb"
+    },
+    "file_jira": {
+      "fontCharacter": "\\ecdc"
+    },
+    "file_jison": {
+      "fontCharacter": "\\ecdd"
+    },
+    "file_jolie": {
+      "fontCharacter": "\\ecde"
+    },
+    "file_joomla": {
+      "fontCharacter": "\\ecdf"
+    },
+    "file_jpg": {
+      "fontCharacter": "\\ece0"
+    },
+    "file_jquery": {
+      "fontCharacter": "\\ece1"
+    },
+    "file_js": {
+      "fontCharacter": "\\ece2"
+    },
+    "file_jsbeautify": {
+      "fontCharacter": "\\ece3"
+    },
+    "file_jsconfig": {
+      "fontCharacter": "\\ece4"
+    },
+    "file_jscpd": {
+      "fontCharacter": "\\ece5"
+    },
+    "file_jscs": {
+      "fontCharacter": "\\ece6"
+    },
+    "file_jshint": {
+      "fontCharacter": "\\ece7"
+    },
+    "file_jshintignore": {
+      "fontCharacter": "\\ece8"
+    },
+    "file_jslt": {
+      "fontCharacter": "\\ece9"
+    },
+    "file_jsmap": {
+      "fontCharacter": "\\ecea"
+    },
+    "file_jsmin": {
+      "fontCharacter": "\\eceb"
+    },
+    "file_json": {
+      "fontCharacter": "\\ecec"
+    },
+    "file_json5": {
+      "fontCharacter": "\\eced"
+    },
+    "file_jsonld": {
+      "fontCharacter": "\\ecee"
+    },
+    "file_jsonnet": {
+      "fontCharacter": "\\ecef"
+    },
+    "file_jsonschema": {
+      "fontCharacter": "\\ecf0"
+    },
+    "file_jsp": {
+      "fontCharacter": "\\ecf1"
+    },
+    "file_jsr": {
+      "fontCharacter": "\\ecf2"
+    },
+    "file_jss": {
+      "fontCharacter": "\\ecf3"
+    },
+    "file_jsx": {
+      "fontCharacter": "\\ecf4"
+    },
+    "file_jte": {
+      "fontCharacter": "\\ecf5"
+    },
+    "file_julia": {
+      "fontCharacter": "\\ecf6"
+    },
+    "file_junos": {
+      "fontCharacter": "\\ecf7"
+    },
+    "file_jupyter": {
+      "fontCharacter": "\\ecf8"
+    },
+    "file_jupyternotebook": {
+      "fontCharacter": "\\ecf9"
+    },
+    "file_justfile": {
+      "fontCharacter": "\\ecfa"
+    },
+    "file_justfile_dark": {
+      "fontCharacter": "\\ecfb"
+    },
+    "file_jwt": {
+      "fontCharacter": "\\ecfc"
+    },
+    "file_kaitai": {
+      "fontCharacter": "\\ecfd"
+    },
+    "file_karma": {
+      "fontCharacter": "\\ecfe"
+    },
+    "file_karma_dark": {
+      "fontCharacter": "\\ecff"
+    },
+    "file_kazel": {
+      "fontCharacter": "\\ed00"
+    },
+    "file_kcl": {
+      "fontCharacter": "\\ed01"
+    },
+    "file_kdu": {
+      "fontCharacter": "\\ed02"
+    },
+    "file_kerboscript": {
+      "fontCharacter": "\\ed03"
+    },
+    "file_key": {
+      "fontCharacter": "\\ed04"
+    },
+    "file_keybase": {
+      "fontCharacter": "\\ed05"
+    },
+    "file_keynote": {
+      "fontCharacter": "\\ed06"
+    },
+    "file_khronos": {
+      "fontCharacter": "\\ed07"
+    },
+    "file_kibo": {
+      "fontCharacter": "\\ed08"
+    },
+    "file_kicad": {
+      "fontCharacter": "\\ed09"
+    },
+    "file_kitchenci": {
+      "fontCharacter": "\\ed0a"
+    },
+    "file_kite": {
+      "fontCharacter": "\\ed0b"
+    },
+    "file_kivy": {
+      "fontCharacter": "\\ed0c"
+    },
+    "file_kl": {
+      "fontCharacter": "\\ed0d"
+    },
+    "file_kml": {
+      "fontCharacter": "\\ed0e"
+    },
+    "file_knime": {
+      "fontCharacter": "\\ed0f"
+    },
+    "file_knip": {
+      "fontCharacter": "\\ed10"
+    },
+    "file_knockout": {
+      "fontCharacter": "\\ed11"
+    },
+    "file_koka": {
+      "fontCharacter": "\\ed12"
+    },
+    "file_koka_dark": {
+      "fontCharacter": "\\ed13"
+    },
+    "file_kotlin": {
+      "fontCharacter": "\\ed14"
+    },
+    "file_kotlinscript": {
+      "fontCharacter": "\\ed15"
+    },
+    "file_krl": {
+      "fontCharacter": "\\ed16"
+    },
+    "file_kubernetes": {
+      "fontCharacter": "\\ed17"
+    },
+    "file_kubernetesdepl": {
+      "fontCharacter": "\\ed18"
+    },
+    "file_kusto": {
+      "fontCharacter": "\\ed19"
+    },
+    "file_kustomize": {
+      "fontCharacter": "\\ed1a"
+    },
+    "file_kx": {
+      "fontCharacter": "\\ed1b"
+    },
+    "file_labview": {
+      "fontCharacter": "\\ed1c"
+    },
+    "file_lakefile": {
+      "fontCharacter": "\\ed1d"
+    },
+    "file_laravel": {
+      "fontCharacter": "\\ed1e"
+    },
+    "file_lark": {
+      "fontCharacter": "\\ed1f"
+    },
+    "file_lasso": {
+      "fontCharacter": "\\ed20"
+    },
+    "file_latino": {
+      "fontCharacter": "\\ed21"
+    },
+    "file_latte": {
+      "fontCharacter": "\\ed22"
+    },
+    "file_latte_dark": {
+      "fontCharacter": "\\ed23"
+    },
+    "file_leaflet": {
+      "fontCharacter": "\\ed24"
+    },
+    "file_lean": {
+      "fontCharacter": "\\ed25"
+    },
+    "file_lefthook": {
+      "fontCharacter": "\\ed26"
+    },
+    "file_leiningen": {
+      "fontCharacter": "\\ed27"
+    },
+    "file_lektor": {
+      "fontCharacter": "\\ed28"
+    },
+    "file_leo": {
+      "fontCharacter": "\\ed29"
+    },
+    "file_lerna": {
+      "fontCharacter": "\\ed2a"
+    },
+    "file_less": {
+      "fontCharacter": "\\ed2b"
+    },
+    "file_lex": {
+      "fontCharacter": "\\ed2c"
+    },
+    "file_lfe": {
+      "fontCharacter": "\\ed2d"
+    },
+    "file_lgtm": {
+      "fontCharacter": "\\ed2e"
+    },
+    "file_liara": {
+      "fontCharacter": "\\ed2f"
+    },
+    "file_liaraignore": {
+      "fontCharacter": "\\ed30"
+    },
+    "file_lib": {
+      "fontCharacter": "\\ed31"
+    },
+    "file_libuv": {
+      "fontCharacter": "\\ed32"
+    },
+    "file_license": {
+      "fontCharacter": "\\ed33"
+    },
+    "file_licensebat": {
+      "fontCharacter": "\\ed34"
+    },
+    "file_lighthouse": {
+      "fontCharacter": "\\ed35"
+    },
+    "file_lightwave": {
+      "fontCharacter": "\\ed36"
+    },
+    "file_lilypond": {
+      "fontCharacter": "\\ed37"
+    },
+    "file_lime": {
+      "fontCharacter": "\\ed38"
+    },
+    "file_link": {
+      "fontCharacter": "\\ed39"
+    },
+    "file_linqpad": {
+      "fontCharacter": "\\ed3a"
+    },
+    "file_lint-staged": {
+      "fontCharacter": "\\ed3b"
+    },
+    "file_liquibase": {
+      "fontCharacter": "\\ed3c"
+    },
+    "file_liquibase_props": {
+      "fontCharacter": "\\ed3d"
+    },
+    "file_liquid": {
+      "fontCharacter": "\\ed3e"
+    },
+    "file_lisp": {
+      "fontCharacter": "\\ed3f"
+    },
+    "file_livescript": {
+      "fontCharacter": "\\ed40"
+    },
+    "file_llvm": {
+      "fontCharacter": "\\ed41"
+    },
+    "file_lock": {
+      "fontCharacter": "\\ed42"
+    },
+    "file_log": {
+      "fontCharacter": "\\ed43"
+    },
+    "file_logreport": {
+      "fontCharacter": "\\ed44"
+    },
+    "file_logtalk": {
+      "fontCharacter": "\\ed45"
+    },
+    "file_lolcode": {
+      "fontCharacter": "\\ed46"
+    },
+    "file_lookml": {
+      "fontCharacter": "\\ed47"
+    },
+    "file_lottie": {
+      "fontCharacter": "\\ed48"
+    },
+    "file_lsl": {
+      "fontCharacter": "\\ed49"
+    },
+    "file_lua": {
+      "fontCharacter": "\\ed4a"
+    },
+    "file_luau": {
+      "fontCharacter": "\\ed4b"
+    },
+    "file_lync": {
+      "fontCharacter": "\\ed4c"
+    },
+    "file_macaulay": {
+      "fontCharacter": "\\ed4d"
+    },
+    "file_madge": {
+      "fontCharacter": "\\ed4e"
+    },
+    "file_magento": {
+      "fontCharacter": "\\ed4f"
+    },
+    "file_magit": {
+      "fontCharacter": "\\ed50"
+    },
+    "file_make": {
+      "fontCharacter": "\\ed51"
+    },
+    "file_makefile": {
+      "fontCharacter": "\\ed52"
+    },
+    "file_mako": {
+      "fontCharacter": "\\ed53"
+    },
+    "file_manifest": {
+      "fontCharacter": "\\ed54"
+    },
+    "file_manifestfiles": {
+      "fontCharacter": "\\ed55"
+    },
+    "file_manjaro": {
+      "fontCharacter": "\\ed56"
+    },
+    "file_manpage": {
+      "fontCharacter": "\\ed57"
+    },
+    "file_mapbox": {
+      "fontCharacter": "\\ed58"
+    },
+    "file_markdown": {
+      "fontCharacter": "\\ed59"
+    },
+    "file_markdownlint": {
+      "fontCharacter": "\\ed5a"
+    },
+    "file_markdownlintignore": {
+      "fontCharacter": "\\ed5b"
+    },
+    "file_marko": {
+      "fontCharacter": "\\ed5c"
+    },
+    "file_markup": {
+      "fontCharacter": "\\ed5d"
+    },
+    "file_markuplint": {
+      "fontCharacter": "\\ed5e"
+    },
+    "file_master": {
+      "fontCharacter": "\\ed5f"
+    },
+    "file_materialize": {
+      "fontCharacter": "\\ed60"
+    },
+    "file_mathematica": {
+      "fontCharacter": "\\ed61"
+    },
+    "file_mathjax": {
+      "fontCharacter": "\\ed62"
+    },
+    "file_matlab": {
+      "fontCharacter": "\\ed63"
+    },
+    "file_matlabext": {
+      "fontCharacter": "\\ed64"
+    },
+    "file_maven": {
+      "fontCharacter": "\\ed65"
+    },
+    "file_max": {
+      "fontCharacter": "\\ed66"
+    },
+    "file_maya": {
+      "fontCharacter": "\\ed67"
+    },
+    "file_maya2": {
+      "fontCharacter": "\\ed68"
+    },
+    "file_mdx": {
+      "fontCharacter": "\\ed69"
+    },
+    "file_mediawiki": {
+      "fontCharacter": "\\ed6a"
+    },
+    "file_mercurial": {
+      "fontCharacter": "\\ed6b"
+    },
+    "file_mercurialignore": {
+      "fontCharacter": "\\ed6c"
+    },
+    "file_mercury": {
+      "fontCharacter": "\\ed6d"
+    },
+    "file_merlin": {
+      "fontCharacter": "\\ed6e"
+    },
+    "file_mermaid": {
+      "fontCharacter": "\\ed6f"
+    },
+    "file_meson": {
+      "fontCharacter": "\\ed70"
+    },
+    "file_metadata": {
+      "fontCharacter": "\\ed71"
+    },
+    "file_metal": {
+      "fontCharacter": "\\ed72"
+    },
+    "file_metapost": {
+      "fontCharacter": "\\ed73"
+    },
+    "file_meteor": {
+      "fontCharacter": "\\ed74"
+    },
+    "file_metro": {
+      "fontCharacter": "\\ed75"
+    },
+    "file_mindsdb": {
+      "fontCharacter": "\\ed76"
+    },
+    "file_minecraft": {
+      "fontCharacter": "\\ed77"
+    },
+    "file_minizinc": {
+      "fontCharacter": "\\ed78"
+    },
+    "file_mint": {
+      "fontCharacter": "\\ed79"
+    },
+    "file_mintlify": {
+      "fontCharacter": "\\ed7a"
+    },
+    "file_mirah": {
+      "fontCharacter": "\\ed7b"
+    },
+    "file_mirc": {
+      "fontCharacter": "\\ed7c"
+    },
+    "file_mist": {
+      "fontCharacter": "\\ed7d"
+    },
+    "file_mixin": {
+      "fontCharacter": "\\ed7e"
+    },
+    "file_mjml": {
+      "fontCharacter": "\\ed7f"
+    },
+    "file_mkdocs": {
+      "fontCharacter": "\\ed80"
+    },
+    "file_mlang": {
+      "fontCharacter": "\\ed81"
+    },
+    "file_mobx": {
+      "fontCharacter": "\\ed82"
+    },
+    "file_mocha": {
+      "fontCharacter": "\\ed83"
+    },
+    "file_mochajson": {
+      "fontCharacter": "\\ed84"
+    },
+    "file_mock": {
+      "fontCharacter": "\\ed85"
+    },
+    "file_mockfiles": {
+      "fontCharacter": "\\ed86"
+    },
+    "file_modelica": {
+      "fontCharacter": "\\ed87"
+    },
+    "file_modernizr": {
+      "fontCharacter": "\\ed88"
+    },
+    "file_modernweb": {
+      "fontCharacter": "\\ed89"
+    },
+    "file_modo": {
+      "fontCharacter": "\\ed8a"
+    },
+    "file_modula2": {
+      "fontCharacter": "\\ed8b"
+    },
+    "file_modula3": {
+      "fontCharacter": "\\ed8c"
+    },
+    "file_moho": {
+      "fontCharacter": "\\ed8d"
+    },
+    "file_mojolicious": {
+      "fontCharacter": "\\ed8e"
+    },
+    "file_moleculer": {
+      "fontCharacter": "\\ed8f"
+    },
+    "file_moment": {
+      "fontCharacter": "\\ed90"
+    },
+    "file_mongodb": {
+      "fontCharacter": "\\ed91"
+    },
+    "file_monkey": {
+      "fontCharacter": "\\ed92"
+    },
+    "file_monotone": {
+      "fontCharacter": "\\ed93"
+    },
+    "file_moon": {
+      "fontCharacter": "\\ed94"
+    },
+    "file_moonscript": {
+      "fontCharacter": "\\ed95"
+    },
+    "file_mootools": {
+      "fontCharacter": "\\ed96"
+    },
+    "file_more": {
+      "fontCharacter": "\\ed97"
+    },
+    "file_mruby": {
+      "fontCharacter": "\\ed98"
+    },
+    "file_msdos": {
+      "fontCharacter": "\\ed99"
+    },
+    "file_mson": {
+      "fontCharacter": "\\ed9a"
+    },
+    "file_msql": {
+      "fontCharacter": "\\ed9b"
+    },
+    "file_mupad": {
+      "fontCharacter": "\\ed9c"
+    },
+    "file_mustache": {
+      "fontCharacter": "\\ed9d"
+    },
+    "file_mxml": {
+      "fontCharacter": "\\ed9e"
+    },
+    "file_mybatis": {
+      "fontCharacter": "\\ed9f"
+    },
+    "file_n64": {
+      "fontCharacter": "\\eda0"
+    },
+    "file_nano": {
+      "fontCharacter": "\\eda1"
+    },
+    "file_nanoc": {
+      "fontCharacter": "\\eda2"
+    },
+    "file_nant": {
+      "fontCharacter": "\\eda3"
+    },
+    "file_nasm": {
+      "fontCharacter": "\\eda4"
+    },
+    "file_ncu": {
+      "fontCharacter": "\\eda5"
+    },
+    "file_ndepend": {
+      "fontCharacter": "\\eda6"
+    },
+    "file_nearley": {
+      "fontCharacter": "\\eda7"
+    },
+    "file_neko": {
+      "fontCharacter": "\\eda8"
+    },
+    "file_neo4j": {
+      "fontCharacter": "\\eda9"
+    },
+    "file_neon": {
+      "fontCharacter": "\\edaa"
+    },
+    "file_neon_dark": {
+      "fontCharacter": "\\edab"
+    },
+    "file_nessus": {
+      "fontCharacter": "\\edac"
+    },
+    "file_nest": {
+      "fontCharacter": "\\edad"
+    },
+    "file_nestadapter": {
+      "fontCharacter": "\\edae"
+    },
+    "file_nestargs": {
+      "fontCharacter": "\\edaf"
+    },
+    "file_nestcommands": {
+      "fontCharacter": "\\edb0"
+    },
+    "file_nestconfig": {
+      "fontCharacter": "\\edb1"
+    },
+    "file_nestconstants": {
+      "fontCharacter": "\\edb2"
+    },
+    "file_nestconstants_dark": {
+      "fontCharacter": "\\edb3"
+    },
+    "file_nestcontroller": {
+      "fontCharacter": "\\edb4"
+    },
+    "file_nestcron": {
+      "fontCharacter": "\\edb5"
+    },
+    "file_nestdecorator": {
+      "fontCharacter": "\\edb6"
+    },
+    "file_nestdto": {
+      "fontCharacter": "\\edb7"
+    },
+    "file_neste2e": {
+      "fontCharacter": "\\edb8"
+    },
+    "file_nestentity": {
+      "fontCharacter": "\\edb9"
+    },
+    "file_nestfilter": {
+      "fontCharacter": "\\edba"
+    },
+    "file_nestgateway": {
+      "fontCharacter": "\\edbb"
+    },
+    "file_nestgql": {
+      "fontCharacter": "\\edbc"
+    },
+    "file_nestguard": {
+      "fontCharacter": "\\edbd"
+    },
+    "file_nesthandlers": {
+      "fontCharacter": "\\edbe"
+    },
+    "file_nestinput": {
+      "fontCharacter": "\\edbf"
+    },
+    "file_nestinterceptor": {
+      "fontCharacter": "\\edc0"
+    },
+    "file_nestland": {
+      "fontCharacter": "\\edc1"
+    },
+    "file_nestlistener": {
+      "fontCharacter": "\\edc2"
+    },
+    "file_nestloader": {
+      "fontCharacter": "\\edc3"
+    },
+    "file_nestmiddleware": {
+      "fontCharacter": "\\edc4"
+    },
+    "file_nestmodel": {
+      "fontCharacter": "\\edc5"
+    },
+    "file_nestmodule": {
+      "fontCharacter": "\\edc6"
+    },
+    "file_nestpipe": {
+      "fontCharacter": "\\edc7"
+    },
+    "file_nestprocessor": {
+      "fontCharacter": "\\edc8"
+    },
+    "file_nestprovider": {
+      "fontCharacter": "\\edc9"
+    },
+    "file_nestqueues": {
+      "fontCharacter": "\\edca"
+    },
+    "file_nestrepository": {
+      "fontCharacter": "\\edcb"
+    },
+    "file_nestresolver": {
+      "fontCharacter": "\\edcc"
+    },
+    "file_nestscalar": {
+      "fontCharacter": "\\edcd"
+    },
+    "file_nestschema": {
+      "fontCharacter": "\\edce"
+    },
+    "file_nestservice": {
+      "fontCharacter": "\\edcf"
+    },
+    "file_neststrategy": {
+      "fontCharacter": "\\edd0"
+    },
+    "file_nestsubscriber": {
+      "fontCharacter": "\\edd1"
+    },
+    "file_nesttypes": {
+      "fontCharacter": "\\edd2"
+    },
+    "file_nestutil": {
+      "fontCharacter": "\\edd3"
+    },
+    "file_netlify": {
+      "fontCharacter": "\\edd4"
+    },
+    "file_netlify_headers": {
+      "fontCharacter": "\\edd5"
+    },
+    "file_netlify_redirects": {
+      "fontCharacter": "\\edd6"
+    },
+    "file_netlinx": {
+      "fontCharacter": "\\edd7"
+    },
+    "file_netlogo": {
+      "fontCharacter": "\\edd8"
+    },
+    "file_newrelic": {
+      "fontCharacter": "\\edd9"
+    },
+    "file_next-404": {
+      "fontCharacter": "\\edda"
+    },
+    "file_next-error": {
+      "fontCharacter": "\\eddb"
+    },
+    "file_next-layout": {
+      "fontCharacter": "\\eddc"
+    },
+    "file_next-page": {
+      "fontCharacter": "\\eddd"
+    },
+    "file_next-route": {
+      "fontCharacter": "\\edde"
+    },
+    "file_nextflow": {
+      "fontCharacter": "\\eddf"
+    },
+    "file_nextflowconfig": {
+      "fontCharacter": "\\ede0"
+    },
+    "file_nextjs": {
+      "fontCharacter": "\\ede1"
+    },
+    "file_nginx": {
+      "fontCharacter": "\\ede2"
+    },
+    "file_ngrx-actions": {
+      "fontCharacter": "\\ede3"
+    },
+    "file_ngrx-actions-files": {
+      "fontCharacter": "\\ede4"
+    },
+    "file_ngrx-effects": {
+      "fontCharacter": "\\ede5"
+    },
+    "file_ngrx-effects-files": {
+      "fontCharacter": "\\ede6"
+    },
+    "file_ngrx-entities": {
+      "fontCharacter": "\\ede7"
+    },
+    "file_ngrx-entities-files": {
+      "fontCharacter": "\\ede8"
+    },
+    "file_ngrx-reducers": {
+      "fontCharacter": "\\ede9"
+    },
+    "file_ngrx-reducers-files": {
+      "fontCharacter": "\\edea"
+    },
+    "file_ngrx-repo": {
+      "fontCharacter": "\\edeb"
+    },
+    "file_ngrx-repo-files": {
+      "fontCharacter": "\\edec"
+    },
+    "file_ngrx-selectors": {
+      "fontCharacter": "\\eded"
+    },
+    "file_ngrx-selectors-files": {
+      "fontCharacter": "\\edee"
+    },
+    "file_ngrx-state": {
+      "fontCharacter": "\\edef"
+    },
+    "file_ngrx-state-files": {
+      "fontCharacter": "\\edf0"
+    },
+    "file_ngrxjs": {
+      "fontCharacter": "\\edf1"
+    },
+    "file_nib": {
+      "fontCharacter": "\\edf2"
+    },
+    "file_nickle": {
+      "fontCharacter": "\\edf3"
+    },
+    "file_nightwatch": {
+      "fontCharacter": "\\edf4"
+    },
+    "file_nim": {
+      "fontCharacter": "\\edf5"
+    },
+    "file_nimble": {
+      "fontCharacter": "\\edf6"
+    },
+    "file_nimrod": {
+      "fontCharacter": "\\edf7"
+    },
+    "file_nit": {
+      "fontCharacter": "\\edf8"
+    },
+    "file_nix": {
+      "fontCharacter": "\\edf9"
+    },
+    "file_nixpacks": {
+      "fontCharacter": "\\edfa"
+    },
+    "file_nmap": {
+      "fontCharacter": "\\edfb"
+    },
+    "file_noc": {
+      "fontCharacter": "\\edfc"
+    },
+    "file_nodejs": {
+      "fontCharacter": "\\edfd"
+    },
+    "file_nodemon": {
+      "fontCharacter": "\\edfe"
+    },
+    "file_nodemonignore": {
+      "fontCharacter": "\\edff"
+    },
+    "file_nodeversion": {
+      "fontCharacter": "\\ee00"
+    },
+    "file_nokogiri": {
+      "fontCharacter": "\\ee01"
+    },
+    "file_nomad": {
+      "fontCharacter": "\\ee02"
+    },
+    "file_noon": {
+      "fontCharacter": "\\ee03"
+    },
+    "file_normalize": {
+      "fontCharacter": "\\ee04"
+    },
+    "file_note": {
+      "fontCharacter": "\\ee05"
+    },
+    "file_now": {
+      "fontCharacter": "\\ee06"
+    },
+    "file_nowignore": {
+      "fontCharacter": "\\ee07"
+    },
+    "file_npm": {
+      "fontCharacter": "\\ee08"
+    },
+    "file_npmfiles": {
+      "fontCharacter": "\\ee09"
+    },
+    "file_npmignore": {
+      "fontCharacter": "\\ee0a"
+    },
+    "file_npmlock": {
+      "fontCharacter": "\\ee0b"
+    },
+    "file_npmshrinkwrap": {
+      "fontCharacter": "\\ee0c"
+    },
+    "file_nsis": {
+      "fontCharacter": "\\ee0d"
+    },
+    "file_nsri": {
+      "fontCharacter": "\\ee0e"
+    },
+    "file_nsriignore": {
+      "fontCharacter": "\\ee0f"
+    },
+    "file_nu": {
+      "fontCharacter": "\\ee10"
+    },
+    "file_nuclide": {
+      "fontCharacter": "\\ee11"
+    },
+    "file_nuget": {
+      "fontCharacter": "\\ee12"
+    },
+    "file_nugetconfig": {
+      "fontCharacter": "\\ee13"
+    },
+    "file_numpy": {
+      "fontCharacter": "\\ee14"
+    },
+    "file_nunjucks": {
+      "fontCharacter": "\\ee15"
+    },
+    "file_nuxt": {
+      "fontCharacter": "\\ee16"
+    },
+    "file_nvidia": {
+      "fontCharacter": "\\ee17"
+    },
+    "file_nvm": {
+      "fontCharacter": "\\ee18"
+    },
+    "file_nwscript": {
+      "fontCharacter": "\\ee19"
+    },
+    "file_nx": {
+      "fontCharacter": "\\ee1a"
+    },
+    "file_nx_dark": {
+      "fontCharacter": "\\ee1b"
+    },
+    "file_nxc": {
+      "fontCharacter": "\\ee1c"
+    },
+    "file_oberon": {
+      "fontCharacter": "\\ee1d"
+    },
+    "file_objc": {
+      "fontCharacter": "\\ee1e"
+    },
+    "file_objj": {
+      "fontCharacter": "\\ee1f"
+    },
+    "file_ocaml": {
+      "fontCharacter": "\\ee20"
+    },
+    "file_octave": {
+      "fontCharacter": "\\ee21"
+    },
+    "file_odin": {
+      "fontCharacter": "\\ee22"
+    },
+    "file_ogone": {
+      "fontCharacter": "\\ee23"
+    },
+    "file_omnigraffle": {
+      "fontCharacter": "\\ee24"
+    },
+    "file_onenote": {
+      "fontCharacter": "\\ee25"
+    },
+    "file_ooc": {
+      "fontCharacter": "\\ee26"
+    },
+    "file_opa": {
+      "fontCharacter": "\\ee27"
+    },
+    "file_opam": {
+      "fontCharacter": "\\ee28"
+    },
+    "file_openapi": {
+      "fontCharacter": "\\ee29"
+    },
+    "file_openbsd": {
+      "fontCharacter": "\\ee2a"
+    },
+    "file_opencl": {
+      "fontCharacter": "\\ee2b"
+    },
+    "file_openexr": {
+      "fontCharacter": "\\ee2c"
+    },
+    "file_opengl": {
+      "fontCharacter": "\\ee2d"
+    },
+    "file_openhab": {
+      "fontCharacter": "\\ee2e"
+    },
+    "file_openindiana": {
+      "fontCharacter": "\\ee2f"
+    },
+    "file_openoffice": {
+      "fontCharacter": "\\ee30"
+    },
+    "file_openpolicy": {
+      "fontCharacter": "\\ee31"
+    },
+    "file_openscad": {
+      "fontCharacter": "\\ee32"
+    },
+    "file_openshift": {
+      "fontCharacter": "\\ee33"
+    },
+    "file_opensolaris": {
+      "fontCharacter": "\\ee34"
+    },
+    "file_openstack": {
+      "fontCharacter": "\\ee35"
+    },
+    "file_openvms": {
+      "fontCharacter": "\\ee36"
+    },
+    "file_openvpn": {
+      "fontCharacter": "\\ee37"
+    },
+    "file_openzfs": {
+      "fontCharacter": "\\ee38"
+    },
+    "file_oracle": {
+      "fontCharacter": "\\ee39"
+    },
+    "file_orgmode": {
+      "fontCharacter": "\\ee3a"
+    },
+    "file_outlook": {
+      "fontCharacter": "\\ee3b"
+    },
+    "file_owl": {
+      "fontCharacter": "\\ee3c"
+    },
+    "file_oxygene": {
+      "fontCharacter": "\\ee3d"
+    },
+    "file_oz": {
+      "fontCharacter": "\\ee3e"
+    },
+    "file_p4": {
+      "fontCharacter": "\\ee3f"
+    },
+    "file_p4ignore": {
+      "fontCharacter": "\\ee40"
+    },
+    "file_pacman": {
+      "fontCharacter": "\\ee41"
+    },
+    "file_paket": {
+      "fontCharacter": "\\ee42"
+    },
+    "file_palette": {
+      "fontCharacter": "\\ee43"
+    },
+    "file_pan": {
+      "fontCharacter": "\\ee44"
+    },
+    "file_panda": {
+      "fontCharacter": "\\ee45"
+    },
+    "file_papyrus": {
+      "fontCharacter": "\\ee46"
+    },
+    "file_parcel": {
+      "fontCharacter": "\\ee47"
+    },
+    "file_parquet": {
+      "fontCharacter": "\\ee48"
+    },
+    "file_parrot": {
+      "fontCharacter": "\\ee49"
+    },
+    "file_pascal": {
+      "fontCharacter": "\\ee4a"
+    },
+    "file_patch": {
+      "fontCharacter": "\\ee4b"
+    },
+    "file_patreon": {
+      "fontCharacter": "\\ee4c"
+    },
+    "file_pawn": {
+      "fontCharacter": "\\ee4d"
+    },
+    "file_payload": {
+      "fontCharacter": "\\ee4e"
+    },
+    "file_payload_dark": {
+      "fontCharacter": "\\ee4f"
+    },
+    "file_pcd": {
+      "fontCharacter": "\\ee50"
+    },
+    "file_pddl": {
+      "fontCharacter": "\\ee51"
+    },
+    "file_pdf": {
+      "fontCharacter": "\\ee52"
+    },
+    "file_pdm": {
+      "fontCharacter": "\\ee53"
+    },
+    "file_pdmlock": {
+      "fontCharacter": "\\ee54"
+    },
+    "file_pegjs": {
+      "fontCharacter": "\\ee55"
+    },
+    "file_percy": {
+      "fontCharacter": "\\ee56"
+    },
+    "file_perl": {
+      "fontCharacter": "\\ee57"
+    },
+    "file_perlconfig": {
+      "fontCharacter": "\\ee58"
+    },
+    "file_permify": {
+      "fontCharacter": "\\ee59"
+    },
+    "file_pest": {
+      "fontCharacter": "\\ee5a"
+    },
+    "file_pgsql": {
+      "fontCharacter": "\\ee5b"
+    },
+    "file_phalcon": {
+      "fontCharacter": "\\ee5c"
+    },
+    "file_phalcon_dark": {
+      "fontCharacter": "\\ee5d"
+    },
+    "file_phoenix": {
+      "fontCharacter": "\\ee5e"
+    },
+    "file_photorec": {
+      "fontCharacter": "\\ee5f"
+    },
+    "file_php": {
+      "fontCharacter": "\\ee60"
+    },
+    "file_php2": {
+      "fontCharacter": "\\ee61"
+    },
+    "file_phpcs": {
+      "fontCharacter": "\\ee62"
+    },
+    "file_phpcsxml": {
+      "fontCharacter": "\\ee63"
+    },
+    "file_phpstan": {
+      "fontCharacter": "\\ee64"
+    },
+    "file_phpunit": {
+      "fontCharacter": "\\ee65"
+    },
+    "file_phraseapp": {
+      "fontCharacter": "\\ee66"
+    },
+    "file_phtml": {
+      "fontCharacter": "\\ee67"
+    },
+    "file_pickle": {
+      "fontCharacter": "\\ee68"
+    },
+    "file_pico8": {
+      "fontCharacter": "\\ee69"
+    },
+    "file_picolisp": {
+      "fontCharacter": "\\ee6a"
+    },
+    "file_pid": {
+      "fontCharacter": "\\ee6b"
+    },
+    "file_pike": {
+      "fontCharacter": "\\ee6c"
+    },
+    "file_pinescript": {
+      "fontCharacter": "\\ee6d"
+    },
+    "file_pinia": {
+      "fontCharacter": "\\ee6e"
+    },
+    "file_pipeline": {
+      "fontCharacter": "\\ee6f"
+    },
+    "file_pipfile": {
+      "fontCharacter": "\\ee70"
+    },
+    "file_pipfilelock": {
+      "fontCharacter": "\\ee71"
+    },
+    "file_pkgsrc": {
+      "fontCharacter": "\\ee72"
+    },
+    "file_pkl": {
+      "fontCharacter": "\\ee73"
+    },
+    "file_plastic": {
+      "fontCharacter": "\\ee74"
+    },
+    "file_platformio": {
+      "fontCharacter": "\\ee75"
+    },
+    "file_play": {
+      "fontCharacter": "\\ee76"
+    },
+    "file_playwright": {
+      "fontCharacter": "\\ee77"
+    },
+    "file_plist": {
+      "fontCharacter": "\\ee78"
+    },
+    "file_plopfile": {
+      "fontCharacter": "\\ee79"
+    },
+    "file_plugin": {
+      "fontCharacter": "\\ee7a"
+    },
+    "file_pluginfiles": {
+      "fontCharacter": "\\ee7b"
+    },
+    "file_pm2": {
+      "fontCharacter": "\\ee7c"
+    },
+    "file_png": {
+      "fontCharacter": "\\ee7d"
+    },
+    "file_pnpm": {
+      "fontCharacter": "\\ee7e"
+    },
+    "file_pnpmfile": {
+      "fontCharacter": "\\ee7f"
+    },
+    "file_pod": {
+      "fontCharacter": "\\ee80"
+    },
+    "file_poetry": {
+      "fontCharacter": "\\ee81"
+    },
+    "file_pogoscript": {
+      "fontCharacter": "\\ee82"
+    },
+    "file_pointwise": {
+      "fontCharacter": "\\ee83"
+    },
+    "file_polyglot": {
+      "fontCharacter": "\\ee84"
+    },
+    "file_polymer": {
+      "fontCharacter": "\\ee85"
+    },
+    "file_polymerconf": {
+      "fontCharacter": "\\ee86"
+    },
+    "file_pony": {
+      "fontCharacter": "\\ee87"
+    },
+    "file_postcss": {
+      "fontCharacter": "\\ee88"
+    },
+    "file_postcssconfig": {
+      "fontCharacter": "\\ee89"
+    },
+    "file_posthtml": {
+      "fontCharacter": "\\ee8a"
+    },
+    "file_postscript": {
+      "fontCharacter": "\\ee8b"
+    },
+    "file_povray": {
+      "fontCharacter": "\\ee8c"
+    },
+    "file_powerbuilder": {
+      "fontCharacter": "\\ee8d"
+    },
+    "file_powerpoint": {
+      "fontCharacter": "\\ee8e"
+    },
+    "file_powershell": {
+      "fontCharacter": "\\ee8f"
+    },
+    "file_ppc": {
+      "fontCharacter": "\\ee90"
+    },
+    "file_preact": {
+      "fontCharacter": "\\ee91"
+    },
+    "file_precision": {
+      "fontCharacter": "\\ee92"
+    },
+    "file_precommit": {
+      "fontCharacter": "\\ee93"
+    },
+    "file_pref": {
+      "fontCharacter": "\\ee94"
+    },
+    "file_pref_dark": {
+      "fontCharacter": "\\ee95"
+    },
+    "file_preferences": {
+      "fontCharacter": "\\ee96"
+    },
+    "file_preferencesfiles": {
+      "fontCharacter": "\\ee97"
+    },
+    "file_premiere": {
+      "fontCharacter": "\\ee98"
+    },
+    "file_prettier": {
+      "fontCharacter": "\\ee99"
+    },
+    "file_prettierconfig": {
+      "fontCharacter": "\\ee9a"
+    },
+    "file_prettierignore": {
+      "fontCharacter": "\\ee9b"
+    },
+    "file_prisma": {
+      "fontCharacter": "\\ee9c"
+    },
+    "file_prismaconfig": {
+      "fontCharacter": "\\ee9d"
+    },
+    "file_processing": {
+      "fontCharacter": "\\ee9e"
+    },
+    "file_procfile": {
+      "fontCharacter": "\\ee9f"
+    },
+    "file_progress": {
+      "fontCharacter": "\\eea0"
+    },
+    "file_project": {
+      "fontCharacter": "\\eea1"
+    },
+    "file_prolog": {
+      "fontCharacter": "\\eea2"
+    },
+    "file_prometheus": {
+      "fontCharacter": "\\eea3"
+    },
+    "file_propeller": {
+      "fontCharacter": "\\eea4"
+    },
+    "file_pros": {
+      "fontCharacter": "\\eea5"
+    },
+    "file_proselint": {
+      "fontCharacter": "\\eea6"
+    },
+    "file_protobuf": {
+      "fontCharacter": "\\eea7"
+    },
+    "file_protractor": {
+      "fontCharacter": "\\eea8"
+    },
+    "file_proxy": {
+      "fontCharacter": "\\eea9"
+    },
+    "file_psd": {
+      "fontCharacter": "\\eeaa"
+    },
+    "file_publiccode": {
+      "fontCharacter": "\\eeab"
+    },
+    "file_publishToken": {
+      "fontCharacter": "\\eeac"
+    },
+    "file_publisher": {
+      "fontCharacter": "\\eead"
+    },
+    "file_pug": {
+      "fontCharacter": "\\eeae"
+    },
+    "file_puglint": {
+      "fontCharacter": "\\eeaf"
+    },
+    "file_pullapprove": {
+      "fontCharacter": "\\eeb0"
+    },
+    "file_puppet": {
+      "fontCharacter": "\\eeb1"
+    },
+    "file_puppeteer": {
+      "fontCharacter": "\\eeb2"
+    },
+    "file_puppeteerrc": {
+      "fontCharacter": "\\eeb3"
+    },
+    "file_pure": {
+      "fontCharacter": "\\eeb4"
+    },
+    "file_purebasic": {
+      "fontCharacter": "\\eeb5"
+    },
+    "file_purescript": {
+      "fontCharacter": "\\eeb6"
+    },
+    "file_pypi": {
+      "fontCharacter": "\\eeb7"
+    },
+    "file_pyret": {
+      "fontCharacter": "\\eeb8"
+    },
+    "file_pytest": {
+      "fontCharacter": "\\eeb9"
+    },
+    "file_python": {
+      "fontCharacter": "\\eeba"
+    },
+    "file_python2": {
+      "fontCharacter": "\\eebb"
+    },
+    "file_pythonconfig": {
+      "fontCharacter": "\\eebc"
+    },
+    "file_pythonconfigs": {
+      "fontCharacter": "\\eebd"
+    },
+    "file_pythonversion": {
+      "fontCharacter": "\\eebe"
+    },
+    "file_pytyped": {
+      "fontCharacter": "\\eebf"
+    },
+    "file_pyup": {
+      "fontCharacter": "\\eec0"
+    },
+    "file_qiskit": {
+      "fontCharacter": "\\eec1"
+    },
+    "file_qlikview": {
+      "fontCharacter": "\\eec2"
+    },
+    "file_qodana": {
+      "fontCharacter": "\\eec3"
+    },
+    "file_qsharp": {
+      "fontCharacter": "\\eec4"
+    },
+    "file_qt": {
+      "fontCharacter": "\\eec5"
+    },
+    "file_quantum": {
+      "fontCharacter": "\\eec6"
+    },
+    "file_quasar": {
+      "fontCharacter": "\\eec7"
+    },
+    "file_question": {
+      "fontCharacter": "\\eec8"
+    },
+    "file_quokka": {
+      "fontCharacter": "\\eec9"
+    },
+    "file_r": {
+      "fontCharacter": "\\eeca"
+    },
+    "file_racket": {
+      "fontCharacter": "\\eecb"
+    },
+    "file_rails": {
+      "fontCharacter": "\\eecc"
+    },
+    "file_railschannel": {
+      "fontCharacter": "\\eecd"
+    },
+    "file_railschannelfiles": {
+      "fontCharacter": "\\eece"
+    },
+    "file_railsconcern": {
+      "fontCharacter": "\\eecf"
+    },
+    "file_railsconcernfiles": {
+      "fontCharacter": "\\eed0"
+    },
+    "file_railscontroller": {
+      "fontCharacter": "\\eed1"
+    },
+    "file_railscontrollerfiles": {
+      "fontCharacter": "\\eed2"
+    },
+    "file_railsdb": {
+      "fontCharacter": "\\eed3"
+    },
+    "file_railsdbfiles": {
+      "fontCharacter": "\\eed4"
+    },
+    "file_railsfactory": {
+      "fontCharacter": "\\eed5"
+    },
+    "file_railsfactoryfiles": {
+      "fontCharacter": "\\eed6"
+    },
+    "file_railsfixture": {
+      "fontCharacter": "\\eed7"
+    },
+    "file_railsfixturefiles": {
+      "fontCharacter": "\\eed8"
+    },
+    "file_railshelper": {
+      "fontCharacter": "\\eed9"
+    },
+    "file_railshelperfiles": {
+      "fontCharacter": "\\eeda"
+    },
+    "file_railsjob": {
+      "fontCharacter": "\\eedb"
+    },
+    "file_railsjobfiles": {
+      "fontCharacter": "\\eedc"
+    },
+    "file_railsmailer": {
+      "fontCharacter": "\\eedd"
+    },
+    "file_railsmailerfiles": {
+      "fontCharacter": "\\eede"
+    },
+    "file_railsroutes": {
+      "fontCharacter": "\\eedf"
+    },
+    "file_railsroutesfiles": {
+      "fontCharacter": "\\eee0"
+    },
+    "file_railsschema": {
+      "fontCharacter": "\\eee1"
+    },
+    "file_railsschemafiles": {
+      "fontCharacter": "\\eee2"
+    },
+    "file_railsseed": {
+      "fontCharacter": "\\eee3"
+    },
+    "file_railsseedfiles": {
+      "fontCharacter": "\\eee4"
+    },
+    "file_railsserializer": {
+      "fontCharacter": "\\eee5"
+    },
+    "file_railsserializerfiles": {
+      "fontCharacter": "\\eee6"
+    },
+    "file_railsservice": {
+      "fontCharacter": "\\eee7"
+    },
+    "file_railsservicefiles": {
+      "fontCharacter": "\\eee8"
+    },
+    "file_rake": {
+      "fontCharacter": "\\eee9"
+    },
+    "file_rakefile": {
+      "fontCharacter": "\\eeea"
+    },
+    "file_raml": {
+      "fontCharacter": "\\eeeb"
+    },
+    "file_raphael": {
+      "fontCharacter": "\\eeec"
+    },
+    "file_rascal": {
+      "fontCharacter": "\\eeed"
+    },
+    "file_razor": {
+      "fontCharacter": "\\eeee"
+    },
+    "file_razzle": {
+      "fontCharacter": "\\eeef"
+    },
+    "file_rbs": {
+      "fontCharacter": "\\eef0"
+    },
+    "file_rbsconfig": {
+      "fontCharacter": "\\eef1"
+    },
+    "file_rdata": {
+      "fontCharacter": "\\eef2"
+    },
+    "file_rdoc": {
+      "fontCharacter": "\\eef3"
+    },
+    "file_react": {
+      "fontCharacter": "\\eef4"
+    },
+    "file_reactcli": {
+      "fontCharacter": "\\eef5"
+    },
+    "file_reactnative": {
+      "fontCharacter": "\\eef6"
+    },
+    "file_reactos": {
+      "fontCharacter": "\\eef7"
+    },
+    "file_readme": {
+      "fontCharacter": "\\eef8"
+    },
+    "file_readme_dark": {
+      "fontCharacter": "\\eef9"
+    },
+    "file_readthedocs": {
+      "fontCharacter": "\\eefa"
+    },
+    "file_reason": {
+      "fontCharacter": "\\eefb"
+    },
+    "file_reasonstudios": {
+      "fontCharacter": "\\eefc"
+    },
+    "file_rebol": {
+      "fontCharacter": "\\eefd"
+    },
+    "file_recoil": {
+      "fontCharacter": "\\eefe"
+    },
+    "file_recoilfiles": {
+      "fontCharacter": "\\eeff"
+    },
+    "file_red": {
+      "fontCharacter": "\\ef00"
+    },
+    "file_red2": {
+      "fontCharacter": "\\ef01"
+    },
+    "file_redhat": {
+      "fontCharacter": "\\ef02"
+    },
+    "file_redis": {
+      "fontCharacter": "\\ef03"
+    },
+    "file_redisdb": {
+      "fontCharacter": "\\ef04"
+    },
+    "file_redux-action": {
+      "fontCharacter": "\\ef05"
+    },
+    "file_redux-action-files": {
+      "fontCharacter": "\\ef06"
+    },
+    "file_redux-epic": {
+      "fontCharacter": "\\ef07"
+    },
+    "file_redux-epic-files": {
+      "fontCharacter": "\\ef08"
+    },
+    "file_redux-reducer": {
+      "fontCharacter": "\\ef09"
+    },
+    "file_redux-reducer-files": {
+      "fontCharacter": "\\ef0a"
+    },
+    "file_redux-saga": {
+      "fontCharacter": "\\ef0b"
+    },
+    "file_redux-saga-files": {
+      "fontCharacter": "\\ef0c"
+    },
+    "file_redux-selector": {
+      "fontCharacter": "\\ef0d"
+    },
+    "file_redux-selector-files": {
+      "fontCharacter": "\\ef0e"
+    },
+    "file_redux-slice": {
+      "fontCharacter": "\\ef0f"
+    },
+    "file_redux-slice-files": {
+      "fontCharacter": "\\ef10"
+    },
+    "file_redux-store": {
+      "fontCharacter": "\\ef11"
+    },
+    "file_redux-store-files": {
+      "fontCharacter": "\\ef12"
+    },
+    "file_redux-thunk": {
+      "fontCharacter": "\\ef13"
+    },
+    "file_redux-thunk-files": {
+      "fontCharacter": "\\ef14"
+    },
+    "file_redwood": {
+      "fontCharacter": "\\ef15"
+    },
+    "file_reek": {
+      "fontCharacter": "\\ef16"
+    },
+    "file_regex": {
+      "fontCharacter": "\\ef17"
+    },
+    "file_rehype": {
+      "fontCharacter": "\\ef18"
+    },
+    "file_rehypeignore": {
+      "fontCharacter": "\\ef19"
+    },
+    "file_remark": {
+      "fontCharacter": "\\ef1a"
+    },
+    "file_remarkignore": {
+      "fontCharacter": "\\ef1b"
+    },
+    "file_remix": {
+      "fontCharacter": "\\ef1c"
+    },
+    "file_renovate": {
+      "fontCharacter": "\\ef1d"
+    },
+    "file_replit": {
+      "fontCharacter": "\\ef1e"
+    },
+    "file_requirejs": {
+      "fontCharacter": "\\ef1f"
+    },
+    "file_rescript": {
+      "fontCharacter": "\\ef20"
+    },
+    "file_restql": {
+      "fontCharacter": "\\ef21"
+    },
+    "file_restqlconf": {
+      "fontCharacter": "\\ef22"
+    },
+    "file_retext": {
+      "fontCharacter": "\\ef23"
+    },
+    "file_retextignore": {
+      "fontCharacter": "\\ef24"
+    },
+    "file_rexx": {
+      "fontCharacter": "\\ef25"
+    },
+    "file_rhino3d": {
+      "fontCharacter": "\\ef26"
+    },
+    "file_ride": {
+      "fontCharacter": "\\ef27"
+    },
+    "file_riemann": {
+      "fontCharacter": "\\ef28"
+    },
+    "file_rindo": {
+      "fontCharacter": "\\ef29"
+    },
+    "file_ring": {
+      "fontCharacter": "\\ef2a"
+    },
+    "file_riot": {
+      "fontCharacter": "\\ef2b"
+    },
+    "file_riot2": {
+      "fontCharacter": "\\ef2c"
+    },
+    "file_rmd": {
+      "fontCharacter": "\\ef2d"
+    },
+    "file_roadmap": {
+      "fontCharacter": "\\ef2e"
+    },
+    "file_roblox": {
+      "fontCharacter": "\\ef2f"
+    },
+    "file_robot": {
+      "fontCharacter": "\\ef30"
+    },
+    "file_robot2": {
+      "fontCharacter": "\\ef31"
+    },
+    "file_robots": {
+      "fontCharacter": "\\ef32"
+    },
+    "file_rojo": {
+      "fontCharacter": "\\ef33"
+    },
+    "file_rollup": {
+      "fontCharacter": "\\ef34"
+    },
+    "file_rome": {
+      "fontCharacter": "\\ef35"
+    },
+    "file_ron": {
+      "fontCharacter": "\\ef36"
+    },
+    "file_routes": {
+      "fontCharacter": "\\ef37"
+    },
+    "file_routesfiles": {
+      "fontCharacter": "\\ef38"
+    },
+    "file_rproj": {
+      "fontCharacter": "\\ef39"
+    },
+    "file_rspack": {
+      "fontCharacter": "\\ef3a"
+    },
+    "file_rspec": {
+      "fontCharacter": "\\ef3b"
+    },
+    "file_rspecconfig": {
+      "fontCharacter": "\\ef3c"
+    },
+    "file_rspecfiles": {
+      "fontCharacter": "\\ef3d"
+    },
+    "file_rss": {
+      "fontCharacter": "\\ef3e"
+    },
+    "file_rst": {
+      "fontCharacter": "\\ef3f"
+    },
+    "file_rstudio": {
+      "fontCharacter": "\\ef40"
+    },
+    "file_rsync": {
+      "fontCharacter": "\\ef41"
+    },
+    "file_rsync_dark": {
+      "fontCharacter": "\\ef42"
+    },
+    "file_rubocop": {
+      "fontCharacter": "\\ef43"
+    },
+    "file_ruby": {
+      "fontCharacter": "\\ef44"
+    },
+    "file_rubygems": {
+      "fontCharacter": "\\ef45"
+    },
+    "file_rubyrc": {
+      "fontCharacter": "\\ef46"
+    },
+    "file_rubyversion": {
+      "fontCharacter": "\\ef47"
+    },
+    "file_rust": {
+      "fontCharacter": "\\ef48"
+    },
+    "file_rusttoolchain": {
+      "fontCharacter": "\\ef49"
+    },
+    "file_rvm": {
+      "fontCharacter": "\\ef4a"
+    },
+    "file_rxjs": {
+      "fontCharacter": "\\ef4b"
+    },
+    "file_sac": {
+      "fontCharacter": "\\ef4c"
+    },
+    "file_safari": {
+      "fontCharacter": "\\ef4d"
+    },
+    "file_sage": {
+      "fontCharacter": "\\ef4e"
+    },
+    "file_sails": {
+      "fontCharacter": "\\ef4f"
+    },
+    "file_saltstack": {
+      "fontCharacter": "\\ef50"
+    },
+    "file_san": {
+      "fontCharacter": "\\ef51"
+    },
+    "file_sandbox": {
+      "fontCharacter": "\\ef52"
+    },
+    "file_sapper": {
+      "fontCharacter": "\\ef53"
+    },
+    "file_sas": {
+      "fontCharacter": "\\ef54"
+    },
+    "file_sass": {
+      "fontCharacter": "\\ef55"
+    },
+    "file_sbt": {
+      "fontCharacter": "\\ef56"
+    },
+    "file_scala": {
+      "fontCharacter": "\\ef57"
+    },
+    "file_scd": {
+      "fontCharacter": "\\ef58"
+    },
+    "file_scheme": {
+      "fontCharacter": "\\ef59"
+    },
+    "file_scilab": {
+      "fontCharacter": "\\ef5a"
+    },
+    "file_scilla": {
+      "fontCharacter": "\\ef5b"
+    },
+    "file_scons": {
+      "fontCharacter": "\\ef5c"
+    },
+    "file_scratch": {
+      "fontCharacter": "\\ef5d"
+    },
+    "file_screwdriver": {
+      "fontCharacter": "\\ef5e"
+    },
+    "file_scrutinizer": {
+      "fontCharacter": "\\ef5f"
+    },
+    "file_scss": {
+      "fontCharacter": "\\ef60"
+    },
+    "file_sdlang": {
+      "fontCharacter": "\\ef61"
+    },
+    "file_secret": {
+      "fontCharacter": "\\ef62"
+    },
+    "file_self": {
+      "fontCharacter": "\\ef63"
+    },
+    "file_semantic-release": {
+      "fontCharacter": "\\ef64"
+    },
+    "file_semantic-release-config": {
+      "fontCharacter": "\\ef65"
+    },
+    "file_semgrep": {
+      "fontCharacter": "\\ef66"
+    },
+    "file_sencha": {
+      "fontCharacter": "\\ef67"
+    },
+    "file_sentry": {
+      "fontCharacter": "\\ef68"
+    },
+    "file_sequelize": {
+      "fontCharacter": "\\ef69"
+    },
+    "file_serverless": {
+      "fontCharacter": "\\ef6a"
+    },
+    "file_servicefabric": {
+      "fontCharacter": "\\ef6b"
+    },
+    "file_settings": {
+      "fontCharacter": "\\ef6c"
+    },
+    "file_shader": {
+      "fontCharacter": "\\ef6d"
+    },
+    "file_shadowcljs": {
+      "fontCharacter": "\\ef6e"
+    },
+    "file_shell": {
+      "fontCharacter": "\\ef6f"
+    },
+    "file_shell2": {
+      "fontCharacter": "\\ef70"
+    },
+    "file_shellcheck": {
+      "fontCharacter": "\\ef71"
+    },
+    "file_shellhistory": {
+      "fontCharacter": "\\ef72"
+    },
+    "file_shen": {
+      "fontCharacter": "\\ef73"
+    },
+    "file_shipit": {
+      "fontCharacter": "\\ef74"
+    },
+    "file_shippable": {
+      "fontCharacter": "\\ef75"
+    },
+    "file_shuriken": {
+      "fontCharacter": "\\ef76"
+    },
+    "file_sigils": {
+      "fontCharacter": "\\ef77"
+    },
+    "file_sigstore": {
+      "fontCharacter": "\\ef78"
+    },
+    "file_silverstripe": {
+      "fontCharacter": "\\ef79"
+    },
+    "file_siyuan": {
+      "fontCharacter": "\\ef7a"
+    },
+    "file_sizelimit": {
+      "fontCharacter": "\\ef7b"
+    },
+    "file_sizelimit_dark": {
+      "fontCharacter": "\\ef7c"
+    },
+    "file_skaffold": {
+      "fontCharacter": "\\ef7d"
+    },
+    "file_sketch": {
+      "fontCharacter": "\\ef7e"
+    },
+    "file_sketchmake": {
+      "fontCharacter": "\\ef7f"
+    },
+    "file_sketchup": {
+      "fontCharacter": "\\ef80"
+    },
+    "file_skipper": {
+      "fontCharacter": "\\ef81"
+    },
+    "file_skript": {
+      "fontCharacter": "\\ef82"
+    },
+    "file_skript_dark": {
+      "fontCharacter": "\\ef83"
+    },
+    "file_slang": {
+      "fontCharacter": "\\ef84"
+    },
+    "file_slash": {
+      "fontCharacter": "\\ef85"
+    },
+    "file_slice": {
+      "fontCharacter": "\\ef86"
+    },
+    "file_slim": {
+      "fontCharacter": "\\ef87"
+    },
+    "file_slint": {
+      "fontCharacter": "\\ef88"
+    },
+    "file_slug": {
+      "fontCharacter": "\\ef89"
+    },
+    "file_slugfiles": {
+      "fontCharacter": "\\ef8a"
+    },
+    "file_smartos": {
+      "fontCharacter": "\\ef8b"
+    },
+    "file_smarty": {
+      "fontCharacter": "\\ef8c"
+    },
+    "file_smithy": {
+      "fontCharacter": "\\ef8d"
+    },
+    "file_sml": {
+      "fontCharacter": "\\ef8e"
+    },
+    "file_snakefile": {
+      "fontCharacter": "\\ef8f"
+    },
+    "file_snakemake": {
+      "fontCharacter": "\\ef90"
+    },
+    "file_snapcraft": {
+      "fontCharacter": "\\ef91"
+    },
+    "file_snapshot": {
+      "fontCharacter": "\\ef92"
+    },
+    "file_snapsvg": {
+      "fontCharacter": "\\ef93"
+    },
+    "file_snort": {
+      "fontCharacter": "\\ef94"
+    },
+    "file_snowpack": {
+      "fontCharacter": "\\ef95"
+    },
+    "file_snyk": {
+      "fontCharacter": "\\ef96"
+    },
+    "file_solidarity": {
+      "fontCharacter": "\\ef97"
+    },
+    "file_solidity": {
+      "fontCharacter": "\\ef98"
+    },
+    "file_sonar": {
+      "fontCharacter": "\\ef99"
+    },
+    "file_sonarcloud": {
+      "fontCharacter": "\\ef9a"
+    },
+    "file_sophia": {
+      "fontCharacter": "\\ef9b"
+    },
+    "file_sorbet": {
+      "fontCharacter": "\\ef9c"
+    },
+    "file_source": {
+      "fontCharacter": "\\ef9d"
+    },
+    "file_sourcemap": {
+      "fontCharacter": "\\ef9e"
+    },
+    "file_spaceengine": {
+      "fontCharacter": "\\ef9f"
+    },
+    "file_spacemacs": {
+      "fontCharacter": "\\efa0"
+    },
+    "file_sparql": {
+      "fontCharacter": "\\efa1"
+    },
+    "file_spectral": {
+      "fontCharacter": "\\efa2"
+    },
+    "file_spray": {
+      "fontCharacter": "\\efa3"
+    },
+    "file_spring": {
+      "fontCharacter": "\\efa4"
+    },
+    "file_spwn": {
+      "fontCharacter": "\\efa5"
+    },
+    "file_sqf": {
+      "fontCharacter": "\\efa6"
+    },
+    "file_sql": {
+      "fontCharacter": "\\efa7"
+    },
+    "file_sqlite": {
+      "fontCharacter": "\\efa8"
+    },
+    "file_squarespace": {
+      "fontCharacter": "\\efa9"
+    },
+    "file_squirrel": {
+      "fontCharacter": "\\efaa"
+    },
+    "file_sss": {
+      "fontCharacter": "\\efab"
+    },
+    "file_sst": {
+      "fontCharacter": "\\efac"
+    },
+    "file_stalebot": {
+      "fontCharacter": "\\efad"
+    },
+    "file_stan": {
+      "fontCharacter": "\\efae"
+    },
+    "file_stata": {
+      "fontCharacter": "\\efaf"
+    },
+    "file_stdlib": {
+      "fontCharacter": "\\efb0"
+    },
+    "file_steadybit": {
+      "fontCharacter": "\\efb1"
+    },
+    "file_stencil": {
+      "fontCharacter": "\\efb2"
+    },
+    "file_stencilconfig": {
+      "fontCharacter": "\\efb3"
+    },
+    "file_stitches": {
+      "fontCharacter": "\\efb4"
+    },
+    "file_storyboard": {
+      "fontCharacter": "\\efb5"
+    },
+    "file_storybook": {
+      "fontCharacter": "\\efb6"
+    },
+    "file_storybookfiles": {
+      "fontCharacter": "\\efb7"
+    },
+    "file_storyist": {
+      "fontCharacter": "\\efb8"
+    },
+    "file_stylable": {
+      "fontCharacter": "\\efb9"
+    },
+    "file_styledcomponents": {
+      "fontCharacter": "\\efba"
+    },
+    "file_styledcomponentsext": {
+      "fontCharacter": "\\efbb"
+    },
+    "file_styleguidist": {
+      "fontCharacter": "\\efbc"
+    },
+    "file_stylelint": {
+      "fontCharacter": "\\efbd"
+    },
+    "file_stylelintignore": {
+      "fontCharacter": "\\efbe"
+    },
+    "file_stylishhaskell": {
+      "fontCharacter": "\\efbf"
+    },
+    "file_stylus": {
+      "fontCharacter": "\\efc0"
+    },
+    "file_sublime": {
+      "fontCharacter": "\\efc1"
+    },
+    "file_subtitle": {
+      "fontCharacter": "\\efc2"
+    },
+    "file_supabase": {
+      "fontCharacter": "\\efc3"
+    },
+    "file_svelte": {
+      "fontCharacter": "\\efc4"
+    },
+    "file_svelte_config": {
+      "fontCharacter": "\\efc5"
+    },
+    "file_svg": {
+      "fontCharacter": "\\efc6"
+    },
+    "file_svg_dark": {
+      "fontCharacter": "\\efc7"
+    },
+    "file_svgo": {
+      "fontCharacter": "\\efc8"
+    },
+    "file_svgr": {
+      "fontCharacter": "\\efc9"
+    },
+    "file_svn": {
+      "fontCharacter": "\\efca"
+    },
+    "file_svx": {
+      "fontCharacter": "\\efcb"
+    },
+    "file_swagger": {
+      "fontCharacter": "\\efcc"
+    },
+    "file_swagger_config": {
+      "fontCharacter": "\\efcd"
+    },
+    "file_swc": {
+      "fontCharacter": "\\efce"
+    },
+    "file_swcrc": {
+      "fontCharacter": "\\efcf"
+    },
+    "file_swift": {
+      "fontCharacter": "\\efd0"
+    },
+    "file_swiftlock": {
+      "fontCharacter": "\\efd1"
+    },
+    "file_swig": {
+      "fontCharacter": "\\efd2"
+    },
+    "file_swlang": {
+      "fontCharacter": "\\efd3"
+    },
+    "file_symfony": {
+      "fontCharacter": "\\efd4"
+    },
+    "file_symfony_dark": {
+      "fontCharacter": "\\efd5"
+    },
+    "file_syncpack": {
+      "fontCharacter": "\\efd6"
+    },
+    "file_systemd": {
+      "fontCharacter": "\\efd7"
+    },
+    "file_tailwindcss": {
+      "fontCharacter": "\\efd8"
+    },
+    "file_tanstack": {
+      "fontCharacter": "\\efd9"
+    },
+    "file_taskfile": {
+      "fontCharacter": "\\efda"
+    },
+    "file_tauri": {
+      "fontCharacter": "\\efdb"
+    },
+    "file_taurignore": {
+      "fontCharacter": "\\efdc"
+    },
+    "file_tcl": {
+      "fontCharacter": "\\efdd"
+    },
+    "file_tea": {
+      "fontCharacter": "\\efde"
+    },
+    "file_teal": {
+      "fontCharacter": "\\efdf"
+    },
+    "file_telegram": {
+      "fontCharacter": "\\efe0"
+    },
+    "file_template": {
+      "fontCharacter": "\\efe1"
+    },
+    "file_tera": {
+      "fontCharacter": "\\efe2"
+    },
+    "file_tern": {
+      "fontCharacter": "\\efe3"
+    },
+    "file_ternconfig": {
+      "fontCharacter": "\\efe4"
+    },
+    "file_terraform": {
+      "fontCharacter": "\\efe5"
+    },
+    "file_terser": {
+      "fontCharacter": "\\efe6"
+    },
+    "file_test": {
+      "fontCharacter": "\\efe7"
+    },
+    "file_testcafe": {
+      "fontCharacter": "\\efe8"
+    },
+    "file_testcoffee": {
+      "fontCharacter": "\\efe9"
+    },
+    "file_testcoffeefiles": {
+      "fontCharacter": "\\efea"
+    },
+    "file_testdart": {
+      "fontCharacter": "\\efeb"
+    },
+    "file_testdartfiles": {
+      "fontCharacter": "\\efec"
+    },
+    "file_testgo": {
+      "fontCharacter": "\\efed"
+    },
+    "file_testgofiles": {
+      "fontCharacter": "\\efee"
+    },
+    "file_testhaskell": {
+      "fontCharacter": "\\efef"
+    },
+    "file_testhaskellfiles": {
+      "fontCharacter": "\\eff0"
+    },
+    "file_testjava": {
+      "fontCharacter": "\\eff1"
+    },
+    "file_testjavafiles": {
+      "fontCharacter": "\\eff2"
+    },
+    "file_testjs": {
+      "fontCharacter": "\\eff3"
+    },
+    "file_testjs_dark": {
+      "fontCharacter": "\\eff4"
+    },
+    "file_testjsfiles": {
+      "fontCharacter": "\\eff5"
+    },
+    "file_testjsfiles_dark": {
+      "fontCharacter": "\\eff6"
+    },
+    "file_testkt": {
+      "fontCharacter": "\\eff7"
+    },
+    "file_testktfiles": {
+      "fontCharacter": "\\eff8"
+    },
+    "file_testperl": {
+      "fontCharacter": "\\eff9"
+    },
+    "file_testperlfiles": {
+      "fontCharacter": "\\effa"
+    },
+    "file_testphp": {
+      "fontCharacter": "\\effb"
+    },
+    "file_testphpfiles": {
+      "fontCharacter": "\\effc"
+    },
+    "file_testpy": {
+      "fontCharacter": "\\effd"
+    },
+    "file_testpyfiles": {
+      "fontCharacter": "\\effe"
+    },
+    "file_testreact": {
+      "fontCharacter": "\\efff"
+    },
+    "file_testreactfiles": {
+      "fontCharacter": "\\f000"
+    },
+    "file_testruby": {
+      "fontCharacter": "\\f001"
+    },
+    "file_testrubyfiles": {
+      "fontCharacter": "\\f002"
+    },
+    "file_testrust": {
+      "fontCharacter": "\\f003"
+    },
+    "file_testrustfiles": {
+      "fontCharacter": "\\f004"
+    },
+    "file_testscala": {
+      "fontCharacter": "\\f005"
+    },
+    "file_testscalafiles": {
+      "fontCharacter": "\\f006"
+    },
+    "file_testts": {
+      "fontCharacter": "\\f007"
+    },
+    "file_testtsfiles": {
+      "fontCharacter": "\\f008"
+    },
+    "file_tex": {
+      "fontCharacter": "\\f009"
+    },
+    "file_text": {
+      "fontCharacter": "\\f00a"
+    },
+    "file_textile": {
+      "fontCharacter": "\\f00b"
+    },
+    "file_textlint": {
+      "fontCharacter": "\\f00c"
+    },
+    "file_textmate": {
+      "fontCharacter": "\\f00d"
+    },
+    "file_tfs": {
+      "fontCharacter": "\\f00e"
+    },
+    "file_tfsignore": {
+      "fontCharacter": "\\f00f"
+    },
+    "file_theme": {
+      "fontCharacter": "\\f010"
+    },
+    "file_thor": {
+      "fontCharacter": "\\f011"
+    },
+    "file_thunderclient": {
+      "fontCharacter": "\\f012"
+    },
+    "file_tidyparse": {
+      "fontCharacter": "\\f013"
+    },
+    "file_tikui": {
+      "fontCharacter": "\\f014"
+    },
+    "file_tilt": {
+      "fontCharacter": "\\f015"
+    },
+    "file_tinymce": {
+      "fontCharacter": "\\f016"
+    },
+    "file_tipe": {
+      "fontCharacter": "\\f017"
+    },
+    "file_tla": {
+      "fontCharacter": "\\f018"
+    },
+    "file_tmux": {
+      "fontCharacter": "\\f019"
+    },
+    "file_toc": {
+      "fontCharacter": "\\f01a"
+    },
+    "file_todo": {
+      "fontCharacter": "\\f01b"
+    },
+    "file_todofile": {
+      "fontCharacter": "\\f01c"
+    },
+    "file_toit": {
+      "fontCharacter": "\\f01d"
+    },
+    "file_tokei": {
+      "fontCharacter": "\\f01e"
+    },
+    "file_tokeignore": {
+      "fontCharacter": "\\f01f"
+    },
+    "file_tomcat": {
+      "fontCharacter": "\\f020"
+    },
+    "file_toml": {
+      "fontCharacter": "\\f021"
+    },
+    "file_tox": {
+      "fontCharacter": "\\f022"
+    },
+    "file_travis": {
+      "fontCharacter": "\\f023"
+    },
+    "file_truffle": {
+      "fontCharacter": "\\f024"
+    },
+    "file_trunk": {
+      "fontCharacter": "\\f025"
+    },
+    "file_trunk_dark": {
+      "fontCharacter": "\\f026"
+    },
+    "file_tsconfig": {
+      "fontCharacter": "\\f027"
+    },
+    "file_tslint": {
+      "fontCharacter": "\\f028"
+    },
+    "file_tt": {
+      "fontCharacter": "\\f029"
+    },
+    "file_ttcn": {
+      "fontCharacter": "\\f02a"
+    },
+    "file_tuc": {
+      "fontCharacter": "\\f02b"
+    },
+    "file_turborepo": {
+      "fontCharacter": "\\f02c"
+    },
+    "file_turing": {
+      "fontCharacter": "\\f02d"
+    },
+    "file_twig": {
+      "fontCharacter": "\\f02e"
+    },
+    "file_twine": {
+      "fontCharacter": "\\f02f"
+    },
+    "file_txl": {
+      "fontCharacter": "\\f030"
+    },
+    "file_typeScript": {
+      "fontCharacter": "\\f031"
+    },
+    "file_typedoc": {
+      "fontCharacter": "\\f032"
+    },
+    "file_typings": {
+      "fontCharacter": "\\f033"
+    },
+    "file_typo3": {
+      "fontCharacter": "\\f034"
+    },
+    "file_ufo": {
+      "fontCharacter": "\\f035"
+    },
+    "file_uikit": {
+      "fontCharacter": "\\f036"
+    },
+    "file_umi": {
+      "fontCharacter": "\\f037"
+    },
+    "file_uml": {
+      "fontCharacter": "\\f038"
+    },
+    "file_unibeautify": {
+      "fontCharacter": "\\f039"
+    },
+    "file_unibeautifyrc": {
+      "fontCharacter": "\\f03a"
+    },
+    "file_unicode": {
+      "fontCharacter": "\\f03b"
+    },
+    "file_unison": {
+      "fontCharacter": "\\f03c"
+    },
+    "file_unity": {
+      "fontCharacter": "\\f03d"
+    },
+    "file_unlicense": {
+      "fontCharacter": "\\f03e"
+    },
+    "file_uno": {
+      "fontCharacter": "\\f03f"
+    },
+    "file_unocss": {
+      "fontCharacter": "\\f040"
+    },
+    "file_unreal": {
+      "fontCharacter": "\\f041"
+    },
+    "file_uos": {
+      "fontCharacter": "\\f042"
+    },
+    "file_urweb": {
+      "fontCharacter": "\\f043"
+    },
+    "file_v": {
+      "fontCharacter": "\\f044"
+    },
+    "file_v8": {
+      "fontCharacter": "\\f045"
+    },
+    "file_vagrant": {
+      "fontCharacter": "\\f046"
+    },
+    "file_vala": {
+      "fontCharacter": "\\f047"
+    },
+    "file_vanillaextract": {
+      "fontCharacter": "\\f048"
+    },
+    "file_vapor": {
+      "fontCharacter": "\\f049"
+    },
+    "file_vash": {
+      "fontCharacter": "\\f04a"
+    },
+    "file_vax": {
+      "fontCharacter": "\\f04b"
+    },
+    "file_vb": {
+      "fontCharacter": "\\f04c"
+    },
+    "file_vbproj": {
+      "fontCharacter": "\\f04d"
+    },
+    "file_vcl": {
+      "fontCharacter": "\\f04e"
+    },
+    "file_vcxproj": {
+      "fontCharacter": "\\f04f"
+    },
+    "file_vedic": {
+      "fontCharacter": "\\f050"
+    },
+    "file_velite": {
+      "fontCharacter": "\\f051"
+    },
+    "file_velociraptor": {
+      "fontCharacter": "\\f052"
+    },
+    "file_velocity": {
+      "fontCharacter": "\\f053"
+    },
+    "file_vercel": {
+      "fontCharacter": "\\f054"
+    },
+    "file_vercel_dark": {
+      "fontCharacter": "\\f055"
+    },
+    "file_vercelignore": {
+      "fontCharacter": "\\f056"
+    },
+    "file_verdaccio": {
+      "fontCharacter": "\\f057"
+    },
+    "file_verilog": {
+      "fontCharacter": "\\f058"
+    },
+    "file_version": {
+      "fontCharacter": "\\f059"
+    },
+    "file_vertex": {
+      "fontCharacter": "\\f05a"
+    },
+    "file_vhdl": {
+      "fontCharacter": "\\f05b"
+    },
+    "file_video": {
+      "fontCharacter": "\\f05c"
+    },
+    "file_video2": {
+      "fontCharacter": "\\f05d"
+    },
+    "file_video3": {
+      "fontCharacter": "\\f05e"
+    },
+    "file_vim": {
+      "fontCharacter": "\\f05f"
+    },
+    "file_visio": {
+      "fontCharacter": "\\f060"
+    },
+    "file_vite": {
+      "fontCharacter": "\\f061"
+    },
+    "file_vitest": {
+      "fontCharacter": "\\f062"
+    },
+    "file_vm": {
+      "fontCharacter": "\\f063"
+    },
+    "file_vmware": {
+      "fontCharacter": "\\f064"
+    },
+    "file_volt": {
+      "fontCharacter": "\\f065"
+    },
+    "file_volt_dark": {
+      "fontCharacter": "\\f066"
+    },
+    "file_vray": {
+      "fontCharacter": "\\f067"
+    },
+    "file_vs": {
+      "fontCharacter": "\\f068"
+    },
+    "file_vscode": {
+      "fontCharacter": "\\f069"
+    },
+    "file_vscodeignore": {
+      "fontCharacter": "\\f06a"
+    },
+    "file_vscodesettings": {
+      "fontCharacter": "\\f06b"
+    },
+    "file_vscodesettingsfiles": {
+      "fontCharacter": "\\f06c"
+    },
+    "file_vsix": {
+      "fontCharacter": "\\f06d"
+    },
+    "file_vsix_dark": {
+      "fontCharacter": "\\f06e"
+    },
+    "file_vue": {
+      "fontCharacter": "\\f06f"
+    },
+    "file_vueconfig": {
+      "fontCharacter": "\\f070"
+    },
+    "file_vuepress": {
+      "fontCharacter": "\\f071"
+    },
+    "file_vuerc": {
+      "fontCharacter": "\\f072"
+    },
+    "file_vuex": {
+      "fontCharacter": "\\f073"
+    },
+    "file_vyper": {
+      "fontCharacter": "\\f074"
+    },
+    "file_w3c": {
+      "fontCharacter": "\\f075"
+    },
+    "file_wallaby": {
+      "fontCharacter": "\\f076"
+    },
+    "file_wally": {
+      "fontCharacter": "\\f077"
+    },
+    "file_walt": {
+      "fontCharacter": "\\f078"
+    },
+    "file_warcraft3": {
+      "fontCharacter": "\\f079"
+    },
+    "file_watchman": {
+      "fontCharacter": "\\f07a"
+    },
+    "file_wdl": {
+      "fontCharacter": "\\f07b"
+    },
+    "file_web2py": {
+      "fontCharacter": "\\f07c"
+    },
+    "file_webassembly": {
+      "fontCharacter": "\\f07d"
+    },
+    "file_webgl": {
+      "fontCharacter": "\\f07e"
+    },
+    "file_webhint": {
+      "fontCharacter": "\\f07f"
+    },
+    "file_webp": {
+      "fontCharacter": "\\f080"
+    },
+    "file_webpack": {
+      "fontCharacter": "\\f081"
+    },
+    "file_webvtt": {
+      "fontCharacter": "\\f082"
+    },
+    "file_wenyan": {
+      "fontCharacter": "\\f083"
+    },
+    "file_wepy": {
+      "fontCharacter": "\\f084"
+    },
+    "file_wercker": {
+      "fontCharacter": "\\f085"
+    },
+    "file_wget": {
+      "fontCharacter": "\\f086"
+    },
+    "file_wgsl": {
+      "fontCharacter": "\\f087"
+    },
+    "file_wikitext": {
+      "fontCharacter": "\\f088"
+    },
+    "file_wikitext_dark": {
+      "fontCharacter": "\\f089"
+    },
+    "file_windi": {
+      "fontCharacter": "\\f08a"
+    },
+    "file_windows": {
+      "fontCharacter": "\\f08b"
+    },
+    "file_winui": {
+      "fontCharacter": "\\f08c"
+    },
+    "file_wite": {
+      "fontCharacter": "\\f08d"
+    },
+    "file_wix": {
+      "fontCharacter": "\\f08e"
+    },
+    "file_wolfram": {
+      "fontCharacter": "\\f08f"
+    },
+    "file_woodpecker": {
+      "fontCharacter": "\\f090"
+    },
+    "file_word": {
+      "fontCharacter": "\\f091"
+    },
+    "file_wordpress": {
+      "fontCharacter": "\\f092"
+    },
+    "file_wordpressignore": {
+      "fontCharacter": "\\f093"
+    },
+    "file_workbox": {
+      "fontCharacter": "\\f094"
+    },
+    "file_wpml": {
+      "fontCharacter": "\\f095"
+    },
+    "file_wsdl": {
+      "fontCharacter": "\\f096"
+    },
+    "file_wurst": {
+      "fontCharacter": "\\f097"
+    },
+    "file_wxml": {
+      "fontCharacter": "\\f098"
+    },
+    "file_wxs": {
+      "fontCharacter": "\\f099"
+    },
+    "file_wxss": {
+      "fontCharacter": "\\f09a"
+    },
+    "file_x10": {
+      "fontCharacter": "\\f09b"
+    },
+    "file_x11": {
+      "fontCharacter": "\\f09c"
+    },
+    "file_xamarin": {
+      "fontCharacter": "\\f09d"
+    },
+    "file_xcode": {
+      "fontCharacter": "\\f09e"
+    },
+    "file_xib": {
+      "fontCharacter": "\\f09f"
+    },
+    "file_xliff": {
+      "fontCharacter": "\\f0a0"
+    },
+    "file_xmake": {
+      "fontCharacter": "\\f0a1"
+    },
+    "file_xml": {
+      "fontCharacter": "\\f0a2"
+    },
+    "file_xml2": {
+      "fontCharacter": "\\f0a3"
+    },
+    "file_xmos": {
+      "fontCharacter": "\\f0a4"
+    },
+    "file_xojo": {
+      "fontCharacter": "\\f0a5"
+    },
+    "file_xpages": {
+      "fontCharacter": "\\f0a6"
+    },
+    "file_xproc": {
+      "fontCharacter": "\\f0a7"
+    },
+    "file_xquery": {
+      "fontCharacter": "\\f0a8"
+    },
+    "file_xsd": {
+      "fontCharacter": "\\f0a9"
+    },
+    "file_xstate": {
+      "fontCharacter": "\\f0aa"
+    },
+    "file_xtend": {
+      "fontCharacter": "\\f0ab"
+    },
+    "file_xubuntu": {
+      "fontCharacter": "\\f0ac"
+    },
+    "file_yaml": {
+      "fontCharacter": "\\f0ad"
+    },
+    "file_yamllint": {
+      "fontCharacter": "\\f0ae"
+    },
+    "file_yandex": {
+      "fontCharacter": "\\f0af"
+    },
+    "file_yang": {
+      "fontCharacter": "\\f0b0"
+    },
+    "file_yara": {
+      "fontCharacter": "\\f0b1"
+    },
+    "file_yard": {
+      "fontCharacter": "\\f0b2"
+    },
+    "file_yarn": {
+      "fontCharacter": "\\f0b3"
+    },
+    "file_yarnclean": {
+      "fontCharacter": "\\f0b4"
+    },
+    "file_yarnlock": {
+      "fontCharacter": "\\f0b5"
+    },
+    "file_yasm": {
+      "fontCharacter": "\\f0b6"
+    },
+    "file_yeoman": {
+      "fontCharacter": "\\f0b7"
+    },
+    "file_yggdrasil": {
+      "fontCharacter": "\\f0b8"
+    },
+    "file_yona": {
+      "fontCharacter": "\\f0b9"
+    },
+    "file_yorick": {
+      "fontCharacter": "\\f0ba"
+    },
+    "file_yorick_dark": {
+      "fontCharacter": "\\f0bb"
+    },
+    "file_yt": {
+      "fontCharacter": "\\f0bc"
+    },
+    "file_yue": {
+      "fontCharacter": "\\f0bd"
+    },
+    "file_yui": {
+      "fontCharacter": "\\f0be"
+    },
+    "file_yvmrc": {
+      "fontCharacter": "\\f0bf"
+    },
+    "file_zbrush": {
+      "fontCharacter": "\\f0c0"
+    },
+    "file_zeit": {
+      "fontCharacter": "\\f0c1"
+    },
+    "file_zeit_dark": {
+      "fontCharacter": "\\f0c2"
+    },
+    "file_zeitignore": {
+      "fontCharacter": "\\f0c3"
+    },
+    "file_zenscript": {
+      "fontCharacter": "\\f0c4"
+    },
+    "file_zephir": {
+      "fontCharacter": "\\f0c5"
+    },
+    "file_zig": {
+      "fontCharacter": "\\f0c6"
+    },
+    "file_zilog": {
+      "fontCharacter": "\\f0c7"
+    },
+    "file_zimpl": {
+      "fontCharacter": "\\f0c8"
+    },
+    "file_zorinos": {
+      "fontCharacter": "\\f0c9"
+    },
+    "file_zork": {
+      "fontCharacter": "\\f0ca"
+    },
+    "file_zsrc": {
+      "fontCharacter": "\\f0cb"
+    },
+    "folder_acf": {
+      "fontCharacter": "\\f0cc"
+    },
+    "folder_acre": {
+      "fontCharacter": "\\f0cd"
+    },
+    "folder_adapter": {
+      "fontCharacter": "\\f0ce"
+    },
+    "folder_addon": {
+      "fontCharacter": "\\f0cf"
+    },
+    "folder_admin": {
+      "fontCharacter": "\\f0d0"
+    },
+    "folder_adr": {
+      "fontCharacter": "\\f0d1"
+    },
+    "folder_agda": {
+      "fontCharacter": "\\f0d2"
+    },
+    "folder_alacritty": {
+      "fontCharacter": "\\f0d3"
+    },
+    "folder_amplication": {
+      "fontCharacter": "\\f0d4"
+    },
+    "folder_android": {
+      "fontCharacter": "\\f0d5"
+    },
+    "folder_angular": {
+      "fontCharacter": "\\f0d6"
+    },
+    "folder_animations": {
+      "fontCharacter": "\\f0d7"
+    },
+    "folder_ansible": {
+      "fontCharacter": "\\f0d8"
+    },
+    "folder_api": {
+      "fontCharacter": "\\f0d9"
+    },
+    "folder_apollo": {
+      "fontCharacter": "\\f0da"
+    },
+    "folder_app": {
+      "fontCharacter": "\\f0db"
+    },
+    "folder_appstore": {
+      "fontCharacter": "\\f0dc"
+    },
+    "folder_archetype": {
+      "fontCharacter": "\\f0dd"
+    },
+    "folder_archive": {
+      "fontCharacter": "\\f0de"
+    },
+    "folder_article": {
+      "fontCharacter": "\\f0df"
+    },
+    "folder_arttext": {
+      "fontCharacter": "\\f0e0"
+    },
+    "folder_astro": {
+      "fontCharacter": "\\f0e1"
+    },
+    "folder_atom": {
+      "fontCharacter": "\\f0e2"
+    },
+    "folder_audio": {
+      "fontCharacter": "\\f0e3"
+    },
+    "folder_aurelia": {
+      "fontCharacter": "\\f0e4"
+    },
+    "folder_automator": {
+      "fontCharacter": "\\f0e5"
+    },
+    "folder_aws": {
+      "fontCharacter": "\\f0e6"
+    },
+    "folder_azure-devops": {
+      "fontCharacter": "\\f0e7"
+    },
+    "folder_azure-pipelines": {
+      "fontCharacter": "\\f0e8"
+    },
+    "folder_base": {
+      "fontCharacter": "\\f0e9"
+    },
+    "folder_bazaar": {
+      "fontCharacter": "\\f0ea"
+    },
+    "folder_benchmark": {
+      "fontCharacter": "\\f0eb"
+    },
+    "folder_bicep": {
+      "fontCharacter": "\\f0ec"
+    },
+    "folder_bitcoin": {
+      "fontCharacter": "\\f0ed"
+    },
+    "folder_bloc": {
+      "fontCharacter": "\\f0ee"
+    },
+    "folder_blueprint": {
+      "fontCharacter": "\\f0ef"
+    },
+    "folder_bot": {
+      "fontCharacter": "\\f0f0"
+    },
+    "folder_bower": {
+      "fontCharacter": "\\f0f1"
+    },
+    "folder_buildkite": {
+      "fontCharacter": "\\f0f2"
+    },
+    "folder_cabal": {
+      "fontCharacter": "\\f0f3"
+    },
+    "folder_cake": {
+      "fontCharacter": "\\f0f4"
+    },
+    "folder_cart": {
+      "fontCharacter": "\\f0f5"
+    },
+    "folder_channels": {
+      "fontCharacter": "\\f0f6"
+    },
+    "folder_charts": {
+      "fontCharacter": "\\f0f7"
+    },
+    "folder_chef": {
+      "fontCharacter": "\\f0f8"
+    },
+    "folder_ci": {
+      "fontCharacter": "\\f0f9"
+    },
+    "folder_circleci": {
+      "fontCharacter": "\\f0fa"
+    },
+    "folder_class": {
+      "fontCharacter": "\\f0fb"
+    },
+    "folder_client": {
+      "fontCharacter": "\\f0fc"
+    },
+    "folder_cluster": {
+      "fontCharacter": "\\f0fd"
+    },
+    "folder_cmake": {
+      "fontCharacter": "\\f0fe"
+    },
+    "folder_cnab": {
+      "fontCharacter": "\\f0ff"
+    },
+    "folder_cobol": {
+      "fontCharacter": "\\f100"
+    },
+    "folder_codesandbox": {
+      "fontCharacter": "\\f101"
+    },
+    "folder_components": {
+      "fontCharacter": "\\f102"
+    },
+    "folder_composer": {
+      "fontCharacter": "\\f103"
+    },
+    "folder_conductor": {
+      "fontCharacter": "\\f104"
+    },
+    "folder_config": {
+      "fontCharacter": "\\f105"
+    },
+    "folder_connection": {
+      "fontCharacter": "\\f106"
+    },
+    "folder_constants": {
+      "fontCharacter": "\\f107"
+    },
+    "folder_container": {
+      "fontCharacter": "\\f108"
+    },
+    "folder_content": {
+      "fontCharacter": "\\f109"
+    },
+    "folder_contract": {
+      "fontCharacter": "\\f10a"
+    },
+    "folder_controllers": {
+      "fontCharacter": "\\f10b"
+    },
+    "folder_core": {
+      "fontCharacter": "\\f10c"
+    },
+    "folder_coverage": {
+      "fontCharacter": "\\f10d"
+    },
+    "folder_crates": {
+      "fontCharacter": "\\f10e"
+    },
+    "folder_cron": {
+      "fontCharacter": "\\f10f"
+    },
+    "folder_cubit": {
+      "fontCharacter": "\\f110"
+    },
+    "folder_cue": {
+      "fontCharacter": "\\f111"
+    },
+    "folder_custom": {
+      "fontCharacter": "\\f112"
+    },
+    "folder_cvs": {
+      "fontCharacter": "\\f113"
+    },
+    "folder_cypress": {
+      "fontCharacter": "\\f114"
+    },
+    "folder_dapr": {
+      "fontCharacter": "\\f115"
+    },
+    "folder_dart": {
+      "fontCharacter": "\\f116"
+    },
+    "folder_db": {
+      "fontCharacter": "\\f117"
+    },
+    "folder_debian": {
+      "fontCharacter": "\\f118"
+    },
+    "folder_debug": {
+      "fontCharacter": "\\f119"
+    },
+    "folder_decorators": {
+      "fontCharacter": "\\f11a"
+    },
+    "folder_default": {
+      "fontCharacter": "\\f11b"
+    },
+    "folder_delta": {
+      "fontCharacter": "\\f11c"
+    },
+    "folder_deno": {
+      "fontCharacter": "\\f11d"
+    },
+    "folder_dependabot": {
+      "fontCharacter": "\\f11e"
+    },
+    "folder_deploy": {
+      "fontCharacter": "\\f11f"
+    },
+    "folder_devcontainer": {
+      "fontCharacter": "\\f120"
+    },
+    "folder_dist": {
+      "fontCharacter": "\\f121"
+    },
+    "folder_docker": {
+      "fontCharacter": "\\f122"
+    },
+    "folder_docs": {
+      "fontCharacter": "\\f123"
+    },
+    "folder_domain": {
+      "fontCharacter": "\\f124"
+    },
+    "folder_download": {
+      "fontCharacter": "\\f125"
+    },
+    "folder_drizzle": {
+      "fontCharacter": "\\f126"
+    },
+    "folder_dropbox": {
+      "fontCharacter": "\\f127"
+    },
+    "folder_dub": {
+      "fontCharacter": "\\f128"
+    },
+    "folder_dump": {
+      "fontCharacter": "\\f129"
+    },
+    "folder_dvc": {
+      "fontCharacter": "\\f12a"
+    },
+    "folder_e2e": {
+      "fontCharacter": "\\f12b"
+    },
+    "folder_elastic": {
+      "fontCharacter": "\\f12c"
+    },
+    "folder_electron": {
+      "fontCharacter": "\\f12d"
+    },
+    "folder_elixir": {
+      "fontCharacter": "\\f12e"
+    },
+    "folder_emacs": {
+      "fontCharacter": "\\f12f"
+    },
+    "folder_empties": {
+      "fontCharacter": "\\f130"
+    },
+    "folder_env": {
+      "fontCharacter": "\\f131"
+    },
+    "folder_error": {
+      "fontCharacter": "\\f132"
+    },
+    "folder_events": {
+      "fontCharacter": "\\f133"
+    },
+    "folder_examples": {
+      "fontCharacter": "\\f134"
+    },
+    "folder_exclude": {
+      "fontCharacter": "\\f135"
+    },
+    "folder_expo": {
+      "fontCharacter": "\\f136"
+    },
+    "folder_faq": {
+      "fontCharacter": "\\f137"
+    },
+    "folder_fastlane": {
+      "fontCharacter": "\\f138"
+    },
+    "folder_favorites": {
+      "fontCharacter": "\\f139"
+    },
+    "folder_features": {
+      "fontCharacter": "\\f13a"
+    },
+    "folder_firebase": {
+      "fontCharacter": "\\f13b"
+    },
+    "folder_fixtures": {
+      "fontCharacter": "\\f13c"
+    },
+    "folder_flow": {
+      "fontCharacter": "\\f13d"
+    },
+    "folder_fluig": {
+      "fontCharacter": "\\f13e"
+    },
+    "folder_flutter": {
+      "fontCharacter": "\\f13f"
+    },
+    "folder_folder": {
+      "fontCharacter": "\\f140"
+    },
+    "folder_folder-root": {
+      "fontCharacter": "\\f141"
+    },
+    "folder_fonts": {
+      "fontCharacter": "\\f142"
+    },
+    "folder_functions": {
+      "fontCharacter": "\\f143"
+    },
+    "folder_gcloud": {
+      "fontCharacter": "\\f144"
+    },
+    "folder_generated": {
+      "fontCharacter": "\\f145"
+    },
+    "folder_git": {
+      "fontCharacter": "\\f146"
+    },
+    "folder_gitea": {
+      "fontCharacter": "\\f147"
+    },
+    "folder_github": {
+      "fontCharacter": "\\f148"
+    },
+    "folder_gitlab": {
+      "fontCharacter": "\\f149"
+    },
+    "folder_global": {
+      "fontCharacter": "\\f14a"
+    },
+    "folder_gradle": {
+      "fontCharacter": "\\f14b"
+    },
+    "folder_graphql": {
+      "fontCharacter": "\\f14c"
+    },
+    "folder_grunt": {
+      "fontCharacter": "\\f14d"
+    },
+    "folder_guard": {
+      "fontCharacter": "\\f14e"
+    },
+    "folder_gulp": {
+      "fontCharacter": "\\f14f"
+    },
+    "folder_hasura": {
+      "fontCharacter": "\\f150"
+    },
+    "folder_haxelib": {
+      "fontCharacter": "\\f151"
+    },
+    "folder_helm": {
+      "fontCharacter": "\\f152"
+    },
+    "folder_helper": {
+      "fontCharacter": "\\f153"
+    },
+    "folder_home": {
+      "fontCharacter": "\\f154"
+    },
+    "folder_hook": {
+      "fontCharacter": "\\f155"
+    },
+    "folder_husky": {
+      "fontCharacter": "\\f156"
+    },
+    "folder_i18n": {
+      "fontCharacter": "\\f157"
+    },
+    "folder_icons": {
+      "fontCharacter": "\\f158"
+    },
+    "folder_idea": {
+      "fontCharacter": "\\f159"
+    },
+    "folder_images": {
+      "fontCharacter": "\\f15a"
+    },
+    "folder_include": {
+      "fontCharacter": "\\f15b"
+    },
+    "folder_info": {
+      "fontCharacter": "\\f15c"
+    },
+    "folder_init": {
+      "fontCharacter": "\\f15d"
+    },
+    "folder_injection": {
+      "fontCharacter": "\\f15e"
+    },
+    "folder_interceptor": {
+      "fontCharacter": "\\f15f"
+    },
+    "folder_internal": {
+      "fontCharacter": "\\f160"
+    },
+    "folder_ios": {
+      "fontCharacter": "\\f161"
+    },
+    "folder_iosapp": {
+      "fontCharacter": "\\f162"
+    },
+    "folder_islands": {
+      "fontCharacter": "\\f163"
+    },
+    "folder_istanbul": {
+      "fontCharacter": "\\f164"
+    },
+    "folder_java": {
+      "fontCharacter": "\\f165"
+    },
+    "folder_jest": {
+      "fontCharacter": "\\f166"
+    },
+    "folder_jinja": {
+      "fontCharacter": "\\f167"
+    },
+    "folder_job": {
+      "fontCharacter": "\\f168"
+    },
+    "folder_js": {
+      "fontCharacter": "\\f169"
+    },
+    "folder_json": {
+      "fontCharacter": "\\f16a"
+    },
+    "folder_jwt": {
+      "fontCharacter": "\\f16b"
+    },
+    "folder_keys": {
+      "fontCharacter": "\\f16c"
+    },
+    "folder_kivy": {
+      "fontCharacter": "\\f16d"
+    },
+    "folder_kotlin": {
+      "fontCharacter": "\\f16e"
+    },
+    "folder_kubernetes": {
+      "fontCharacter": "\\f16f"
+    },
+    "folder_kustomize": {
+      "fontCharacter": "\\f170"
+    },
+    "folder_layouts": {
+      "fontCharacter": "\\f171"
+    },
+    "folder_less": {
+      "fontCharacter": "\\f172"
+    },
+    "folder_lib": {
+      "fontCharacter": "\\f173"
+    },
+    "folder_linux": {
+      "fontCharacter": "\\f174"
+    },
+    "folder_logs": {
+      "fontCharacter": "\\f175"
+    },
+    "folder_lottie": {
+      "fontCharacter": "\\f176"
+    },
+    "folder_lua": {
+      "fontCharacter": "\\f177"
+    },
+    "folder_mac": {
+      "fontCharacter": "\\f178"
+    },
+    "folder_mailers": {
+      "fontCharacter": "\\f179"
+    },
+    "folder_main": {
+      "fontCharacter": "\\f17a"
+    },
+    "folder_maps": {
+      "fontCharacter": "\\f17b"
+    },
+    "folder_markdown": {
+      "fontCharacter": "\\f17c"
+    },
+    "folder_math": {
+      "fontCharacter": "\\f17d"
+    },
+    "folder_maven": {
+      "fontCharacter": "\\f17e"
+    },
+    "folder_mercurial": {
+      "fontCharacter": "\\f17f"
+    },
+    "folder_messages": {
+      "fontCharacter": "\\f180"
+    },
+    "folder_meta": {
+      "fontCharacter": "\\f181"
+    },
+    "folder_meteor": {
+      "fontCharacter": "\\f182"
+    },
+    "folder_middleware": {
+      "fontCharacter": "\\f183"
+    },
+    "folder_mindsdb": {
+      "fontCharacter": "\\f184"
+    },
+    "folder_mjml": {
+      "fontCharacter": "\\f185"
+    },
+    "folder_mobile": {
+      "fontCharacter": "\\f186"
+    },
+    "folder_mocks": {
+      "fontCharacter": "\\f187"
+    },
+    "folder_modals": {
+      "fontCharacter": "\\f188"
+    },
+    "folder_models": {
+      "fontCharacter": "\\f189"
+    },
+    "folder_molecules": {
+      "fontCharacter": "\\f18a"
+    },
+    "folder_mongo": {
+      "fontCharacter": "\\f18b"
+    },
+    "folder_moon": {
+      "fontCharacter": "\\f18c"
+    },
+    "folder_msw": {
+      "fontCharacter": "\\f18d"
+    },
+    "folder_navigation": {
+      "fontCharacter": "\\f18e"
+    },
+    "folder_netlify": {
+      "fontCharacter": "\\f18f"
+    },
+    "folder_next": {
+      "fontCharacter": "\\f190"
+    },
+    "folder_node": {
+      "fontCharacter": "\\f191"
+    },
+    "folder_notebooks": {
+      "fontCharacter": "\\f192"
+    },
+    "folder_notification": {
+      "fontCharacter": "\\f193"
+    },
+    "folder_nuget": {
+      "fontCharacter": "\\f194"
+    },
+    "folder_nuxt": {
+      "fontCharacter": "\\f195"
+    },
+    "folder_nx": {
+      "fontCharacter": "\\f196"
+    },
+    "folder_openshift": {
+      "fontCharacter": "\\f197"
+    },
+    "folder_orders": {
+      "fontCharacter": "\\f198"
+    },
+    "folder_osx": {
+      "fontCharacter": "\\f199"
+    },
+    "folder_other": {
+      "fontCharacter": "\\f19a"
+    },
+    "folder_packages": {
+      "fontCharacter": "\\f19b"
+    },
+    "folder_parcel": {
+      "fontCharacter": "\\f19c"
+    },
+    "folder_pdf": {
+      "fontCharacter": "\\f19d"
+    },
+    "folder_pdm": {
+      "fontCharacter": "\\f19e"
+    },
+    "folder_perl": {
+      "fontCharacter": "\\f19f"
+    },
+    "folder_php": {
+      "fontCharacter": "\\f1a0"
+    },
+    "folder_pinia": {
+      "fontCharacter": "\\f1a1"
+    },
+    "folder_pipe": {
+      "fontCharacter": "\\f1a2"
+    },
+    "folder_plastic": {
+      "fontCharacter": "\\f1a3"
+    },
+    "folder_platformio": {
+      "fontCharacter": "\\f1a4"
+    },
+    "folder_playwright": {
+      "fontCharacter": "\\f1a5"
+    },
+    "folder_plugin": {
+      "fontCharacter": "\\f1a6"
+    },
+    "folder_posts": {
+      "fontCharacter": "\\f1a7"
+    },
+    "folder_prisma": {
+      "fontCharacter": "\\f1a8"
+    },
+    "folder_private": {
+      "fontCharacter": "\\f1a9"
+    },
+    "folder_profiles": {
+      "fontCharacter": "\\f1aa"
+    },
+    "folder_project": {
+      "fontCharacter": "\\f1ab"
+    },
+    "folder_projects": {
+      "fontCharacter": "\\f1ac"
+    },
+    "folder_protobuf": {
+      "fontCharacter": "\\f1ad"
+    },
+    "folder_providers": {
+      "fontCharacter": "\\f1ae"
+    },
+    "folder_python": {
+      "fontCharacter": "\\f1af"
+    },
+    "folder_quantum": {
+      "fontCharacter": "\\f1b0"
+    },
+    "folder_quasar": {
+      "fontCharacter": "\\f1b1"
+    },
+    "folder_queries": {
+      "fontCharacter": "\\f1b2"
+    },
+    "folder_queue": {
+      "fontCharacter": "\\f1b3"
+    },
+    "folder_react": {
+      "fontCharacter": "\\f1b4"
+    },
+    "folder_recoil": {
+      "fontCharacter": "\\f1b5"
+    },
+    "folder_redhat": {
+      "fontCharacter": "\\f1b6"
+    },
+    "folder_redis": {
+      "fontCharacter": "\\f1b7"
+    },
+    "folder_redux": {
+      "fontCharacter": "\\f1b8"
+    },
+    "folder_redux-actions": {
+      "fontCharacter": "\\f1b9"
+    },
+    "folder_redux-epics": {
+      "fontCharacter": "\\f1ba"
+    },
+    "folder_redux-reducers": {
+      "fontCharacter": "\\f1bb"
+    },
+    "folder_redux-sagas": {
+      "fontCharacter": "\\f1bc"
+    },
+    "folder_redux-stores": {
+      "fontCharacter": "\\f1bd"
+    },
+    "folder_redwood": {
+      "fontCharacter": "\\f1be"
+    },
+    "folder_relay": {
+      "fontCharacter": "\\f1bf"
+    },
+    "folder_resolver": {
+      "fontCharacter": "\\f1c0"
+    },
+    "folder_resource": {
+      "fontCharacter": "\\f1c1"
+    },
+    "folder_reviews": {
+      "fontCharacter": "\\f1c2"
+    },
+    "folder_root": {
+      "fontCharacter": "\\f1c3"
+    },
+    "folder_routes": {
+      "fontCharacter": "\\f1c4"
+    },
+    "folder_ruby": {
+      "fontCharacter": "\\f1c5"
+    },
+    "folder_rules": {
+      "fontCharacter": "\\f1c6"
+    },
+    "folder_rust": {
+      "fontCharacter": "\\f1c7"
+    },
+    "folder_sass": {
+      "fontCharacter": "\\f1c8"
+    },
+    "folder_scala": {
+      "fontCharacter": "\\f1c9"
+    },
+    "folder_scons": {
+      "fontCharacter": "\\f1ca"
+    },
+    "folder_scratch": {
+      "fontCharacter": "\\f1cb"
+    },
+    "folder_screens": {
+      "fontCharacter": "\\f1cc"
+    },
+    "folder_scripts": {
+      "fontCharacter": "\\f1cd"
+    },
+    "folder_security": {
+      "fontCharacter": "\\f1ce"
+    },
+    "folder_seed": {
+      "fontCharacter": "\\f1cf"
+    },
+    "folder_server": {
+      "fontCharacter": "\\f1d0"
+    },
+    "folder_serverless": {
+      "fontCharacter": "\\f1d1"
+    },
+    "folder_shader": {
+      "fontCharacter": "\\f1d2"
+    },
+    "folder_shared": {
+      "fontCharacter": "\\f1d3"
+    },
+    "folder_skeletons": {
+      "fontCharacter": "\\f1d4"
+    },
+    "folder_sql": {
+      "fontCharacter": "\\f1d5"
+    },
+    "folder_src": {
+      "fontCharacter": "\\f1d6"
+    },
+    "folder_sso": {
+      "fontCharacter": "\\f1d7"
+    },
+    "folder_sst": {
+      "fontCharacter": "\\f1d8"
+    },
+    "folder_stack": {
+      "fontCharacter": "\\f1d9"
+    },
+    "folder_stencil": {
+      "fontCharacter": "\\f1da"
+    },
+    "folder_storage": {
+      "fontCharacter": "\\f1db"
+    },
+    "folder_storyblok": {
+      "fontCharacter": "\\f1dc"
+    },
+    "folder_storybook": {
+      "fontCharacter": "\\f1dd"
+    },
+    "folder_strategy": {
+      "fontCharacter": "\\f1de"
+    },
+    "folder_styled": {
+      "fontCharacter": "\\f1df"
+    },
+    "folder_styles": {
+      "fontCharacter": "\\f1e0"
+    },
+    "folder_stylus": {
+      "fontCharacter": "\\f1e1"
+    },
+    "folder_sublime": {
+      "fontCharacter": "\\f1e2"
+    },
+    "folder_supabase": {
+      "fontCharacter": "\\f1e3"
+    },
+    "folder_svelte": {
+      "fontCharacter": "\\f1e4"
+    },
+    "folder_svg": {
+      "fontCharacter": "\\f1e5"
+    },
+    "folder_svn": {
+      "fontCharacter": "\\f1e6"
+    },
+    "folder_swagger": {
+      "fontCharacter": "\\f1e7"
+    },
+    "folder_sync": {
+      "fontCharacter": "\\f1e8"
+    },
+    "folder_syntax": {
+      "fontCharacter": "\\f1e9"
+    },
+    "folder_target": {
+      "fontCharacter": "\\f1ea"
+    },
+    "folder_taskfile": {
+      "fontCharacter": "\\f1eb"
+    },
+    "folder_tasks": {
+      "fontCharacter": "\\f1ec"
+    },
+    "folder_tauri": {
+      "fontCharacter": "\\f1ed"
+    },
+    "folder_tech": {
+      "fontCharacter": "\\f1ee"
+    },
+    "folder_temp": {
+      "fontCharacter": "\\f1ef"
+    },
+    "folder_terraform": {
+      "fontCharacter": "\\f1f0"
+    },
+    "folder_tests": {
+      "fontCharacter": "\\f1f1"
+    },
+    "folder_textmate": {
+      "fontCharacter": "\\f1f2"
+    },
+    "folder_themes": {
+      "fontCharacter": "\\f1f3"
+    },
+    "folder_tools": {
+      "fontCharacter": "\\f1f4"
+    },
+    "folder_totvs": {
+      "fontCharacter": "\\f1f5"
+    },
+    "folder_trait": {
+      "fontCharacter": "\\f1f6"
+    },
+    "folder_ts": {
+      "fontCharacter": "\\f1f7"
+    },
+    "folder_turborepo": {
+      "fontCharacter": "\\f1f8"
+    },
+    "folder_ui": {
+      "fontCharacter": "\\f1f9"
+    },
+    "folder_unity": {
+      "fontCharacter": "\\f1fa"
+    },
+    "folder_upload": {
+      "fontCharacter": "\\f1fb"
+    },
+    "folder_users": {
+      "fontCharacter": "\\f1fc"
+    },
+    "folder_vagrant": {
+      "fontCharacter": "\\f1fd"
+    },
+    "folder_venv": {
+      "fontCharacter": "\\f1fe"
+    },
+    "folder_vercel": {
+      "fontCharacter": "\\f1ff"
+    },
+    "folder_verdaccio": {
+      "fontCharacter": "\\f200"
+    },
+    "folder_video": {
+      "fontCharacter": "\\f201"
+    },
+    "folder_viewmodel": {
+      "fontCharacter": "\\f202"
+    },
+    "folder_views": {
+      "fontCharacter": "\\f203"
+    },
+    "folder_vim": {
+      "fontCharacter": "\\f204"
+    },
+    "folder_vitepress": {
+      "fontCharacter": "\\f205"
+    },
+    "folder_vm": {
+      "fontCharacter": "\\f206"
+    },
+    "folder_vs": {
+      "fontCharacter": "\\f207"
+    },
+    "folder_vscode": {
+      "fontCharacter": "\\f208"
+    },
+    "folder_vue": {
+      "fontCharacter": "\\f209"
+    },
+    "folder_vuepress": {
+      "fontCharacter": "\\f20a"
+    },
+    "folder_vuex": {
+      "fontCharacter": "\\f20b"
+    },
+    "folder_web": {
+      "fontCharacter": "\\f20c"
+    },
+    "folder_webcomponents": {
+      "fontCharacter": "\\f20d"
+    },
+    "folder_webpack": {
+      "fontCharacter": "\\f20e"
+    },
+    "folder_windows": {
+      "fontCharacter": "\\f20f"
+    },
+    "folder_wine": {
+      "fontCharacter": "\\f210"
+    },
+    "folder_woocommerce": {
+      "fontCharacter": "\\f211"
+    },
+    "folder_woodpecker": {
+      "fontCharacter": "\\f212"
+    },
+    "folder_wordpress": {
+      "fontCharacter": "\\f213"
+    },
+    "folder_xstate": {
+      "fontCharacter": "\\f214"
+    },
+    "folder_yarn": {
+      "fontCharacter": "\\f215"
+    },
+    "folder-open_acf": {
+      "fontCharacter": "\\f216"
+    },
+    "folder-open_acre": {
+      "fontCharacter": "\\f217"
+    },
+    "folder-open_adapter": {
+      "fontCharacter": "\\f218"
+    },
+    "folder-open_addon": {
+      "fontCharacter": "\\f219"
+    },
+    "folder-open_admin": {
+      "fontCharacter": "\\f21a"
+    },
+    "folder-open_adr": {
+      "fontCharacter": "\\f21b"
+    },
+    "folder-open_agda": {
+      "fontCharacter": "\\f21c"
+    },
+    "folder-open_alacritty": {
+      "fontCharacter": "\\f21d"
+    },
+    "folder-open_amplication": {
+      "fontCharacter": "\\f21e"
+    },
+    "folder-open_android": {
+      "fontCharacter": "\\f21f"
+    },
+    "folder-open_angular": {
+      "fontCharacter": "\\f220"
+    },
+    "folder-open_animations": {
+      "fontCharacter": "\\f221"
+    },
+    "folder-open_ansible": {
+      "fontCharacter": "\\f222"
+    },
+    "folder-open_api": {
+      "fontCharacter": "\\f223"
+    },
+    "folder-open_apollo": {
+      "fontCharacter": "\\f224"
+    },
+    "folder-open_app": {
+      "fontCharacter": "\\f225"
+    },
+    "folder-open_appstore": {
+      "fontCharacter": "\\f226"
+    },
+    "folder-open_archetype": {
+      "fontCharacter": "\\f227"
+    },
+    "folder-open_archive": {
+      "fontCharacter": "\\f228"
+    },
+    "folder-open_article": {
+      "fontCharacter": "\\f229"
+    },
+    "folder-open_arttext": {
+      "fontCharacter": "\\f22a"
+    },
+    "folder-open_astro": {
+      "fontCharacter": "\\f22b"
+    },
+    "folder-open_atom": {
+      "fontCharacter": "\\f22c"
+    },
+    "folder-open_audio": {
+      "fontCharacter": "\\f22d"
+    },
+    "folder-open_aurelia": {
+      "fontCharacter": "\\f22e"
+    },
+    "folder-open_automator": {
+      "fontCharacter": "\\f22f"
+    },
+    "folder-open_aws": {
+      "fontCharacter": "\\f230"
+    },
+    "folder-open_azure-devops": {
+      "fontCharacter": "\\f231"
+    },
+    "folder-open_azure-pipelines": {
+      "fontCharacter": "\\f232"
+    },
+    "folder-open_base": {
+      "fontCharacter": "\\f233"
+    },
+    "folder-open_bazaar": {
+      "fontCharacter": "\\f234"
+    },
+    "folder-open_benchmark": {
+      "fontCharacter": "\\f235"
+    },
+    "folder-open_bicep": {
+      "fontCharacter": "\\f236"
+    },
+    "folder-open_bitcoin": {
+      "fontCharacter": "\\f237"
+    },
+    "folder-open_bloc": {
+      "fontCharacter": "\\f238"
+    },
+    "folder-open_blueprint": {
+      "fontCharacter": "\\f239"
+    },
+    "folder-open_bot": {
+      "fontCharacter": "\\f23a"
+    },
+    "folder-open_bower": {
+      "fontCharacter": "\\f23b"
+    },
+    "folder-open_buildkite": {
+      "fontCharacter": "\\f23c"
+    },
+    "folder-open_cabal": {
+      "fontCharacter": "\\f23d"
+    },
+    "folder-open_cake": {
+      "fontCharacter": "\\f23e"
+    },
+    "folder-open_cart": {
+      "fontCharacter": "\\f23f"
+    },
+    "folder-open_channels": {
+      "fontCharacter": "\\f240"
+    },
+    "folder-open_charts": {
+      "fontCharacter": "\\f241"
+    },
+    "folder-open_chef": {
+      "fontCharacter": "\\f242"
+    },
+    "folder-open_ci": {
+      "fontCharacter": "\\f243"
+    },
+    "folder-open_circleci": {
+      "fontCharacter": "\\f244"
+    },
+    "folder-open_class": {
+      "fontCharacter": "\\f245"
+    },
+    "folder-open_client": {
+      "fontCharacter": "\\f246"
+    },
+    "folder-open_cluster": {
+      "fontCharacter": "\\f247"
+    },
+    "folder-open_cmake": {
+      "fontCharacter": "\\f248"
+    },
+    "folder-open_cnab": {
+      "fontCharacter": "\\f249"
+    },
+    "folder-open_cobol": {
+      "fontCharacter": "\\f24a"
+    },
+    "folder-open_codesandbox": {
+      "fontCharacter": "\\f24b"
+    },
+    "folder-open_components": {
+      "fontCharacter": "\\f24c"
+    },
+    "folder-open_composer": {
+      "fontCharacter": "\\f24d"
+    },
+    "folder-open_conductor": {
+      "fontCharacter": "\\f24e"
+    },
+    "folder-open_config": {
+      "fontCharacter": "\\f24f"
+    },
+    "folder-open_connection": {
+      "fontCharacter": "\\f250"
+    },
+    "folder-open_constants": {
+      "fontCharacter": "\\f251"
+    },
+    "folder-open_container": {
+      "fontCharacter": "\\f252"
+    },
+    "folder-open_content": {
+      "fontCharacter": "\\f253"
+    },
+    "folder-open_contract": {
+      "fontCharacter": "\\f254"
+    },
+    "folder-open_controllers": {
+      "fontCharacter": "\\f255"
+    },
+    "folder-open_core": {
+      "fontCharacter": "\\f256"
+    },
+    "folder-open_coverage": {
+      "fontCharacter": "\\f257"
+    },
+    "folder-open_crates": {
+      "fontCharacter": "\\f258"
+    },
+    "folder-open_cron": {
+      "fontCharacter": "\\f259"
+    },
+    "folder-open_css": {
+      "fontCharacter": "\\f25a"
+    },
+    "folder-open_cubit": {
+      "fontCharacter": "\\f25b"
+    },
+    "folder-open_cue": {
+      "fontCharacter": "\\f25c"
+    },
+    "folder-open_custom": {
+      "fontCharacter": "\\f25d"
+    },
+    "folder-open_cvs": {
+      "fontCharacter": "\\f25e"
+    },
+    "folder-open_cypress": {
+      "fontCharacter": "\\f25f"
+    },
+    "folder-open_dapr": {
+      "fontCharacter": "\\f260"
+    },
+    "folder-open_dart": {
+      "fontCharacter": "\\f261"
+    },
+    "folder-open_db": {
+      "fontCharacter": "\\f262"
+    },
+    "folder-open_debian": {
+      "fontCharacter": "\\f263"
+    },
+    "folder-open_debug": {
+      "fontCharacter": "\\f264"
+    },
+    "folder-open_decorators": {
+      "fontCharacter": "\\f265"
+    },
+    "folder-open_default": {
+      "fontCharacter": "\\f266"
+    },
+    "folder-open_delta": {
+      "fontCharacter": "\\f267"
+    },
+    "folder-open_deno": {
+      "fontCharacter": "\\f268"
+    },
+    "folder-open_dependabot": {
+      "fontCharacter": "\\f269"
+    },
+    "folder-open_deploy": {
+      "fontCharacter": "\\f26a"
+    },
+    "folder-open_devcontainer": {
+      "fontCharacter": "\\f26b"
+    },
+    "folder-open_dist": {
+      "fontCharacter": "\\f26c"
+    },
+    "folder-open_docker": {
+      "fontCharacter": "\\f26d"
+    },
+    "folder-open_docs": {
+      "fontCharacter": "\\f26e"
+    },
+    "folder-open_domain": {
+      "fontCharacter": "\\f26f"
+    },
+    "folder-open_download": {
+      "fontCharacter": "\\f270"
+    },
+    "folder-open_drizzle": {
+      "fontCharacter": "\\f271"
+    },
+    "folder-open_dropbox": {
+      "fontCharacter": "\\f272"
+    },
+    "folder-open_dub": {
+      "fontCharacter": "\\f273"
+    },
+    "folder-open_dump": {
+      "fontCharacter": "\\f274"
+    },
+    "folder-open_dvc": {
+      "fontCharacter": "\\f275"
+    },
+    "folder-open_e2e": {
+      "fontCharacter": "\\f276"
+    },
+    "folder-open_elastic": {
+      "fontCharacter": "\\f277"
+    },
+    "folder-open_electron": {
+      "fontCharacter": "\\f278"
+    },
+    "folder-open_elixir": {
+      "fontCharacter": "\\f279"
+    },
+    "folder-open_emacs": {
+      "fontCharacter": "\\f27a"
+    },
+    "folder-open_empties": {
+      "fontCharacter": "\\f27b"
+    },
+    "folder-open_env": {
+      "fontCharacter": "\\f27c"
+    },
+    "folder-open_error": {
+      "fontCharacter": "\\f27d"
+    },
+    "folder-open_events": {
+      "fontCharacter": "\\f27e"
+    },
+    "folder-open_examples": {
+      "fontCharacter": "\\f27f"
+    },
+    "folder-open_exclude": {
+      "fontCharacter": "\\f280"
+    },
+    "folder-open_expo": {
+      "fontCharacter": "\\f281"
+    },
+    "folder-open_faq": {
+      "fontCharacter": "\\f282"
+    },
+    "folder-open_fastlane": {
+      "fontCharacter": "\\f283"
+    },
+    "folder-open_favorites": {
+      "fontCharacter": "\\f284"
+    },
+    "folder-open_features": {
+      "fontCharacter": "\\f285"
+    },
+    "folder-open_firebase": {
+      "fontCharacter": "\\f286"
+    },
+    "folder-open_fixtures": {
+      "fontCharacter": "\\f287"
+    },
+    "folder-open_flow": {
+      "fontCharacter": "\\f288"
+    },
+    "folder-open_fluig": {
+      "fontCharacter": "\\f289"
+    },
+    "folder-open_flutter": {
+      "fontCharacter": "\\f28a"
+    },
+    "folder-open_folder": {
+      "fontCharacter": "\\f28b"
+    },
+    "folder-open_folder-root": {
+      "fontCharacter": "\\f28c"
+    },
+    "folder-open_fonts": {
+      "fontCharacter": "\\f28d"
+    },
+    "folder-open_functions": {
+      "fontCharacter": "\\f28e"
+    },
+    "folder-open_gcloud": {
+      "fontCharacter": "\\f28f"
+    },
+    "folder-open_generated": {
+      "fontCharacter": "\\f290"
+    },
+    "folder-open_git": {
+      "fontCharacter": "\\f291"
+    },
+    "folder-open_gitea": {
+      "fontCharacter": "\\f292"
+    },
+    "folder-open_github": {
+      "fontCharacter": "\\f293"
+    },
+    "folder-open_gitlab": {
+      "fontCharacter": "\\f294"
+    },
+    "folder-open_global": {
+      "fontCharacter": "\\f295"
+    },
+    "folder-open_gradle": {
+      "fontCharacter": "\\f296"
+    },
+    "folder-open_graphql": {
+      "fontCharacter": "\\f297"
+    },
+    "folder-open_grunt": {
+      "fontCharacter": "\\f298"
+    },
+    "folder-open_guard": {
+      "fontCharacter": "\\f299"
+    },
+    "folder-open_gulp": {
+      "fontCharacter": "\\f29a"
+    },
+    "folder-open_hasura": {
+      "fontCharacter": "\\f29b"
+    },
+    "folder-open_haxelib": {
+      "fontCharacter": "\\f29c"
+    },
+    "folder-open_helm": {
+      "fontCharacter": "\\f29d"
+    },
+    "folder-open_helper": {
+      "fontCharacter": "\\f29e"
+    },
+    "folder-open_home": {
+      "fontCharacter": "\\f29f"
+    },
+    "folder-open_hook": {
+      "fontCharacter": "\\f2a0"
+    },
+    "folder-open_husky": {
+      "fontCharacter": "\\f2a1"
+    },
+    "folder-open_i18n": {
+      "fontCharacter": "\\f2a2"
+    },
+    "folder-open_icons": {
+      "fontCharacter": "\\f2a3"
+    },
+    "folder-open_idea": {
+      "fontCharacter": "\\f2a4"
+    },
+    "folder-open_images": {
+      "fontCharacter": "\\f2a5"
+    },
+    "folder-open_include": {
+      "fontCharacter": "\\f2a6"
+    },
+    "folder-open_info": {
+      "fontCharacter": "\\f2a7"
+    },
+    "folder-open_init": {
+      "fontCharacter": "\\f2a8"
+    },
+    "folder-open_injection": {
+      "fontCharacter": "\\f2a9"
+    },
+    "folder-open_interceptor": {
+      "fontCharacter": "\\f2aa"
+    },
+    "folder-open_internal": {
+      "fontCharacter": "\\f2ab"
+    },
+    "folder-open_ios": {
+      "fontCharacter": "\\f2ac"
+    },
+    "folder-open_iosapp": {
+      "fontCharacter": "\\f2ad"
+    },
+    "folder-open_islands": {
+      "fontCharacter": "\\f2ae"
+    },
+    "folder-open_istanbul": {
+      "fontCharacter": "\\f2af"
+    },
+    "folder-open_java": {
+      "fontCharacter": "\\f2b0"
+    },
+    "folder-open_jest": {
+      "fontCharacter": "\\f2b1"
+    },
+    "folder-open_jinja": {
+      "fontCharacter": "\\f2b2"
+    },
+    "folder-open_job": {
+      "fontCharacter": "\\f2b3"
+    },
+    "folder-open_js": {
+      "fontCharacter": "\\f2b4"
+    },
+    "folder-open_json": {
+      "fontCharacter": "\\f2b5"
+    },
+    "folder-open_jwt": {
+      "fontCharacter": "\\f2b6"
+    },
+    "folder-open_keys": {
+      "fontCharacter": "\\f2b7"
+    },
+    "folder-open_kivy": {
+      "fontCharacter": "\\f2b8"
+    },
+    "folder-open_kotlin": {
+      "fontCharacter": "\\f2b9"
+    },
+    "folder-open_kubernetes": {
+      "fontCharacter": "\\f2ba"
+    },
+    "folder-open_kustomize": {
+      "fontCharacter": "\\f2bb"
+    },
+    "folder-open_layouts": {
+      "fontCharacter": "\\f2bc"
+    },
+    "folder-open_less": {
+      "fontCharacter": "\\f2bd"
+    },
+    "folder-open_lib": {
+      "fontCharacter": "\\f2be"
+    },
+    "folder-open_linux": {
+      "fontCharacter": "\\f2bf"
+    },
+    "folder-open_logs": {
+      "fontCharacter": "\\f2c0"
+    },
+    "folder-open_lottie": {
+      "fontCharacter": "\\f2c1"
+    },
+    "folder-open_lua": {
+      "fontCharacter": "\\f2c2"
+    },
+    "folder-open_mac": {
+      "fontCharacter": "\\f2c3"
+    },
+    "folder-open_mailers": {
+      "fontCharacter": "\\f2c4"
+    },
+    "folder-open_main": {
+      "fontCharacter": "\\f2c5"
+    },
+    "folder-open_maps": {
+      "fontCharacter": "\\f2c6"
+    },
+    "folder-open_markdown": {
+      "fontCharacter": "\\f2c7"
+    },
+    "folder-open_math": {
+      "fontCharacter": "\\f2c8"
+    },
+    "folder-open_maven": {
+      "fontCharacter": "\\f2c9"
+    },
+    "folder-open_mercurial": {
+      "fontCharacter": "\\f2ca"
+    },
+    "folder-open_messages": {
+      "fontCharacter": "\\f2cb"
+    },
+    "folder-open_meta": {
+      "fontCharacter": "\\f2cc"
+    },
+    "folder-open_meteor": {
+      "fontCharacter": "\\f2cd"
+    },
+    "folder-open_middleware": {
+      "fontCharacter": "\\f2ce"
+    },
+    "folder-open_mindsdb": {
+      "fontCharacter": "\\f2cf"
+    },
+    "folder-open_mjml": {
+      "fontCharacter": "\\f2d0"
+    },
+    "folder-open_mobile": {
+      "fontCharacter": "\\f2d1"
+    },
+    "folder-open_mocks": {
+      "fontCharacter": "\\f2d2"
+    },
+    "folder-open_modals": {
+      "fontCharacter": "\\f2d3"
+    },
+    "folder-open_models": {
+      "fontCharacter": "\\f2d4"
+    },
+    "folder-open_molecules": {
+      "fontCharacter": "\\f2d5"
+    },
+    "folder-open_mongo": {
+      "fontCharacter": "\\f2d6"
+    },
+    "folder-open_moon": {
+      "fontCharacter": "\\f2d7"
+    },
+    "folder-open_msw": {
+      "fontCharacter": "\\f2d8"
+    },
+    "folder-open_navigation": {
+      "fontCharacter": "\\f2d9"
+    },
+    "folder-open_netlify": {
+      "fontCharacter": "\\f2da"
+    },
+    "folder-open_next": {
+      "fontCharacter": "\\f2db"
+    },
+    "folder-open_node": {
+      "fontCharacter": "\\f2dc"
+    },
+    "folder-open_notebooks": {
+      "fontCharacter": "\\f2dd"
+    },
+    "folder-open_notification": {
+      "fontCharacter": "\\f2de"
+    },
+    "folder-open_nuget": {
+      "fontCharacter": "\\f2df"
+    },
+    "folder-open_nuxt": {
+      "fontCharacter": "\\f2e0"
+    },
+    "folder-open_nx": {
+      "fontCharacter": "\\f2e1"
+    },
+    "folder-open_openshift": {
+      "fontCharacter": "\\f2e2"
+    },
+    "folder-open_orders": {
+      "fontCharacter": "\\f2e3"
+    },
+    "folder-open_osx": {
+      "fontCharacter": "\\f2e4"
+    },
+    "folder-open_other": {
+      "fontCharacter": "\\f2e5"
+    },
+    "folder-open_packages": {
+      "fontCharacter": "\\f2e6"
+    },
+    "folder-open_parcel": {
+      "fontCharacter": "\\f2e7"
+    },
+    "folder-open_pdf": {
+      "fontCharacter": "\\f2e8"
+    },
+    "folder-open_pdm": {
+      "fontCharacter": "\\f2e9"
+    },
+    "folder-open_perl": {
+      "fontCharacter": "\\f2ea"
+    },
+    "folder-open_php": {
+      "fontCharacter": "\\f2eb"
+    },
+    "folder-open_pinia": {
+      "fontCharacter": "\\f2ec"
+    },
+    "folder-open_pipe": {
+      "fontCharacter": "\\f2ed"
+    },
+    "folder-open_platformio": {
+      "fontCharacter": "\\f2ee"
+    },
+    "folder-open_playwright": {
+      "fontCharacter": "\\f2ef"
+    },
+    "folder-open_plugin": {
+      "fontCharacter": "\\f2f0"
+    },
+    "folder-open_posts": {
+      "fontCharacter": "\\f2f1"
+    },
+    "folder-open_prisma": {
+      "fontCharacter": "\\f2f2"
+    },
+    "folder-open_private": {
+      "fontCharacter": "\\f2f3"
+    },
+    "folder-open_profiles": {
+      "fontCharacter": "\\f2f4"
+    },
+    "folder-open_project": {
+      "fontCharacter": "\\f2f5"
+    },
+    "folder-open_projects": {
+      "fontCharacter": "\\f2f6"
+    },
+    "folder-open_protobuf": {
+      "fontCharacter": "\\f2f7"
+    },
+    "folder-open_providers": {
+      "fontCharacter": "\\f2f8"
+    },
+    "folder-open_python": {
+      "fontCharacter": "\\f2f9"
+    },
+    "folder-open_quantum": {
+      "fontCharacter": "\\f2fa"
+    },
+    "folder-open_quasar": {
+      "fontCharacter": "\\f2fb"
+    },
+    "folder-open_queries": {
+      "fontCharacter": "\\f2fc"
+    },
+    "folder-open_queue": {
+      "fontCharacter": "\\f2fd"
+    },
+    "folder-open_react": {
+      "fontCharacter": "\\f2fe"
+    },
+    "folder-open_recoil": {
+      "fontCharacter": "\\f2ff"
+    },
+    "folder-open_redhat": {
+      "fontCharacter": "\\f300"
+    },
+    "folder-open_redis": {
+      "fontCharacter": "\\f301"
+    },
+    "folder-open_redux": {
+      "fontCharacter": "\\f302"
+    },
+    "folder-open_redux-actions": {
+      "fontCharacter": "\\f303"
+    },
+    "folder-open_redux-epics": {
+      "fontCharacter": "\\f304"
+    },
+    "folder-open_redux-reducers": {
+      "fontCharacter": "\\f305"
+    },
+    "folder-open_redux-sagas": {
+      "fontCharacter": "\\f306"
+    },
+    "folder-open_redux-stores": {
+      "fontCharacter": "\\f307"
+    },
+    "folder-open_redwood": {
+      "fontCharacter": "\\f308"
+    },
+    "folder-open_relay": {
+      "fontCharacter": "\\f309"
+    },
+    "folder-open_resolver": {
+      "fontCharacter": "\\f30a"
+    },
+    "folder-open_resource": {
+      "fontCharacter": "\\f30b"
+    },
+    "folder-open_reviews": {
+      "fontCharacter": "\\f30c"
+    },
+    "folder-open_root": {
+      "fontCharacter": "\\f30d"
+    },
+    "folder-open_routes": {
+      "fontCharacter": "\\f30e"
+    },
+    "folder-open_ruby": {
+      "fontCharacter": "\\f30f"
+    },
+    "folder-open_rules": {
+      "fontCharacter": "\\f310"
+    },
+    "folder-open_rust": {
+      "fontCharacter": "\\f311"
+    },
+    "folder-open_sass": {
+      "fontCharacter": "\\f312"
+    },
+    "folder-open_scala": {
+      "fontCharacter": "\\f313"
+    },
+    "folder-open_scons": {
+      "fontCharacter": "\\f314"
+    },
+    "folder-open_scratch": {
+      "fontCharacter": "\\f315"
+    },
+    "folder-open_screens": {
+      "fontCharacter": "\\f316"
+    },
+    "folder-open_scripts": {
+      "fontCharacter": "\\f317"
+    },
+    "folder-open_security": {
+      "fontCharacter": "\\f318"
+    },
+    "folder-open_seed": {
+      "fontCharacter": "\\f319"
+    },
+    "folder-open_server": {
+      "fontCharacter": "\\f31a"
+    },
+    "folder-open_serverless": {
+      "fontCharacter": "\\f31b"
+    },
+    "folder-open_shader": {
+      "fontCharacter": "\\f31c"
+    },
+    "folder-open_shared": {
+      "fontCharacter": "\\f31d"
+    },
+    "folder-open_skeletons": {
+      "fontCharacter": "\\f31e"
+    },
+    "folder-open_sql": {
+      "fontCharacter": "\\f31f"
+    },
+    "folder-open_src": {
+      "fontCharacter": "\\f320"
+    },
+    "folder-open_sso": {
+      "fontCharacter": "\\f321"
+    },
+    "folder-open_sst": {
+      "fontCharacter": "\\f322"
+    },
+    "folder-open_stack": {
+      "fontCharacter": "\\f323"
+    },
+    "folder-open_stencil": {
+      "fontCharacter": "\\f324"
+    },
+    "folder-open_storage": {
+      "fontCharacter": "\\f325"
+    },
+    "folder-open_storyblok": {
+      "fontCharacter": "\\f326"
+    },
+    "folder-open_storybook": {
+      "fontCharacter": "\\f327"
+    },
+    "folder-open_strategy": {
+      "fontCharacter": "\\f328"
+    },
+    "folder-open_styled": {
+      "fontCharacter": "\\f329"
+    },
+    "folder-open_styles": {
+      "fontCharacter": "\\f32a"
+    },
+    "folder-open_stylus": {
+      "fontCharacter": "\\f32b"
+    },
+    "folder-open_sublime": {
+      "fontCharacter": "\\f32c"
+    },
+    "folder-open_supabase": {
+      "fontCharacter": "\\f32d"
+    },
+    "folder-open_svelte": {
+      "fontCharacter": "\\f32e"
+    },
+    "folder-open_svg": {
+      "fontCharacter": "\\f32f"
+    },
+    "folder-open_svn": {
+      "fontCharacter": "\\f330"
+    },
+    "folder-open_swagger": {
+      "fontCharacter": "\\f331"
+    },
+    "folder-open_sync": {
+      "fontCharacter": "\\f332"
+    },
+    "folder-open_syntax": {
+      "fontCharacter": "\\f333"
+    },
+    "folder-open_target": {
+      "fontCharacter": "\\f334"
+    },
+    "folder-open_taskfile": {
+      "fontCharacter": "\\f335"
+    },
+    "folder-open_tasks": {
+      "fontCharacter": "\\f336"
+    },
+    "folder-open_tauri": {
+      "fontCharacter": "\\f337"
+    },
+    "folder-open_tech": {
+      "fontCharacter": "\\f338"
+    },
+    "folder-open_temp": {
+      "fontCharacter": "\\f339"
+    },
+    "folder-open_terraform": {
+      "fontCharacter": "\\f33a"
+    },
+    "folder-open_tests": {
+      "fontCharacter": "\\f33b"
+    },
+    "folder-open_textmate": {
+      "fontCharacter": "\\f33c"
+    },
+    "folder-open_themes": {
+      "fontCharacter": "\\f33d"
+    },
+    "folder-open_tools": {
+      "fontCharacter": "\\f33e"
+    },
+    "folder-open_totvs": {
+      "fontCharacter": "\\f33f"
+    },
+    "folder-open_trait": {
+      "fontCharacter": "\\f340"
+    },
+    "folder-open_ts": {
+      "fontCharacter": "\\f341"
+    },
+    "folder-open_turborepo": {
+      "fontCharacter": "\\f342"
+    },
+    "folder-open_ui": {
+      "fontCharacter": "\\f343"
+    },
+    "folder-open_unity": {
+      "fontCharacter": "\\f344"
+    },
+    "folder-open_upload": {
+      "fontCharacter": "\\f345"
+    },
+    "folder-open_users": {
+      "fontCharacter": "\\f346"
+    },
+    "folder-open_vagrant": {
+      "fontCharacter": "\\f347"
+    },
+    "folder-open_venv": {
+      "fontCharacter": "\\f348"
+    },
+    "folder-open_vercel": {
+      "fontCharacter": "\\f349"
+    },
+    "folder-open_verdaccio": {
+      "fontCharacter": "\\f34a"
+    },
+    "folder-open_video": {
+      "fontCharacter": "\\f34b"
+    },
+    "folder-open_viewmodel": {
+      "fontCharacter": "\\f34c"
+    },
+    "folder-open_views": {
+      "fontCharacter": "\\f34d"
+    },
+    "folder-open_vim": {
+      "fontCharacter": "\\f34e"
+    },
+    "folder-open_vitepress": {
+      "fontCharacter": "\\f34f"
+    },
+    "folder-open_vm": {
+      "fontCharacter": "\\f350"
+    },
+    "folder-open_vs": {
+      "fontCharacter": "\\f351"
+    },
+    "folder-open_vscode": {
+      "fontCharacter": "\\f352"
+    },
+    "folder-open_vue": {
+      "fontCharacter": "\\f353"
+    },
+    "folder-open_vuepress": {
+      "fontCharacter": "\\f354"
+    },
+    "folder-open_vuex": {
+      "fontCharacter": "\\f355"
+    },
+    "folder-open_web": {
+      "fontCharacter": "\\f356"
+    },
+    "folder-open_webcomponents": {
+      "fontCharacter": "\\f357"
+    },
+    "folder-open_webpack": {
+      "fontCharacter": "\\f358"
+    },
+    "folder-open_windows": {
+      "fontCharacter": "\\f359"
+    },
+    "folder-open_wine": {
+      "fontCharacter": "\\f35a"
+    },
+    "folder-open_woocommerce": {
+      "fontCharacter": "\\f35b"
+    },
+    "folder-open_woodpecker": {
+      "fontCharacter": "\\f35c"
+    },
+    "folder-open_wordpress": {
+      "fontCharacter": "\\f35d"
+    },
+    "folder-open_xstate": {
+      "fontCharacter": "\\f35e"
+    },
+    "folder-open_yarn": {
+      "fontCharacter": "\\f35f"
+    },
+    "account": {
+      "fontCharacter": "\\f360"
+    },
+    "activate-breakpoints": {
+      "fontCharacter": "\\f361"
+    },
+    "add": {
+      "fontCharacter": "\\f362"
+    },
+    "alert": {
+      "fontCharacter": "\\f363"
+    },
+    "archive": {
+      "fontCharacter": "\\f364"
+    },
+    "array": {
+      "fontCharacter": "\\f365"
+    },
+    "arrow-arrow-down": {
+      "fontCharacter": "\\f366"
+    },
+    "arrow-arrow-right": {
+      "fontCharacter": "\\f367"
+    },
+    "arrow-arrow-up": {
+      "fontCharacter": "\\f368"
+    },
+    "arrow-both": {
+      "fontCharacter": "\\f369"
+    },
+    "arrow-circle-down": {
+      "fontCharacter": "\\f36a"
+    },
+    "arrow-circle-left": {
+      "fontCharacter": "\\f36b"
+    },
+    "arrow-circle-right": {
+      "fontCharacter": "\\f36c"
+    },
+    "arrow-circle-up": {
+      "fontCharacter": "\\f36d"
+    },
+    "arrow-down": {
+      "fontCharacter": "\\f36e"
+    },
+    "arrow-left": {
+      "fontCharacter": "\\f36f"
+    },
+    "arrow-material-down": {
+      "fontCharacter": "\\f370"
+    },
+    "arrow-material-right": {
+      "fontCharacter": "\\f371"
+    },
+    "arrow-material-up": {
+      "fontCharacter": "\\f372"
+    },
+    "arrow-plusminus-down": {
+      "fontCharacter": "\\f373"
+    },
+    "arrow-plusminus-right": {
+      "fontCharacter": "\\f374"
+    },
+    "arrow-plusminus-up": {
+      "fontCharacter": "\\f375"
+    },
+    "arrow-right": {
+      "fontCharacter": "\\f376"
+    },
+    "arrow-swap": {
+      "fontCharacter": "\\f377"
+    },
+    "arrow-triangle-down": {
+      "fontCharacter": "\\f378"
+    },
+    "arrow-triangle-right": {
+      "fontCharacter": "\\f379"
+    },
+    "arrow-triangle-up": {
+      "fontCharacter": "\\f37a"
+    },
+    "arrow-up": {
+      "fontCharacter": "\\f37b"
+    },
+    "azure": {
+      "fontCharacter": "\\f37c"
+    },
+    "azure-devops": {
+      "fontCharacter": "\\f37d"
+    },
+    "beaker": {
+      "fontCharacter": "\\f37e"
+    },
+    "beaker-stop": {
+      "fontCharacter": "\\f37f"
+    },
+    "bell": {
+      "fontCharacter": "\\f380"
+    },
+    "bell-dot": {
+      "fontCharacter": "\\f381"
+    },
+    "bold": {
+      "fontCharacter": "\\f382"
+    },
+    "book": {
+      "fontCharacter": "\\f383"
+    },
+    "bookmark": {
+      "fontCharacter": "\\f384"
+    },
+    "bracket": {
+      "fontCharacter": "\\f385"
+    },
+    "bracket-dot": {
+      "fontCharacter": "\\f386"
+    },
+    "bracket-error": {
+      "fontCharacter": "\\f387"
+    },
+    "breadcrumb-separator": {
+      "fontCharacter": "\\f388"
+    },
+    "breakpoints-remove-all": {
+      "fontCharacter": "\\f389"
+    },
+    "briefcase": {
+      "fontCharacter": "\\f38a"
+    },
+    "broadcast": {
+      "fontCharacter": "\\f38b"
+    },
+    "browser": {
+      "fontCharacter": "\\f38c"
+    },
+    "bug": {
+      "fontCharacter": "\\f38d"
+    },
+    "calendar": {
+      "fontCharacter": "\\f38e"
+    },
+    "call-incoming": {
+      "fontCharacter": "\\f38f"
+    },
+    "call-outgoing": {
+      "fontCharacter": "\\f390"
+    },
+    "callstack-view-icon": {
+      "fontCharacter": "\\f391"
+    },
+    "check": {
+      "fontCharacter": "\\f392"
+    },
+    "check-all": {
+      "fontCharacter": "\\f393"
+    },
+    "checklist": {
+      "fontCharacter": "\\f394"
+    },
+    "chevron-down": {
+      "fontCharacter": "\\f395"
+    },
+    "chevron-left": {
+      "fontCharacter": "\\f396"
+    },
+    "chevron-right": {
+      "fontCharacter": "\\f397"
+    },
+    "chevron-up": {
+      "fontCharacter": "\\f398"
+    },
+    "chrome-close": {
+      "fontCharacter": "\\f399"
+    },
+    "chrome-maximize": {
+      "fontCharacter": "\\f39a"
+    },
+    "chrome-minimize": {
+      "fontCharacter": "\\f39b"
+    },
+    "chrome-restore": {
+      "fontCharacter": "\\f39c"
+    },
+    "circle-filled": {
+      "fontCharacter": "\\f39d"
+    },
+    "circle-large-filled": {
+      "fontCharacter": "\\f39e"
+    },
+    "circle-large-outline": {
+      "fontCharacter": "\\f39f"
+    },
+    "circle-outline": {
+      "fontCharacter": "\\f3a0"
+    },
+    "circle-slash": {
+      "fontCharacter": "\\f3a1"
+    },
+    "circuit-board": {
+      "fontCharacter": "\\f3a2"
+    },
+    "clear": {
+      "fontCharacter": "\\f3a3"
+    },
+    "clear-all": {
+      "fontCharacter": "\\f3a4"
+    },
+    "clippy": {
+      "fontCharacter": "\\f3a5"
+    },
+    "clock": {
+      "fontCharacter": "\\f3a6"
+    },
+    "clone": {
+      "fontCharacter": "\\f3a7"
+    },
+    "close": {
+      "fontCharacter": "\\f3a8"
+    },
+    "close-all": {
+      "fontCharacter": "\\f3a9"
+    },
+    "close-dirty": {
+      "fontCharacter": "\\f3aa"
+    },
+    "cloud": {
+      "fontCharacter": "\\f3ab"
+    },
+    "cloud-download": {
+      "fontCharacter": "\\f3ac"
+    },
+    "cloud-upload": {
+      "fontCharacter": "\\f3ad"
+    },
+    "code": {
+      "fontCharacter": "\\f3ae"
+    },
+    "collapse": {
+      "fontCharacter": "\\f3af"
+    },
+    "collapse-all": {
+      "fontCharacter": "\\f3b0"
+    },
+    "color-mode": {
+      "fontCharacter": "\\f3b1"
+    },
+    "combine": {
+      "fontCharacter": "\\f3b2"
+    },
+    "comment": {
+      "fontCharacter": "\\f3b3"
+    },
+    "comment-add": {
+      "fontCharacter": "\\f3b4"
+    },
+    "comment-discussion": {
+      "fontCharacter": "\\f3b5"
+    },
+    "compare-changes": {
+      "fontCharacter": "\\f3b6"
+    },
+    "compass": {
+      "fontCharacter": "\\f3b7"
+    },
+    "compass-active": {
+      "fontCharacter": "\\f3b8"
+    },
+    "compass-dot": {
+      "fontCharacter": "\\f3b9"
+    },
+    "console": {
+      "fontCharacter": "\\f3ba"
+    },
+    "credit": {
+      "fontCharacter": "\\f3bb"
+    },
+    "dash": {
+      "fontCharacter": "\\f3bc"
+    },
+    "dashboard": {
+      "fontCharacter": "\\f3bd"
+    },
+    "database": {
+      "fontCharacter": "\\f3be"
+    },
+    "debug-all": {
+      "fontCharacter": "\\f3bf"
+    },
+    "debug-alt": {
+      "fontCharacter": "\\f3c0"
+    },
+    "debug-alt-small": {
+      "fontCharacter": "\\f3c1"
+    },
+    "debug-breakpoint": {
+      "fontCharacter": "\\f3c2"
+    },
+    "debug-breakpoint-conditional": {
+      "fontCharacter": "\\f3c3"
+    },
+    "debug-breakpoint-conditional-disabled": {
+      "fontCharacter": "\\f3c4"
+    },
+    "debug-breakpoint-conditional-unverified": {
+      "fontCharacter": "\\f3c5"
+    },
+    "debug-breakpoint-data": {
+      "fontCharacter": "\\f3c6"
+    },
+    "debug-breakpoint-data-disabled": {
+      "fontCharacter": "\\f3c7"
+    },
+    "debug-breakpoint-data-unverified": {
+      "fontCharacter": "\\f3c8"
+    },
+    "debug-breakpoint-disabled": {
+      "fontCharacter": "\\f3c9"
+    },
+    "debug-breakpoint-function": {
+      "fontCharacter": "\\f3ca"
+    },
+    "debug-breakpoint-function-disabled": {
+      "fontCharacter": "\\f3cb"
+    },
+    "debug-breakpoint-function-unverified": {
+      "fontCharacter": "\\f3cc"
+    },
+    "debug-breakpoint-log": {
+      "fontCharacter": "\\f3cd"
+    },
+    "debug-breakpoint-log-disabled": {
+      "fontCharacter": "\\f3ce"
+    },
+    "debug-breakpoint-log-unverified": {
+      "fontCharacter": "\\f3cf"
+    },
+    "debug-breakpoint-unsupported": {
+      "fontCharacter": "\\f3d0"
+    },
+    "debug-breakpoint-unverified": {
+      "fontCharacter": "\\f3d1"
+    },
+    "debug-console": {
+      "fontCharacter": "\\f3d2"
+    },
+    "debug-console-evaluation-input": {
+      "fontCharacter": "\\f3d3"
+    },
+    "debug-console-evaluation-prompt": {
+      "fontCharacter": "\\f3d4"
+    },
+    "debug-continue": {
+      "fontCharacter": "\\f3d5"
+    },
+    "debug-continue-small": {
+      "fontCharacter": "\\f3d6"
+    },
+    "debug-coverage": {
+      "fontCharacter": "\\f3d7"
+    },
+    "debug-disconnect": {
+      "fontCharacter": "\\f3d8"
+    },
+    "debug-hint": {
+      "fontCharacter": "\\f3d9"
+    },
+    "debug-pause": {
+      "fontCharacter": "\\f3da"
+    },
+    "debug-rerun": {
+      "fontCharacter": "\\f3db"
+    },
+    "debug-restart": {
+      "fontCharacter": "\\f3dc"
+    },
+    "debug-restart-frame": {
+      "fontCharacter": "\\f3dd"
+    },
+    "debug-reverse-continue": {
+      "fontCharacter": "\\f3de"
+    },
+    "debug-stackframe": {
+      "fontCharacter": "\\f3df"
+    },
+    "debug-stackframe-active": {
+      "fontCharacter": "\\f3e0"
+    },
+    "debug-stackframe-focused": {
+      "fontCharacter": "\\f3e1"
+    },
+    "debug-start": {
+      "fontCharacter": "\\f3e2"
+    },
+    "debug-step-back": {
+      "fontCharacter": "\\f3e3"
+    },
+    "debug-step-into": {
+      "fontCharacter": "\\f3e4"
+    },
+    "debug-step-out": {
+      "fontCharacter": "\\f3e5"
+    },
+    "debug-step-over": {
+      "fontCharacter": "\\f3e6"
+    },
+    "debug-stop": {
+      "fontCharacter": "\\f3e7"
+    },
+    "desktop-download": {
+      "fontCharacter": "\\f3e8"
+    },
+    "device-camera": {
+      "fontCharacter": "\\f3e9"
+    },
+    "device-camera-video": {
+      "fontCharacter": "\\f3ea"
+    },
+    "device-desktop": {
+      "fontCharacter": "\\f3eb"
+    },
+    "device-mobile": {
+      "fontCharacter": "\\f3ec"
+    },
+    "diff": {
+      "fontCharacter": "\\f3ed"
+    },
+    "diff-added": {
+      "fontCharacter": "\\f3ee"
+    },
+    "diff-ignored": {
+      "fontCharacter": "\\f3ef"
+    },
+    "diff-modified": {
+      "fontCharacter": "\\f3f0"
+    },
+    "diff-removed": {
+      "fontCharacter": "\\f3f1"
+    },
+    "diff-renamed": {
+      "fontCharacter": "\\f3f2"
+    },
+    "discard": {
+      "fontCharacter": "\\f3f3"
+    },
+    "edit": {
+      "fontCharacter": "\\f3f4"
+    },
+    "editor-layout": {
+      "fontCharacter": "\\f3f5"
+    },
+    "ellipsis": {
+      "fontCharacter": "\\f3f6"
+    },
+    "empty-window": {
+      "fontCharacter": "\\f3f7"
+    },
+    "error": {
+      "fontCharacter": "\\f3f8"
+    },
+    "error-small": {
+      "fontCharacter": "\\f3f9"
+    },
+    "exclude": {
+      "fontCharacter": "\\f3fa"
+    },
+    "expand-all": {
+      "fontCharacter": "\\f3fb"
+    },
+    "export": {
+      "fontCharacter": "\\f3fc"
+    },
+    "extensions": {
+      "fontCharacter": "\\f3fd"
+    },
+    "eye": {
+      "fontCharacter": "\\f3fe"
+    },
+    "eye-closed": {
+      "fontCharacter": "\\f3ff"
+    },
+    "eye-unwatch": {
+      "fontCharacter": "\\f400"
+    },
+    "eye-watch": {
+      "fontCharacter": "\\f401"
+    },
+    "feedback": {
+      "fontCharacter": "\\f402"
+    },
+    "file": {
+      "fontCharacter": "\\f403"
+    },
+    "file-add": {
+      "fontCharacter": "\\f404"
+    },
+    "file-binary": {
+      "fontCharacter": "\\f405"
+    },
+    "file-code": {
+      "fontCharacter": "\\f406"
+    },
+    "file-directory": {
+      "fontCharacter": "\\f407"
+    },
+    "file-directory-create": {
+      "fontCharacter": "\\f408"
+    },
+    "file-media": {
+      "fontCharacter": "\\f409"
+    },
+    "file-pdf": {
+      "fontCharacter": "\\f40a"
+    },
+    "file-submodule": {
+      "fontCharacter": "\\f40b"
+    },
+    "file-symlink-directory": {
+      "fontCharacter": "\\f40c"
+    },
+    "file-symlink-file": {
+      "fontCharacter": "\\f40d"
+    },
+    "file-text": {
+      "fontCharacter": "\\f40e"
+    },
+    "file-zip": {
+      "fontCharacter": "\\f40f"
+    },
+    "files": {
+      "fontCharacter": "\\f410"
+    },
+    "filter": {
+      "fontCharacter": "\\f411"
+    },
+    "filter-filled": {
+      "fontCharacter": "\\f412"
+    },
+    "flame": {
+      "fontCharacter": "\\f413"
+    },
+    "fold": {
+      "fontCharacter": "\\f414"
+    },
+    "fold-down": {
+      "fontCharacter": "\\f415"
+    },
+    "fold-up": {
+      "fontCharacter": "\\f416"
+    },
+    "folder": {
+      "fontCharacter": "\\f417"
+    },
+    "folder-active": {
+      "fontCharacter": "\\f418"
+    },
+    "folder-library": {
+      "fontCharacter": "\\f419"
+    },
+    "folder-opened": {
+      "fontCharacter": "\\f41a"
+    },
+    "gather": {
+      "fontCharacter": "\\f41b"
+    },
+    "gear": {
+      "fontCharacter": "\\f41c"
+    },
+    "gift": {
+      "fontCharacter": "\\f41d"
+    },
+    "gist": {
+      "fontCharacter": "\\f41e"
+    },
+    "gist-add": {
+      "fontCharacter": "\\f41f"
+    },
+    "gist-fork": {
+      "fontCharacter": "\\f420"
+    },
+    "gist-fork-private": {
+      "fontCharacter": "\\f421"
+    },
+    "gist-private": {
+      "fontCharacter": "\\f422"
+    },
+    "gist-secret": {
+      "fontCharacter": "\\f423"
+    },
+    "git-branch": {
+      "fontCharacter": "\\f424"
+    },
+    "git-branch-create": {
+      "fontCharacter": "\\f425"
+    },
+    "git-branch-delete": {
+      "fontCharacter": "\\f426"
+    },
+    "git-commit": {
+      "fontCharacter": "\\f427"
+    },
+    "git-compare": {
+      "fontCharacter": "\\f428"
+    },
+    "git-merge": {
+      "fontCharacter": "\\f429"
+    },
+    "git-pull-request": {
+      "fontCharacter": "\\f42a"
+    },
+    "git-pull-request-abandoned": {
+      "fontCharacter": "\\f42b"
+    },
+    "git-pull-request-closed": {
+      "fontCharacter": "\\f42c"
+    },
+    "git-pull-request-create": {
+      "fontCharacter": "\\f42d"
+    },
+    "git-pull-request-draft": {
+      "fontCharacter": "\\f42e"
+    },
+    "github": {
+      "fontCharacter": "\\f42f"
+    },
+    "github-action": {
+      "fontCharacter": "\\f430"
+    },
+    "globe": {
+      "fontCharacter": "\\f431"
+    },
+    "go-to-file": {
+      "fontCharacter": "\\f432"
+    },
+    "graph": {
+      "fontCharacter": "\\f433"
+    },
+    "graph-left": {
+      "fontCharacter": "\\f434"
+    },
+    "graph-line": {
+      "fontCharacter": "\\f435"
+    },
+    "graph-scatter": {
+      "fontCharacter": "\\f436"
+    },
+    "gripper": {
+      "fontCharacter": "\\f437"
+    },
+    "group-by-ref-type": {
+      "fontCharacter": "\\f438"
+    },
+    "heart": {
+      "fontCharacter": "\\f439"
+    },
+    "history": {
+      "fontCharacter": "\\f43a"
+    },
+    "home": {
+      "fontCharacter": "\\f43b"
+    },
+    "horizontal-rule": {
+      "fontCharacter": "\\f43c"
+    },
+    "hubot": {
+      "fontCharacter": "\\f43d"
+    },
+    "inbox": {
+      "fontCharacter": "\\f43e"
+    },
+    "indent": {
+      "fontCharacter": "\\f43f"
+    },
+    "info": {
+      "fontCharacter": "\\f440"
+    },
+    "inspect": {
+      "fontCharacter": "\\f441"
+    },
+    "issue-closed": {
+      "fontCharacter": "\\f442"
+    },
+    "issue-draft": {
+      "fontCharacter": "\\f443"
+    },
+    "issue-opened": {
+      "fontCharacter": "\\f444"
+    },
+    "issue-reopened": {
+      "fontCharacter": "\\f445"
+    },
+    "issues": {
+      "fontCharacter": "\\f446"
+    },
+    "italic": {
+      "fontCharacter": "\\f447"
+    },
+    "jersey": {
+      "fontCharacter": "\\f448"
+    },
+    "json": {
+      "fontCharacter": "\\f449"
+    },
+    "key": {
+      "fontCharacter": "\\f44a"
+    },
+    "keyboard": {
+      "fontCharacter": "\\f44b"
+    },
+    "law": {
+      "fontCharacter": "\\f44c"
+    },
+    "layers": {
+      "fontCharacter": "\\f44d"
+    },
+    "layers-active": {
+      "fontCharacter": "\\f44e"
+    },
+    "layers-dot": {
+      "fontCharacter": "\\f44f"
+    },
+    "layout": {
+      "fontCharacter": "\\f450"
+    },
+    "layout-activitybar-left": {
+      "fontCharacter": "\\f451"
+    },
+    "layout-activitybar-right": {
+      "fontCharacter": "\\f452"
+    },
+    "layout-centered": {
+      "fontCharacter": "\\f453"
+    },
+    "layout-panel": {
+      "fontCharacter": "\\f454"
+    },
+    "layout-panel-center": {
+      "fontCharacter": "\\f455"
+    },
+    "layout-panel-justify": {
+      "fontCharacter": "\\f456"
+    },
+    "layout-panel-left": {
+      "fontCharacter": "\\f457"
+    },
+    "layout-panel-off": {
+      "fontCharacter": "\\f458"
+    },
+    "layout-panel-right": {
+      "fontCharacter": "\\f459"
+    },
+    "layout-sidebar-left": {
+      "fontCharacter": "\\f45a"
+    },
+    "layout-sidebar-left-off": {
+      "fontCharacter": "\\f45b"
+    },
+    "layout-sidebar-right": {
+      "fontCharacter": "\\f45c"
+    },
+    "layout-sidebar-right-off": {
+      "fontCharacter": "\\f45d"
+    },
+    "layout-statusbar": {
+      "fontCharacter": "\\f45e"
+    },
+    "library": {
+      "fontCharacter": "\\f45f"
+    },
+    "light-bulb": {
+      "fontCharacter": "\\f460"
+    },
+    "lightbulb": {
+      "fontCharacter": "\\f461"
+    },
+    "lightbulb-autofix": {
+      "fontCharacter": "\\f462"
+    },
+    "link": {
+      "fontCharacter": "\\f463"
+    },
+    "link-external": {
+      "fontCharacter": "\\f464"
+    },
+    "list-filter": {
+      "fontCharacter": "\\f465"
+    },
+    "list-flat": {
+      "fontCharacter": "\\f466"
+    },
+    "list-ordered": {
+      "fontCharacter": "\\f467"
+    },
+    "list-selection": {
+      "fontCharacter": "\\f468"
+    },
+    "list-tree": {
+      "fontCharacter": "\\f469"
+    },
+    "list-unordered": {
+      "fontCharacter": "\\f46a"
+    },
+    "live-share": {
+      "fontCharacter": "\\f46b"
+    },
+    "loading": {
+      "fontCharacter": "\\f46c"
+    },
+    "location": {
+      "fontCharacter": "\\f46d"
+    },
+    "lock": {
+      "fontCharacter": "\\f46e"
+    },
+    "lock-small": {
+      "fontCharacter": "\\f46f"
+    },
+    "log-in": {
+      "fontCharacter": "\\f470"
+    },
+    "log-out": {
+      "fontCharacter": "\\f471"
+    },
+    "logo-github": {
+      "fontCharacter": "\\f472"
+    },
+    "magnet": {
+      "fontCharacter": "\\f473"
+    },
+    "mail": {
+      "fontCharacter": "\\f474"
+    },
+    "mail-read": {
+      "fontCharacter": "\\f475"
+    },
+    "mail-reply": {
+      "fontCharacter": "\\f476"
+    },
+    "mark-github": {
+      "fontCharacter": "\\f477"
+    },
+    "markdown": {
+      "fontCharacter": "\\f478"
+    },
+    "megaphone": {
+      "fontCharacter": "\\f479"
+    },
+    "mention": {
+      "fontCharacter": "\\f47a"
+    },
+    "menu": {
+      "fontCharacter": "\\f47b"
+    },
+    "merge": {
+      "fontCharacter": "\\f47c"
+    },
+    "microscope": {
+      "fontCharacter": "\\f47d"
+    },
+    "milestone": {
+      "fontCharacter": "\\f47e"
+    },
+    "mirror": {
+      "fontCharacter": "\\f47f"
+    },
+    "mirror-private": {
+      "fontCharacter": "\\f480"
+    },
+    "mirror-public": {
+      "fontCharacter": "\\f481"
+    },
+    "more": {
+      "fontCharacter": "\\f482"
+    },
+    "mortar-board": {
+      "fontCharacter": "\\f483"
+    },
+    "move": {
+      "fontCharacter": "\\f484"
+    },
+    "multiple-windows": {
+      "fontCharacter": "\\f485"
+    },
+    "mute": {
+      "fontCharacter": "\\f486"
+    },
+    "new-file": {
+      "fontCharacter": "\\f487"
+    },
+    "new-folder": {
+      "fontCharacter": "\\f488"
+    },
+    "newLine": {
+      "fontCharacter": "\\f489"
+    },
+    "no-newline": {
+      "fontCharacter": "\\f48a"
+    },
+    "note": {
+      "fontCharacter": "\\f48b"
+    },
+    "notebook": {
+      "fontCharacter": "\\f48c"
+    },
+    "notebook-template": {
+      "fontCharacter": "\\f48d"
+    },
+    "octoface": {
+      "fontCharacter": "\\f48e"
+    },
+    "open-editors-view-icon": {
+      "fontCharacter": "\\f48f"
+    },
+    "open-preview": {
+      "fontCharacter": "\\f490"
+    },
+    "organization": {
+      "fontCharacter": "\\f491"
+    },
+    "organization-filled": {
+      "fontCharacter": "\\f492"
+    },
+    "organization-outline": {
+      "fontCharacter": "\\f493"
+    },
+    "outline-view-icon": {
+      "fontCharacter": "\\f494"
+    },
+    "output": {
+      "fontCharacter": "\\f495"
+    },
+    "output-view-icon": {
+      "fontCharacter": "\\f496"
+    },
+    "package": {
+      "fontCharacter": "\\f497"
+    },
+    "paintcan": {
+      "fontCharacter": "\\f498"
+    },
+    "pass": {
+      "fontCharacter": "\\f499"
+    },
+    "pass-filled": {
+      "fontCharacter": "\\f49a"
+    },
+    "pencil": {
+      "fontCharacter": "\\f49b"
+    },
+    "person": {
+      "fontCharacter": "\\f49c"
+    },
+    "person-add": {
+      "fontCharacter": "\\f49d"
+    },
+    "person-filled": {
+      "fontCharacter": "\\f49e"
+    },
+    "person-follow": {
+      "fontCharacter": "\\f49f"
+    },
+    "person-outline": {
+      "fontCharacter": "\\f4a0"
+    },
+    "pie-chart": {
+      "fontCharacter": "\\f4a1"
+    },
+    "pin": {
+      "fontCharacter": "\\f4a2"
+    },
+    "pinned": {
+      "fontCharacter": "\\f4a3"
+    },
+    "pinned-dirty": {
+      "fontCharacter": "\\f4a4"
+    },
+    "play": {
+      "fontCharacter": "\\f4a5"
+    },
+    "play-circle": {
+      "fontCharacter": "\\f4a6"
+    },
+    "plug": {
+      "fontCharacter": "\\f4a7"
+    },
+    "plus": {
+      "fontCharacter": "\\f4a8"
+    },
+    "preferences-open-settings": {
+      "fontCharacter": "\\f4a9"
+    },
+    "preserve-case": {
+      "fontCharacter": "\\f4aa"
+    },
+    "preview": {
+      "fontCharacter": "\\f4ab"
+    },
+    "primitive-dot": {
+      "fontCharacter": "\\f4ac"
+    },
+    "primitive-square": {
+      "fontCharacter": "\\f4ad"
+    },
+    "process": {
+      "fontCharacter": "\\f4ae"
+    },
+    "project": {
+      "fontCharacter": "\\f4af"
+    },
+    "pulse": {
+      "fontCharacter": "\\f4b0"
+    },
+    "question": {
+      "fontCharacter": "\\f4b1"
+    },
+    "quote": {
+      "fontCharacter": "\\f4b2"
+    },
+    "radio-tower": {
+      "fontCharacter": "\\f4b3"
+    },
+    "reactions": {
+      "fontCharacter": "\\f4b4"
+    },
+    "record": {
+      "fontCharacter": "\\f4b5"
+    },
+    "record-keys": {
+      "fontCharacter": "\\f4b6"
+    },
+    "record-small": {
+      "fontCharacter": "\\f4b7"
+    },
+    "redo": {
+      "fontCharacter": "\\f4b8"
+    },
+    "references": {
+      "fontCharacter": "\\f4b9"
+    },
+    "refresh": {
+      "fontCharacter": "\\f4ba"
+    },
+    "regex": {
+      "fontCharacter": "\\f4bb"
+    },
+    "remote": {
+      "fontCharacter": "\\f4bc"
+    },
+    "remote-explorer": {
+      "fontCharacter": "\\f4bd"
+    },
+    "remove": {
+      "fontCharacter": "\\f4be"
+    },
+    "remove-close": {
+      "fontCharacter": "\\f4bf"
+    },
+    "repl": {
+      "fontCharacter": "\\f4c0"
+    },
+    "replace": {
+      "fontCharacter": "\\f4c1"
+    },
+    "replace-all": {
+      "fontCharacter": "\\f4c2"
+    },
+    "reply": {
+      "fontCharacter": "\\f4c3"
+    },
+    "repo": {
+      "fontCharacter": "\\f4c4"
+    },
+    "repo-clone": {
+      "fontCharacter": "\\f4c5"
+    },
+    "repo-create": {
+      "fontCharacter": "\\f4c6"
+    },
+    "repo-delete": {
+      "fontCharacter": "\\f4c7"
+    },
+    "repo-forked": {
+      "fontCharacter": "\\f4c8"
+    },
+    "repo-pull": {
+      "fontCharacter": "\\f4c9"
+    },
+    "repo-push": {
+      "fontCharacter": "\\f4ca"
+    },
+    "repo-sync": {
+      "fontCharacter": "\\f4cb"
+    },
+    "report": {
+      "fontCharacter": "\\f4cc"
+    },
+    "request-changes": {
+      "fontCharacter": "\\f4cd"
+    },
+    "rocket": {
+      "fontCharacter": "\\f4ce"
+    },
+    "root-folder": {
+      "fontCharacter": "\\f4cf"
+    },
+    "root-folder-opened": {
+      "fontCharacter": "\\f4d0"
+    },
+    "rss": {
+      "fontCharacter": "\\f4d1"
+    },
+    "ruby": {
+      "fontCharacter": "\\f4d2"
+    },
+    "run": {
+      "fontCharacter": "\\f4d3"
+    },
+    "run-above": {
+      "fontCharacter": "\\f4d4"
+    },
+    "run-all": {
+      "fontCharacter": "\\f4d5"
+    },
+    "run-below": {
+      "fontCharacter": "\\f4d6"
+    },
+    "run-errors": {
+      "fontCharacter": "\\f4d7"
+    },
+    "save": {
+      "fontCharacter": "\\f4d8"
+    },
+    "save-all": {
+      "fontCharacter": "\\f4d9"
+    },
+    "save-as": {
+      "fontCharacter": "\\f4da"
+    },
+    "screen-full": {
+      "fontCharacter": "\\f4db"
+    },
+    "screen-normal": {
+      "fontCharacter": "\\f4dc"
+    },
+    "search": {
+      "fontCharacter": "\\f4dd"
+    },
+    "search-save": {
+      "fontCharacter": "\\f4de"
+    },
+    "search-stop": {
+      "fontCharacter": "\\f4df"
+    },
+    "selection": {
+      "fontCharacter": "\\f4e0"
+    },
+    "server": {
+      "fontCharacter": "\\f4e1"
+    },
+    "server-environment": {
+      "fontCharacter": "\\f4e2"
+    },
+    "server-process": {
+      "fontCharacter": "\\f4e3"
+    },
+    "settings": {
+      "fontCharacter": "\\f4e4"
+    },
+    "settings-gear": {
+      "fontCharacter": "\\f4e5"
+    },
+    "shield": {
+      "fontCharacter": "\\f4e6"
+    },
+    "sign-in": {
+      "fontCharacter": "\\f4e7"
+    },
+    "sign-out": {
+      "fontCharacter": "\\f4e8"
+    },
+    "smiley": {
+      "fontCharacter": "\\f4e9"
+    },
+    "sort-precedence": {
+      "fontCharacter": "\\f4ea"
+    },
+    "source-control": {
+      "fontCharacter": "\\f4eb"
+    },
+    "split-horizontal": {
+      "fontCharacter": "\\f4ec"
+    },
+    "split-vertical": {
+      "fontCharacter": "\\f4ed"
+    },
+    "squirrel": {
+      "fontCharacter": "\\f4ee"
+    },
+    "star": {
+      "fontCharacter": "\\f4ef"
+    },
+    "star-add": {
+      "fontCharacter": "\\f4f0"
+    },
+    "star-delete": {
+      "fontCharacter": "\\f4f1"
+    },
+    "star-empty": {
+      "fontCharacter": "\\f4f2"
+    },
+    "star-full": {
+      "fontCharacter": "\\f4f3"
+    },
+    "star-half": {
+      "fontCharacter": "\\f4f4"
+    },
+    "stop": {
+      "fontCharacter": "\\f4f5"
+    },
+    "stop-circle": {
+      "fontCharacter": "\\f4f6"
+    },
+    "symbol-array": {
+      "fontCharacter": "\\f4f7"
+    },
+    "symbol-boolean": {
+      "fontCharacter": "\\f4f8"
+    },
+    "symbol-class": {
+      "fontCharacter": "\\f4f9"
+    },
+    "symbol-color": {
+      "fontCharacter": "\\f4fa"
+    },
+    "symbol-constant": {
+      "fontCharacter": "\\f4fb"
+    },
+    "symbol-constructor": {
+      "fontCharacter": "\\f4fc"
+    },
+    "symbol-enum": {
+      "fontCharacter": "\\f4fd"
+    },
+    "symbol-enum-member": {
+      "fontCharacter": "\\f4fe"
+    },
+    "symbol-event": {
+      "fontCharacter": "\\f4ff"
+    },
+    "symbol-field": {
+      "fontCharacter": "\\f500"
+    },
+    "symbol-file": {
+      "fontCharacter": "\\f501"
+    },
+    "symbol-folder": {
+      "fontCharacter": "\\f502"
+    },
+    "symbol-function": {
+      "fontCharacter": "\\f503"
+    },
+    "symbol-interface": {
+      "fontCharacter": "\\f504"
+    },
+    "symbol-key": {
+      "fontCharacter": "\\f505"
+    },
+    "symbol-keyword": {
+      "fontCharacter": "\\f506"
+    },
+    "symbol-method": {
+      "fontCharacter": "\\f507"
+    },
+    "symbol-misc": {
+      "fontCharacter": "\\f508"
+    },
+    "symbol-module": {
+      "fontCharacter": "\\f509"
+    },
+    "symbol-namespace": {
+      "fontCharacter": "\\f50a"
+    },
+    "symbol-null": {
+      "fontCharacter": "\\f50b"
+    },
+    "symbol-number": {
+      "fontCharacter": "\\f50c"
+    },
+    "symbol-numeric": {
+      "fontCharacter": "\\f50d"
+    },
+    "symbol-object": {
+      "fontCharacter": "\\f50e"
+    },
+    "symbol-operator": {
+      "fontCharacter": "\\f50f"
+    },
+    "symbol-package": {
+      "fontCharacter": "\\f510"
+    },
+    "symbol-parameter": {
+      "fontCharacter": "\\f511"
+    },
+    "symbol-property": {
+      "fontCharacter": "\\f512"
+    },
+    "symbol-reference": {
+      "fontCharacter": "\\f513"
+    },
+    "symbol-ruler": {
+      "fontCharacter": "\\f514"
+    },
+    "symbol-snippet": {
+      "fontCharacter": "\\f515"
+    },
+    "symbol-string": {
+      "fontCharacter": "\\f516"
+    },
+    "symbol-struct": {
+      "fontCharacter": "\\f517"
+    },
+    "symbol-structure": {
+      "fontCharacter": "\\f518"
+    },
+    "symbol-text": {
+      "fontCharacter": "\\f519"
+    },
+    "symbol-type-parameter": {
+      "fontCharacter": "\\f51a"
+    },
+    "symbol-unit": {
+      "fontCharacter": "\\f51b"
+    },
+    "symbol-value": {
+      "fontCharacter": "\\f51c"
+    },
+    "symbol-variable": {
+      "fontCharacter": "\\f51d"
+    },
+    "sync": {
+      "fontCharacter": "\\f51e"
+    },
+    "sync-ignored": {
+      "fontCharacter": "\\f51f"
+    },
+    "tag": {
+      "fontCharacter": "\\f520"
+    },
+    "tag-add": {
+      "fontCharacter": "\\f521"
+    },
+    "tag-remove": {
+      "fontCharacter": "\\f522"
+    },
+    "target": {
+      "fontCharacter": "\\f523"
+    },
+    "tasklist": {
+      "fontCharacter": "\\f524"
+    },
+    "telescope": {
+      "fontCharacter": "\\f525"
+    },
+    "terminal": {
+      "fontCharacter": "\\f526"
+    },
+    "terminal-bash": {
+      "fontCharacter": "\\f527"
+    },
+    "terminal-cmd": {
+      "fontCharacter": "\\f528"
+    },
+    "terminal-debian": {
+      "fontCharacter": "\\f529"
+    },
+    "terminal-kill": {
+      "fontCharacter": "\\f52a"
+    },
+    "terminal-linux": {
+      "fontCharacter": "\\f52b"
+    },
+    "terminal-powershell": {
+      "fontCharacter": "\\f52c"
+    },
+    "terminal-tmux": {
+      "fontCharacter": "\\f52d"
+    },
+    "terminal-ubuntu": {
+      "fontCharacter": "\\f52e"
+    },
+    "text-size": {
+      "fontCharacter": "\\f52f"
+    },
+    "three-bars": {
+      "fontCharacter": "\\f530"
+    },
+    "thumbsdown": {
+      "fontCharacter": "\\f531"
+    },
+    "thumbsup": {
+      "fontCharacter": "\\f532"
+    },
+    "timeline-unpin": {
+      "fontCharacter": "\\f533"
+    },
+    "tools": {
+      "fontCharacter": "\\f534"
+    },
+    "trash": {
+      "fontCharacter": "\\f535"
+    },
+    "trashcan": {
+      "fontCharacter": "\\f536"
+    },
+    "twitter": {
+      "fontCharacter": "\\f537"
+    },
+    "type-hierarchy": {
+      "fontCharacter": "\\f538"
+    },
+    "type-hierarchy-sub": {
+      "fontCharacter": "\\f539"
+    },
+    "type-hierarchy-super": {
+      "fontCharacter": "\\f53a"
+    },
+    "unfold": {
+      "fontCharacter": "\\f53b"
+    },
+    "ungroup-by-ref-type": {
+      "fontCharacter": "\\f53c"
+    },
+    "unlock": {
+      "fontCharacter": "\\f53d"
+    },
+    "unmute": {
+      "fontCharacter": "\\f53e"
+    },
+    "unverified": {
+      "fontCharacter": "\\f53f"
+    },
+    "variable": {
+      "fontCharacter": "\\f540"
+    },
+    "verified": {
+      "fontCharacter": "\\f541"
+    },
+    "verified-filled": {
+      "fontCharacter": "\\f542"
+    },
+    "versions": {
+      "fontCharacter": "\\f543"
+    },
+    "vm": {
+      "fontCharacter": "\\f544"
+    },
+    "vm-active": {
+      "fontCharacter": "\\f545"
+    },
+    "vm-connect": {
+      "fontCharacter": "\\f546"
+    },
+    "vm-outline": {
+      "fontCharacter": "\\f547"
+    },
+    "vm-running": {
+      "fontCharacter": "\\f548"
+    },
+    "warning": {
+      "fontCharacter": "\\f549"
+    },
+    "watch": {
+      "fontCharacter": "\\f54a"
+    },
+    "whitespace": {
+      "fontCharacter": "\\f54b"
+    },
+    "whole-word": {
+      "fontCharacter": "\\f54c"
+    },
+    "window": {
+      "fontCharacter": "\\f54d"
+    },
+    "word-wrap": {
+      "fontCharacter": "\\f54e"
+    },
+    "workspace-trusted": {
+      "fontCharacter": "\\f54f"
+    },
+    "workspace-unknown": {
+      "fontCharacter": "\\f550"
+    },
+    "workspace-untrusted": {
+      "fontCharacter": "\\f551"
+    },
+    "wrench": {
+      "fontCharacter": "\\f552"
+    },
+    "wrench-subaction": {
+      "fontCharacter": "\\f553"
+    },
+    "x": {
+      "fontCharacter": "\\f554"
+    },
+    "zap": {
+      "fontCharacter": "\\f555"
+    },
+    "zoom-in": {
+      "fontCharacter": "\\f556"
+    },
+    "zoom-out": {
+      "fontCharacter": "\\f557"
+    },
+    "zz_empty": {
+      "fontCharacter": "\\f558"
+    }
+  }
+}

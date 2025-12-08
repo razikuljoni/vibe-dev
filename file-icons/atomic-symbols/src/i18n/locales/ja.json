@@ -1,0 +1,87 @@
+{
+  "activate": "有効化",
+  "activated": "Atom Material Icons は有効です。",
+  "arrowThemes": {
+    "arrow": "矢印アイコン",
+    "material": "マテリアルアイコン",
+    "none": "アイコンなし",
+    "pickTheme": "矢印のスタイルを選択する",
+    "plusMinus": "プラス・マイナスアイコン",
+    "triangle": "三角形アイコン"
+  },
+  "arrows": "矢印",
+  "classic": "クラシック",
+  "confirmReload": "アイコンの変更を反映するには VS Code を再起動する必要があります。",
+  "custom": "カスタム",
+  "customOpacity": "カスタムの不透明度値を入力する",
+  "customSaturation": "カスタム彩度値を入力する",
+  "desaturated": "彩度",
+  "explorerArrows": {
+    "disable": "フォルダーの矢印を隠す",
+    "enable": "フォルダーの矢印を表示する",
+    "toggle": "フォルダーの矢印を切り替える"
+  },
+  "folderThemes": {
+    "classicFolders": "クラシックフォルダーアイコンを選択する",
+    "noFolders": "フォルダーアイコンなし",
+    "specificFolders": "特定のフォルダーアイコンを選択する"
+  },
+  "folders": {
+    "color": "フォルダーの色を切り替える",
+    "disabled": "フォルダーアイコンを表示しない",
+    "hexCode": "HEX カラーコードを入力する",
+    "theme": {
+      "description": "フォルダテーマ 「{{name}}」（{{color}}）を選択する"
+    },
+    "toggleIcons": "フォルダーアイコンを切り替える",
+    "wrongHexCode": "無効な HEX カラーコードです！"
+  },
+  "grayscale": {
+    "disable": "グレースケールアイコンを無効にする",
+    "enable": "グレースケールアイコンを有効にする",
+    "toggle": "グレースケールアイコンを切り替える"
+  },
+  "grayscales": "グレースケール",
+  "howToActivate": "アイコンの有効化方法",
+  "iconPacks": {
+    "description": "アイコンパック 「{{name}}」 を選択する",
+    "disabled": "アイコンパックを無効化する",
+    "selectPack": "アイコンパックを選択する"
+  },
+  "material": "マテリアル",
+  "neverShowAgain": "今後は表示しない",
+  "none": "なし",
+  "opacity": {
+    "inputPlaceholder": "不透明度（0〜1）",
+    "opaque": "アイコンを不透明にする",
+    "semiTransparent": "アイコンを半透明にする",
+    "transparent": "アイコンを透明にする",
+    "wrongValue": "値は0から1の間にしてください！"
+  },
+  "opaque": "不透明",
+  "outdatedVersion": "このコマンドを使用するには VS Code を更新する必要があります。",
+  "plusMinus": "プラス・マイナス",
+  "readChangelog": "変更履歴を読む",
+  "reload": "再起動",
+  "saturation": {
+    "desaturated": "アイコンの彩度を下げます（彩度約70%）",
+    "grayscale": "アイコンをグレースケールにする（彩度0%）",
+    "inputPlaceholder": "彩度（0〜1）",
+    "vivid": "アイコンを鮮やかにする（彩度100%）",
+    "wrongValue": "値は0から1の間にしてください！"
+  },
+  "selectOpacity": "不透明度の値を選択する",
+  "selectSaturation": "彩度オプションを選択する",
+  "semiTransparent": "半透明",
+  "specific": "特定",
+  "themeInstalled": "Atom Material Icons がインストールされました。",
+  "themeUpdated": "Atom Material Icons が更新されました。",
+  "toggleSwitch": {
+    "off": "OFF",
+    "on": "ON"
+  },
+  "transparent": "透明",
+  "triangle": "三角形",
+  "updateVSCode": "VS Code を更新",
+  "vivid": "鮮やかな色"
+}

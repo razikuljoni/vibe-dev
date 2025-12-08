@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Background -->
+  <rect width="128" height="128" fill="#1a1a2e" rx="24"/>
+  
+  <!-- V Shape -->
+  <path d="M 30 35 L 64 85 L 98 35" 
+        stroke="#61dafb" 
+        stroke-width="12" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none"/>
+  
+  <!-- Accent dots -->
+  <circle cx="64" cy="95" r="6" fill="#c678dd"/>
+  <circle cx="40" cy="35" r="4" fill="#98c379"/>
+  <circle cx="88" cy="35" r="4" fill="#e06c75"/>
+  
+  <!-- Text -->
+  <text x="64" y="115" 
+        text-anchor="middle" 
+        fill="#d4d7dd" 
+        font-family="Arial, sans-serif" 
+        font-size="14" 
+        font-weight="bold">
+    VIBE
+  </text>
+</svg>

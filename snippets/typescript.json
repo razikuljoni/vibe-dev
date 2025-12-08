@@ -1,0 +1,150 @@
+{
+    "TypeScript Interface": {
+        "prefix": "tsi",
+        "body": [
+            "interface ${1:InterfaceName} {",
+            "  ${2:property}: ${3:type};",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a TypeScript interface"
+    },
+    "TypeScript Type Alias": {
+        "prefix": "tst",
+        "body": ["type ${1:TypeName} = ${2:type};"],
+        "description": "Create a TypeScript type alias"
+    },
+    "TypeScript Enum": {
+        "prefix": "tse",
+        "body": [
+            "enum ${1:EnumName} {",
+            "  ${2:VALUE1} = '${3:value1}',",
+            "  ${4:VALUE2} = '${5:value2}',",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a TypeScript enum"
+    },
+    "TypeScript Class": {
+        "prefix": "tsc",
+        "body": [
+            "class ${1:ClassName} {",
+            "  private ${2:property}: ${3:type};",
+            "",
+            "  constructor(${4:params}: ${5:type}) {",
+            "    this.${2:property} = ${4:params};",
+            "  }",
+            "",
+            "  public ${6:methodName}(): ${7:returnType} {",
+            "    $0",
+            "  }",
+            "}"
+        ],
+        "description": "Create a TypeScript class"
+    },
+    "TypeScript Generic Function": {
+        "prefix": "tsgf",
+        "body": [
+            "function ${1:functionName}<${2:T}>(${3:param}: ${2:T}): ${4:returnType} {",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a TypeScript generic function"
+    },
+    "TypeScript Generic Interface": {
+        "prefix": "tsgi",
+        "body": [
+            "interface ${1:InterfaceName}<${2:T}> {",
+            "  ${3:property}: ${2:T};",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a TypeScript generic interface"
+    },
+    "TypeScript Union Type": {
+        "prefix": "tsu",
+        "body": ["type ${1:TypeName} = ${2:Type1} | ${3:Type2}$0;"],
+        "description": "Create a TypeScript union type"
+    },
+    "TypeScript Intersection Type": {
+        "prefix": "tsit",
+        "body": ["type ${1:TypeName} = ${2:Type1} & ${3:Type2}$0;"],
+        "description": "Create a TypeScript intersection type"
+    },
+    "TypeScript Mapped Type": {
+        "prefix": "tsmt",
+        "body": [
+            "type ${1:TypeName}<${2:T}> = {",
+            "  [${3:K} in keyof ${2:T}]: ${4:type};",
+            "};"
+        ],
+        "description": "Create a TypeScript mapped type"
+    },
+    "TypeScript Conditional Type": {
+        "prefix": "tsct",
+        "body": [
+            "type ${1:TypeName}<${2:T}> = ${2:T} extends ${3:condition} ? ${4:trueType} : ${5:falseType};"
+        ],
+        "description": "Create a TypeScript conditional type"
+    },
+    "TypeScript Utility Type - Partial": {
+        "prefix": "tsp",
+        "body": ["Partial<${1:Type}>"],
+        "description": "TypeScript Partial utility type"
+    },
+    "TypeScript Utility Type - Required": {
+        "prefix": "tsr",
+        "body": ["Required<${1:Type}>"],
+        "description": "TypeScript Required utility type"
+    },
+    "TypeScript Utility Type - Pick": {
+        "prefix": "tspick",
+        "body": ["Pick<${1:Type}, '${2:key}'>"],
+        "description": "TypeScript Pick utility type"
+    },
+    "TypeScript Utility Type - Omit": {
+        "prefix": "tsomit",
+        "body": ["Omit<${1:Type}, '${2:key}'>"],
+        "description": "TypeScript Omit utility type"
+    },
+    "TypeScript Utility Type - Record": {
+        "prefix": "tsrec",
+        "body": ["Record<${1:keyType}, ${2:valueType}>"],
+        "description": "TypeScript Record utility type"
+    },
+    "TypeScript Module Declaration": {
+        "prefix": "tsmod",
+        "body": ["declare module '${1:moduleName}' {", "  $0", "}"],
+        "description": "Create a TypeScript module declaration"
+    },
+    "TypeScript Namespace": {
+        "prefix": "tsns",
+        "body": [
+            "namespace ${1:NamespaceName} {",
+            "  export ${2:interface} ${3:Name} {",
+            "    $0",
+            "  }",
+            "}"
+        ],
+        "description": "Create a TypeScript namespace"
+    },
+    "TypeScript Decorator": {
+        "prefix": "tsdec",
+        "body": [
+            "function ${1:decoratorName}(${2:target}: any, ${3:propertyKey}: string, ${4:descriptor}: PropertyDescriptor) {",
+            "  $0",
+            "}"
+        ],
+        "description": "Create a TypeScript decorator"
+    },
+    "TypeScript Assert": {
+        "prefix": "tsas",
+        "body": ["${1:value} as ${2:Type}"],
+        "description": "TypeScript type assertion"
+    },
+    "TypeScript Non-null Assertion": {
+        "prefix": "tsnn",
+        "body": ["${1:value}!"],
+        "description": "TypeScript non-null assertion"
+    }
+}

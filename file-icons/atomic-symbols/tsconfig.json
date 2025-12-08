@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "incremental": true,
+    "isolatedModules": true,
+    "lib": [
+      "es2023",
+      "dom"
+    ],
+    "module": "commonjs",
+    "moduleResolution": "Node",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": true,
+    "noImplicitOverride": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "outDir": "out",
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true,
+    "target": "es2020"
+  },
+  "ts-node": {
+    "require": [
+      "tsconfig-paths/register"
+    ]
+  },
+  "exclude": [
+    "iconGenerator/**/*"
+  ]
+}
