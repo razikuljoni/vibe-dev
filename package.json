@@ -1,212 +1,226 @@
 {
-  "name": "vibe-dev-tools",
-  "displayName": "Vibe Dev Tools - Complete Developer Suite",
-  "description": "A comprehensive VS Code extension suite with premium themes, file icons, folder icons, product icons, and productivity snippets for modern development",
-  "version": "1.0.0",
-  "publisher": "vibe-tools",
-  "author": {
-    "name": "Vibe Tools"
-  },
-  "license": "MIT",
-  "icon": "assets/icon.png",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/your-username/vibe-dev-tools"
-  },
-  "bugs": {
-    "url": "https://github.com/your-username/vibe-dev-tools/issues"
-  },
-  "homepage": "https://github.com/your-username/vibe-dev-tools#readme",
-  "galleryBanner": {
-    "color": "#1a1a2e",
-    "theme": "dark"
-  },
-  "engines": {
-    "vscode": "^1.74.0"
-  },
-  "categories": [
-    "Themes",
-    "Snippets",
-    "Other"
-  ],
-  "keywords": [
-    "theme",
-    "dark theme",
-    "color theme",
-    "file icons",
-    "folder icons",
-    "product icons",
-    "snippets",
-    "react",
-    "javascript",
-    "typescript",
-    "productivity",
-    "developer tools",
-    "vibe",
-    "continental",
-    "atom",
-    "github",
-    "ayu"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Vibe - Knightfall",
-        "uiTheme": "vs-dark",
-        "path": "./themes/knightfall.json"
-      },
-      {
-        "label": "Vibe - Midnight Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/midnight-dark.json"
-      },
-      {
-        "label": "Vibe - Abyssal Blue",
-        "uiTheme": "vs-dark",
-        "path": "./themes/abyssal-blue.json"
-      },
-      {
-        "label": "Vibe - Midnight Owl",
-        "uiTheme": "vs-dark",
-        "path": "./themes/midnight-owl.json"
-      },
-      {
-        "label": "Vibe - Atom One Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/atom-one-dark.json"
-      },
-      {
-        "label": "Vibe - Arctis",
-        "uiTheme": "vs-dark",
-        "path": "./themes/arctis.json"
-      },
-      {
-        "label": "Vibe - Arctics Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/arctics-dark.json"
-      },
-      {
-        "label": "Vibe - Ayu Dark Bordered",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ayu-dark-bordered.json"
-      },
-      {
-        "label": "Vibe - Ayu Mirage Bordered",
-        "uiTheme": "vs-dark",
-        "path": "./themes/ayu-mirage-bordered.json"
-      },
-      {
-        "label": "Vibe - GitHub Dimmed",
-        "uiTheme": "vs-dark",
-        "path": "./themes/github-dimmed.json"
-      },
-      {
-        "label": "Vibe - XCode Civik",
-        "uiTheme": "vs-dark",
-        "path": "./themes/x-code-civik.json"
-      }
-    ],
-    "iconThemes": [
-      {
-        "id": "atomic-product-icons",
-        "label": "Atomic Product Icons",
-        "path": "./file-icons/atomic-symbols/productIcons/a-file-icon-vscode-product-icon-theme.json"
-      },
-      {
-        "id": "vibe-file-icons",
-        "label": "Vibe File Icons",
-        "path": "./icons/vibe-file-icon-theme.json"
-      },
-      {
-        "id": "vscode-react-icons",
-        "label": "VSCode React Icons",
-        "path": "./file-icons/vscode-react-icons/symbol-icon-theme.json"
-      }
-    ],
-    "productIconThemes": [
-      {
-        "id": "atomic-product-icons",
-        "label": "Atomic Product Icons",
-        "path": "./file-icons/atomic-symbols/productIcons/a-file-icon-vscode-product-icon-theme.json"
-      }
-    ],
-    "snippets": [
-      {
-        "language": "javascript",
-        "path": "./snippets/javascript.json"
-      },
-      {
-        "language": "typescript",
-        "path": "./snippets/typescript.json"
-      },
-      {
-        "language": "javascriptreact",
-        "path": "./snippets/react.json"
-      },
-      {
-        "language": "typescriptreact",
-        "path": "./snippets/react.json"
-      }
-    ],
-    "commands": [
-      {
-        "command": "vibe.switchFileIcons",
-        "title": "Vibe: Activate File Icons",
-        "category": "Vibe Dev Tools"
-      },
-      {
-        "command": "vibe.switchProductIcons",
-        "title": "Vibe: Activate Product Icons",
-        "category": "Vibe Dev Tools"
-      },
-      {
-        "command": "vibe.chooseFileIcons",
-        "title": "Vibe: Choose File Icon Theme…",
-        "category": "Vibe Dev Tools"
-      },
-      {
-        "command": "vibe.chooseProductIcons",
-        "title": "Vibe: Choose Product Icon Theme…",
-        "category": "Vibe Dev Tools"
-      }
-    ],
-    "menus": {
-      "commandPalette": [
-        {
-          "command": "vibe.switchFileIcons",
-          "when": "true",
-          "group": "vibe@1"
-        },
-        {
-          "command": "vibe.switchProductIcons",
-          "when": "true",
-          "group": "vibe@1"
-        },
-        {
-          "command": "vibe.chooseFileIcons",
-          "when": "true",
-          "group": "vibe@2"
-        },
-        {
-          "command": "vibe.chooseProductIcons",
-          "when": "true",
-          "group": "vibe@2"
-        }
-      ]
-    }
-  },
-  "main": "./extension.js",
-  "activationEvents": [
-    "onStartupFinished"
-  ],
-  "scripts": {
-    "package": "vsce package",
-    "publish": "vsce publish",
-    "vscode:prepublish": "echo 'Building extension...'",
-    "prepackage": "echo 'Preparing package...'"
-  },
-  "devDependencies": {
-    "@vscode/vsce": "^2.32.0"
-  },
-  "packageManager": "pnpm@10.24.0+sha512.01ff8ae71b4419903b65c60fb2dc9d34cf8bb6e06d03bde112ef38f7a34d6904c424ba66bea5cdcf12890230bf39f9580473140ed9c946fef328b6e5238a345a"
+	"name": "vibe-dev-tools",
+	"displayName": "Vibe Dev Tools - Complete Developer Suite",
+	"description": "A comprehensive VS Code extension suite with premium themes, file icons, folder icons, product icons, and productivity snippets for modern development",
+	"version": "1.1.0",
+	"publisher": "vibe-tools",
+	"author": {
+		"name": "Vibe Tools"
+	},
+	"license": "MIT",
+	"icon": "assets/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/your-username/vibe-dev-tools"
+	},
+	"bugs": {
+		"url": "https://github.com/your-username/vibe-dev-tools/issues"
+	},
+	"homepage": "https://github.com/your-username/vibe-dev-tools#readme",
+	"galleryBanner": {
+		"color": "#1a1a2e",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"categories": [
+		"Themes",
+		"Snippets",
+		"Other"
+	],
+	"keywords": [
+		"theme",
+		"dark theme",
+		"color theme",
+		"file icons",
+		"folder icons",
+		"product icons",
+		"snippets",
+		"react",
+		"javascript",
+		"typescript",
+		"productivity",
+		"developer tools",
+		"vibe",
+		"continental",
+		"atom",
+		"github",
+		"ayu"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cursor Dark Midnight",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cursor-dark-midnight.json"
+			},
+			{
+				"label": "Vibe - Knightfall",
+				"uiTheme": "vs-dark",
+				"path": "./themes/knightfall.json"
+			},
+			{
+				"label": "Vibe - Midnight Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/midnight-dark.json"
+			},
+			{
+				"label": "Vibe - Abyssal Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/abyssal-blue.json"
+			},
+			{
+				"label": "Vibe - Midnight Owl",
+				"uiTheme": "vs-dark",
+				"path": "./themes/midnight-owl.json"
+			},
+			{
+				"label": "Vibe - Atom One Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/atom-one-dark.json"
+			},
+			{
+				"label": "Vibe - Arctis",
+				"uiTheme": "vs-dark",
+				"path": "./themes/arctis.json"
+			},
+			{
+				"label": "Vibe - Arctics Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/arctics-dark.json"
+			},
+			{
+				"label": "Vibe - Ayu Dark Bordered",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ayu-dark-bordered.json"
+			},
+			{
+				"label": "Vibe - Ayu Mirage Bordered",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ayu-mirage-bordered.json"
+			},
+			{
+				"label": "Vibe - GitHub Dimmed",
+				"uiTheme": "vs-dark",
+				"path": "./themes/github-dimmed.json"
+			},
+			{
+				"label": "Vibe - XCode Civik",
+				"uiTheme": "vs-dark",
+				"path": "./themes/x-code-civik.json"
+			}
+		],
+		"iconThemes": [
+			{
+				"id": "atomic-product-icons",
+				"label": "Atomic Product Icons",
+				"path": "./file-icons/atomic-symbols/productIcons/a-file-icon-vscode-product-icon-theme.json"
+			},
+			{
+				"id": "vibe-file-icons",
+				"label": "Vibe File Icons",
+				"path": "./icons/vibe-file-icon-theme.json"
+			},
+			{
+				"id": "vscode-react-icons",
+				"label": "VSCode React Icons",
+				"path": "./file-icons/vscode-react-icons/symbol-icon-theme.json"
+			}
+		],
+		"productIconThemes": [
+			{
+				"id": "atomic-product-icons",
+				"label": "Atomic Product Icons",
+				"path": "./file-icons/atomic-symbols/productIcons/a-file-icon-vscode-product-icon-theme.json"
+			}
+		],
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./snippets/javascript.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/typescript.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/react.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/react.json"
+			}
+		],
+		"commands": [
+			{
+				"command": "vibe.switchFileIcons",
+				"title": "Vibe: Activate File Icons",
+				"category": "Vibe Dev Tools"
+			},
+			{
+				"command": "vibe.switchProductIcons",
+				"title": "Vibe: Activate Product Icons",
+				"category": "Vibe Dev Tools"
+			},
+			{
+				"command": "vibe.chooseFileIcons",
+				"title": "Vibe: Choose File Icon Theme…",
+				"category": "Vibe Dev Tools"
+			},
+			{
+				"command": "vibe.chooseProductIcons",
+				"title": "Vibe: Choose Product Icon Theme…",
+				"category": "Vibe Dev Tools"
+			}
+		],
+		"menus": {
+			"commandPalette": [
+				{
+					"command": "vibe.switchFileIcons",
+					"when": "true",
+					"group": "vibe@1"
+				},
+				{
+					"command": "vibe.switchProductIcons",
+					"when": "true",
+					"group": "vibe@1"
+				},
+				{
+					"command": "vibe.chooseFileIcons",
+					"when": "true",
+					"group": "vibe@2"
+				},
+				{
+					"command": "vibe.chooseProductIcons",
+					"when": "true",
+					"group": "vibe@2"
+				}
+			]
+		}
+	},
+	"main": "./extension.js",
+	"activationEvents": [
+		"onStartupFinished"
+	],
+	"scripts": {
+		"package": "vsce package",
+		"publish": "vsce publish",
+		"vscode:prepublish": "echo 'Building extension...'",
+		"prepackage": "echo 'Preparing package...'",
+		"release": "standard-version",
+		"release:minor": "standard-version --release-as minor",
+		"release:major": "standard-version --release-as major",
+		"release:patch": "standard-version --release-as patch",
+		"release:alpha": "standard-version --prerelease alpha",
+		"release:beta": "standard-version --prerelease beta",
+		"postrelease": "vsce package",
+		"changelog": "standard-version --dry-run"
+	},
+	"devDependencies": {
+		"@vscode/vsce": "^2.32.0",
+		"standard-version": "^9.5.0"
+	},
+	"packageManager": "pnpm@10.27.0+sha512.72d699da16b1179c14ba9e64dc71c9a40988cbdc65c264cb0e489db7de917f20dcf4d64d8723625f2969ba52d4b7e2a1170682d9ac2a5dcaeaab732b7e16f04a"
 }

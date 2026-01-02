@@ -1,4 +1,13 @@
-# Change Log
+# Changelog
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+## 1.1.0 (2026-01-02)
+
+
+### Features
+
+* add new 'cursor-dark-midnight' theme added ([68647de](https://github.com/your-username/vibe-dev-tools/commit/68647ded9725c2bf466ff469e3d8b5ac6b02543e))
 
 ## [1.0.0] - 2024-12-06
 
