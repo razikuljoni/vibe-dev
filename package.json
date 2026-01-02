@@ -2,7 +2,7 @@
 	"name": "vibe-dev-tools",
 	"displayName": "Vibe Dev Tools - Complete Developer Suite",
 	"description": "A comprehensive VS Code extension suite with premium themes, file icons, folder icons, product icons, and productivity snippets for modern development",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"publisher": "vibe-tools",
 	"author": {
 		"name": "Vibe Tools"
