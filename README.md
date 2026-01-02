@@ -78,9 +78,54 @@ vibe-dev-tools/
 - VS Code version 1.74.0 or higher
 - Works with Cursor and other VS Code forks
 
+## Development
+
+### Release Automation
+
+This project uses automated release management with [standard-version](https://github.com/conventional-changelog/standard-version) for:
+- Automatic version bumping
+- CHANGELOG.md generation
+- Git tag creation
+- Extension packaging
+
+**Quick Start:**
+```bash
+# Install dependencies
+pnpm install
+
+# Create a release (auto-detects version bump)
+pnpm run release
+
+# Or specify version type
+pnpm run release:minor  # 1.0.0 → 1.1.0
+pnpm run release:major  # 1.0.0 → 2.0.0
+pnpm run release:patch  # 1.0.0 → 1.0.1
+```
+
+**Important:** Use [Conventional Commits](https://www.conventionalcommits.org/) for your commit messages:
+- `feat:` - New features
+- `fix:` - Bug fixes
+- `docs:` - Documentation changes
+- `chore:` - Maintenance tasks
+
+For detailed release instructions, see [RELEASE.md](./RELEASE.md).
+
+### Project Structure
+
+```
+vibe-dev-tools/
+├── assets/           # Extension icon and assets
+│   └── icon.png     # Extension icon (128x128px)
+├── themes/          # 11 premium color themes
+├── icons/            # File and folder icons
+├── snippets/         # Code snippets
+├── package.json      # Extension manifest
+├── CHANGELOG.md      # Auto-generated changelog
+└── RELEASE.md        # Release automation guide
+```
+
 ## License
 MIT
 
 ## Credits
 This extension combines and curates themes and icons from various open-source projects. See individual theme files for specific attributions.
-# vibe-dev
