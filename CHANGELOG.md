@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.2](https://github.com/your-username/vibe-dev-tools/compare/v1.1.1...v1.1.2) (2026-01-02)
+
+
+### Documentation
+
+* add auto release, tag, and publishing, add cursor themes docs before, and here docs ([88f333c](https://github.com/your-username/vibe-dev-tools/commit/88f333c8b9456741d5030959db0927d03adf775b))
+
 ### [1.1.1](https://github.com/your-username/vibe-dev-tools/compare/v1.1.0...v1.1.1) (2026-01-02)
 
 ## 1.1.0 (2026-01-02)
